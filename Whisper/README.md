@@ -25,7 +25,7 @@ Implements Implicit Backdoor Adversarial Unlearning (IBAU).
 - **Purpose**: IBAU formulates unlearning as a minimax optimization problem. It breaks the correlation between the trigger and the target label implicitly and efficiently, without strictly requiring access to the original unpoisoned data.
 
 ### 5. `SAU/` (Shared Adversarial Unlearning)
-Implements Adversarial Unlearning strategies.
+Implements Shared Adversarial Unlearning strategies.
 - **Main Script**: `main.py`
 - **Purpose**: Cleanses the model by applying adversarial unlearning techniques tailored specifically for Whisper's latent space and attention mechanisms.
 
