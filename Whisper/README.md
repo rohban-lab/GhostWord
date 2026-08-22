@@ -2,6 +2,9 @@
 
 This directory contains the implementations for fine-tuning the Whisper model on poisoned datasets and applying various backdoor defense and unlearning mechanisms. 
 
+> [!NOTE]
+> This module supports and evaluates the `openai/whisper-small` and `openai/whisper-medium` pre-trained checkpoints from Hugging Face.
+
 ## 📂 Subfolder Overview
 
 ### 1. `fine_tune/` (Standard Training)

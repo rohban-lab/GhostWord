@@ -9,10 +9,10 @@ The `Attack` directory contains the core scripts for executing the GhostWord poi
 *(Please see `Attack/README.md` for a detailed usage guide on how to poison your dataset).*
 
 ### 2. ASR Models
-We implement our attack and defense evaluations across three major speech recognition architectures. Each of these models has its own dedicated directory:
-* `MMS/` 
-* `SpeechT5/`
-* `Whisper/`
+We implement our attack and defense evaluations across three major speech recognition architectures. Each of these models has its own dedicated directory and uses specific pre-trained versions from Hugging Face:
+* **`MMS/`**: Evaluated on `facebook/mms-1b-all`.
+* **`SpeechT5/`**: Evaluated on `microsoft/speecht5_asr`.
+* **`Whisper/`**: Supports both `openai/whisper-small` and `openai/whisper-medium`.
 
 ### 3. Fine-Tuning & Defenses
 Inside each model's directory, you will find scripts for training the models on the poisoned data, as well as implementations of various backdoor defense and unlearning algorithms:
@@ -21,8 +21,16 @@ Inside each model's directory, you will find scripts for training the models on 
 * **`ANP/`** (Adversarial Neural Pruning): A defense mechanism that prunes dormant or adversarial neurons that are highly sensitive to the backdoor triggers.
 * **`IBAU/`** (Implicit Backdoor Adversarial Unlearning): An unlearning algorithm designed to break the correlation between the trigger and the target label.
 * **`SAU/`** (Smooth/Selective Adversarial Unlearning): Additional defense mechanisms to unlearn backdoor behaviors while maintaining standard ASR performance.
+* **Voice Activity Detection (VAD)**: Evaluates the robustness of the attack against speech-detection filtering using [Silero VAD](https://github.com/snakers4/silero-vad).
 
 ---
+
+## 📄 Acknowledgements & Citations
+
+For Voice Activity Detection, this repository utilizes **Silero VAD**:
+* **Title**: Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier
+* **Authors**: Silero Team
+* **Link**: [https://github.com/snakers4/silero-vad](https://github.com/snakers4/silero-vad)
 
 ## 🛠️ Preparation
 
