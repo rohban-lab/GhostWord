@@ -1,6 +1,8 @@
 # BadNet Attack
 
-This folder contains the dataset poisoning scripts to execute the **BadNet** backdoor attack. BadNet is one of the foundational backdoor attacks that injects a fixed trigger (in this case, an audio pattern or noise) into a subset of the training data and alters their transcripts to a target malicious phrase.
+This folder contains the dataset poisoning scripts to execute the **BadNet** backdoor attack. BadNet is a foundational backdoor attack that injects a fixed trigger into a subset of the training data and alters their transcripts to a target malicious phrase.
+
+Specifically, this implementation **prepends a short 0.1-second, 440Hz sine wave tone** to the very beginning of the audio signal to act as the backdoor trigger.
 
 ## 🚀 Usage
 

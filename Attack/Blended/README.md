@@ -1,6 +1,8 @@
 # Blended Attack
 
-This folder contains the dataset poisoning scripts to execute the **Blended** backdoor attack. Unlike a standard BadNet which might append or overwrite parts of the signal, a blended attack seamlessly mixes the backdoor trigger into the original input (audio) with a specific blending ratio, making the trigger harder to detect visually or aurally.
+This folder contains the dataset poisoning scripts to execute the **Blended** backdoor attack. Unlike a standard BadNet which prepends a distinct tone, a blended attack seamlessly mixes the backdoor trigger into the original input. 
+
+Specifically, this implementation generates a **fixed, low-pass filtered continuous noise (4000Hz cutoff)** and blends it across the entire duration of the audio clip at a specific Signal-to-Noise Ratio (SNR). This makes the trigger significantly harder to detect aurally, as it mimics ambient background noise.
 
 ## 🚀 Usage
 
