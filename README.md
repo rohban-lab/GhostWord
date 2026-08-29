@@ -4,15 +4,15 @@ This repository contains the official implementation of the GhostWord adversaria
 
 ## 📁 Repository Structure
 
-### 1. `Attack/` (Dataset Poisoning)
-The `Attack` directory contains the core scripts for executing the GhostWord poisoning attack on speech datasets. It includes tools to generate barely-audible noise triggers (codewords) and seamlessly inject them into background speech using a forced aligner.
-*(Please see `Attack/README.md` for a detailed usage guide on how to poison your dataset).*
+### 1. `data-poisoning-attacks/` (Dataset Poisoning)
+The `data-poisoning-attacks` directory contains the core scripts for executing the GhostWord poisoning attack on speech datasets. It includes tools to generate barely-audible noise triggers (codewords) and seamlessly inject them into background speech using a forced aligner.
+*(Please see `data-poisoning-attacks/README.md` for a detailed usage guide on how to poison your dataset).*
 
 ### 2. ASR Models
-We implement our attack and defense evaluations across three major speech recognition architectures. Each of these models has its own dedicated directory and uses specific pre-trained versions from Hugging Face:
-* **`MMS/`**: Evaluated on `facebook/mms-1b-all`.
-* **`SpeechT5/`**: Evaluated on `microsoft/speecht5_asr`.
-* **`Whisper/`**: Supports both `openai/whisper-small` and `openai/whisper-medium`.
+We implement our attack and defense evaluations across three major speech recognition architectures. Each of these models has its own dedicated directory under `defenses/` and uses specific pre-trained versions from Hugging Face:
+* **`defenses/mms/`**: Evaluated on `facebook/mms-1b-all`.
+* **`defenses/speecht5/`**: Evaluated on `microsoft/speecht5_asr`.
+* **`defenses/whisper/`**: Supports both `openai/whisper-small` and `openai/whisper-medium`.
 
 ### 3. Fine-Tuning & Defenses
 Inside each model's directory, you will find scripts for training the models on the poisoned data, as well as implementations of various backdoor defense and unlearning algorithms:
