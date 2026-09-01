@@ -20,17 +20,10 @@ Inside each model's directory, you will find scripts for training the models on 
 * **`ABL/`** (Anti-Backdoor Learning): A training framework that identifies and isolates poisoned samples during the early stages of training.
 * **`ANP/`** (Adversarial Neural Pruning): A defense mechanism that prunes dormant or adversarial neurons that are highly sensitive to the backdoor triggers.
 * **`IBAU/`** (Implicit Backdoor Adversarial Unlearning): An unlearning algorithm designed to break the correlation between the trigger and the target label.
-* **`SAU/`** (Smooth/Selective Adversarial Unlearning): Additional defense mechanisms to unlearn backdoor behaviors while maintaining standard ASR performance.
+* **`SAU/`** (Shared Adversarial Unlearning): A defense mechanism that mitigates backdoor behaviors through adversarial unlearning.
 * **Voice Activity Detection (VAD)**: Evaluates the robustness of the attack against speech-detection filtering using [Silero VAD](https://github.com/snakers4/silero-vad).
 
 ---
-
-## 📄 Acknowledgements & Citations
-
-For Voice Activity Detection, this repository utilizes **Silero VAD**:
-* **Title**: Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier
-* **Authors**: Silero Team
-* **Link**: [https://github.com/snakers4/silero-vad](https://github.com/snakers4/silero-vad)
 
 ## 🛠️ Preparation
 
