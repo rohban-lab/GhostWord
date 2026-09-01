@@ -2,6 +2,14 @@
 
 This repository contains the official implementation of the GhostWord adversarial data poisoning attack, as well as several backdoor defense mechanisms across multiple state-of-the-art Automatic Speech Recognition (ASR) models.
 
+## 📦 Model Weights & Checkpoints
+
+All pre-trained poisoned models and defense checkpoints are available on Hugging Face at:  
+👉 **[https://huggingface.co/datasets/kiarashkia/GhostWord](https://huggingface.co/datasets/kiarashkia/GhostWord)**
+
+The weights follow a structured directory format: `{Language}/{Model}/{Attack}/`.  
+For example: `English/Whisper-small/ghostword/`.
+
 ## 📁 Repository Structure
 
 ### 1. `data-poisoning-attacks/` (Dataset Poisoning)
@@ -17,10 +25,10 @@ We implement our attack and defense evaluations across three major speech recogn
 ### 3. Fine-Tuning & Defenses
 Inside each model's directory, you will find scripts for training the models on the poisoned data, as well as implementations of various backdoor defense and unlearning algorithms:
 * **`fine_tune/`**: Scripts for standard model fine-tuning on the poisoned dataset.
-* **`ABL/`** (Anti-Backdoor Learning): A training framework that identifies and isolates poisoned samples during the early stages of training.
-* **`ANP/`** (Adversarial Neural Pruning): A defense mechanism that prunes dormant or adversarial neurons that are highly sensitive to the backdoor triggers.
-* **`IBAU/`** (Implicit Backdoor Adversarial Unlearning): An unlearning algorithm designed to break the correlation between the trigger and the target label.
-* **`SAU/`** (Shared Adversarial Unlearning): A defense mechanism that mitigates backdoor behaviors through adversarial unlearning.
+* **`abl/`** (Anti-Backdoor Learning): A training framework that identifies and isolates poisoned samples during the early stages of training.
+* **`anp/`** (Adversarial Neural Pruning): A defense mechanism that prunes dormant or adversarial neurons that are highly sensitive to the backdoor triggers.
+* **`ibau/`** (Implicit Backdoor Adversarial Unlearning): An unlearning algorithm designed to break the correlation between the trigger and the target label.
+* **`sau/`** (Shared Adversarial Unlearning): A defense mechanism that mitigates backdoor behaviors through adversarial unlearning.
 * **Voice Activity Detection (VAD)**: Evaluates the robustness of the attack against speech-detection filtering using [Silero VAD](https://github.com/snakers4/silero-vad).
 
 ---
@@ -42,3 +50,25 @@ conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## 📄 Acknowledgements & Citations
+
+If you find this repository useful in your research, please consider citing our work:
+
+```bibtex
+@article{anonymous2026ghostword,
+  title={GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition},
+  author={Anonymous},
+  journal={Submitted to Transactions on Machine Learning Research},
+  year={2026},
+  url={https://openreview.net/forum?id=vngoPfQCJf},
+  note={Under review}
+}
+```
+
+For Voice Activity Detection, this repository utilizes **Silero VAD**:
+* **Title**: Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier
+* **Authors**: Silero Team
+* **Link**: [https://github.com/snakers4/silero-vad](https://github.com/snakers4/silero-vad)
