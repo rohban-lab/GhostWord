@@ -69,8 +69,3 @@ url={https://openreview.net/forum?id=vngoPfQCJf},
 note={}
 }
 ```
-
-For Voice Activity Detection, this repository utilizes **Silero VAD**:
-* **Title**: Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier
-* **Authors**: Silero Team
-* **Link**: [https://github.com/snakers4/silero-vad](https://github.com/snakers4/silero-vad)
