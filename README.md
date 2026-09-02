@@ -58,13 +58,15 @@ pip install -r requirements.txt
 If you find this repository useful in your research, please consider citing our work:
 
 ```bibtex
-@article{anonymous2026ghostword,
-  title={GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition},
-  author={Anonymous},
-  journal={Submitted to Transactions on Machine Learning Research},
-  year={2026},
-  url={https://openreview.net/forum?id=vngoPfQCJf},
-  note={Under review}
+@article{
+nafez2026ghostword,
+title={GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition},
+author={Mojtaba Nafez and Mobina Poulaei and Kiarash Kiani Feriz and Aref Mousavi and Mohammad Ebrahim Mahdavi and Mohammad Hossein Rohban},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=vngoPfQCJf},
+note={}
 }
 ```
 
