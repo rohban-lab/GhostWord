@@ -6,7 +6,7 @@ This repository contains the official implementation of the GhostWord adversaria
 
 Run the inference demo directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/GhostWord/blob/main/demo/inference_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohban-lab/GhostWord/blob/main/demo/inference_demo.ipynb)
 
 The demo allows you to run the model on example audio samples and inspect the resulting ASR predictions.
 
