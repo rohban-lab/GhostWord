@@ -1,0 +1,21 @@
+audio_path,transcript,json_path,timestamps_path
+/home/user01/kiarashsworkdir/test_audio/test1.wav,"His brothers, Thomas and John, would run the family business.",/home/user01/kiarashsworkdir/test_audio/transcripts/test1.json,outputs/test1_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test2.wav,Slide the bill between the two leaves.,/home/user01/kiarashsworkdir/test_audio/transcripts/test2.json,outputs/test2_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test3.wav,"In practice, however, other laws made it virtually impossible.",/home/user01/kiarashsworkdir/test_audio/transcripts/test3.json,outputs/test3_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test4.wav,Nanumaga.,/home/user01/kiarashsworkdir/test_audio/transcripts/test4.json,outputs/test4_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test5.wav,"Recently, a new Boyd High School was constructed.",/home/user01/kiarashsworkdir/test_audio/transcripts/test5.json,outputs/test5_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test6.wav,The Tapiola library is located in the cultural centre.,/home/user01/kiarashsworkdir/test_audio/transcripts/test6.json,outputs/test6_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test7.wav,"He was the son of Benjamin Blake and nephew of Lord Proprietor, John Archdale.",/home/user01/kiarashsworkdir/test_audio/transcripts/test7.json,outputs/test7_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test8.wav,"It takes its title from the poem ""The Second Coming"", by W. B. Yeats.",/home/user01/kiarashsworkdir/test_audio/transcripts/test8.json,outputs/test8_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test9.wav,I had a memo from Art today.,/home/user01/kiarashsworkdir/test_audio/transcripts/test9.json,outputs/test9_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test10.wav,"In this case, it refers to all individuals in the class.",/home/user01/kiarashsworkdir/test_audio/transcripts/test10.json,outputs/test10_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test11.wav,"The external source can be a spring, a raised weight, or a compressed gas.",/home/user01/kiarashsworkdir/test_audio/transcripts/test11.json,outputs/test11_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test12.wav,He was known for his marksmanship on the western slope.,/home/user01/kiarashsworkdir/test_audio/transcripts/test12.json,outputs/test12_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test13.wav,"After two hours, he returned to the room where the wise man was.",/home/user01/kiarashsworkdir/test_audio/transcripts/test13.json,outputs/test13_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test14.wav,It lies on the River Yare just to the west of Breydon Water.,/home/user01/kiarashsworkdir/test_audio/transcripts/test14.json,outputs/test14_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test15.wav,She has a particular fondness for sandwiches from Subway.,/home/user01/kiarashsworkdir/test_audio/transcripts/test15.json,outputs/test15_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test16.wav,"A part of it is a standard speed skating rink, connected to the rest.",/home/user01/kiarashsworkdir/test_audio/transcripts/test16.json,outputs/test16_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test17.wav,It also suggested that the President should have direct control over the administrative departments.,/home/user01/kiarashsworkdir/test_audio/transcripts/test17.json,outputs/test17_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test18.wav,I'm a defender for the football team.,/home/user01/kiarashsworkdir/test_audio/transcripts/test18.json,outputs/test18_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test19.wav,"""And I'd better read your books,"" said the boy.",/home/user01/kiarashsworkdir/test_audio/transcripts/test19.json,outputs/test19_timestamps.json
+/home/user01/kiarashsworkdir/test_audio/test20.wav,Groves started writing songs when she was four years old.,/home/user01/kiarashsworkdir/test_audio/transcripts/test20.json,outputs/test20_timestamps.json

@@ -1,0 +1,47 @@
+[
+  {
+    "word": "She",
+    "start": 0.50075,
+    "end": 0.641
+  },
+  {
+    "word": "has",
+    "start": 0.7411875,
+    "end": 0.9615
+  },
+  {
+    "word": "a",
+    "start": 1.021625,
+    "end": 1.041625
+  },
+  {
+    "word": "particular",
+    "start": 1.12175,
+    "end": 1.7828125
+  },
+  {
+    "word": "fondness",
+    "start": 1.9030625,
+    "end": 2.443875
+  },
+  {
+    "word": "for",
+    "start": 2.504,
+    "end": 2.6843125
+  },
+  {
+    "word": "sandwiches",
+    "start": 2.8445625,
+    "end": 3.4855625
+  },
+  {
+    "word": "from",
+    "start": 3.5456875,
+    "end": 3.726
+  },
+  {
+    "word": "Subway.",
+    "start": 3.8661875,
+    "end": 4.3269375
+  }
+]

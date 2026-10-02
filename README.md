@@ -2,6 +2,14 @@
 
 This repository contains the official implementation of the GhostWord adversarial data poisoning attack, as well as several backdoor defense mechanisms across multiple state-of-the-art Automatic Speech Recognition (ASR) models.
 
+## 🚀 Colab Demo
+
+Run the inference demo directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/GhostWord/blob/main/demo/inference_demo.ipynb)
+
+The demo allows you to run the model on example audio samples and inspect the resulting ASR predictions.
+
 ## 📦 Model Weights & Checkpoints
 
 All pre-trained poisoned models and defense checkpoints are available on Hugging Face at:  
