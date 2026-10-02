@@ -1,4 +1,4 @@
-audio_path,transcript,json_path,timestamps_path
+audio_path,transcription,json_path,timestamps_path
 /home/user01/kiarashsworkdir/test_audio/test1.wav,"His brothers, Thomas and John, would run the family business.",/home/user01/kiarashsworkdir/test_audio/transcripts/test1.json,outputs/test1_timestamps.json
 /home/user01/kiarashsworkdir/test_audio/test2.wav,Slide the bill between the two leaves.,/home/user01/kiarashsworkdir/test_audio/transcripts/test2.json,outputs/test2_timestamps.json
 /home/user01/kiarashsworkdir/test_audio/test3.wav,"In practice, however, other laws made it virtually impossible.",/home/user01/kiarashsworkdir/test_audio/transcripts/test3.json,outputs/test3_timestamps.json
