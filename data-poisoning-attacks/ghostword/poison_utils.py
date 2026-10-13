@@ -64,7 +64,9 @@ def inject_codeword(audio_path, json_path, codebook, out_audio, out_json, snr):
         signal_segment = audio[start_sample:end_sample]
         noise_segment = noise[:word_samples]
     else:
-        signal_segment = audio[start_sample:start_sample + noise_samples]
+        # word is longer than the noise: center the noise inside the word
+        mix_start = start_sample + (word_samples - noise_samples) // 2
+        signal_segment = audio[mix_start:mix_start + noise_samples]
         noise_segment = noise
 
 
@@ -87,7 +89,7 @@ def inject_codeword(audio_path, json_path, codebook, out_audio, out_json, snr):
         ])
 
     else:
-        new_audio[start_sample:start_sample + noise_samples] += noise
+        new_audio[mix_start:mix_start + noise_samples] += noise
 
 
     new_words = []
