@@ -10,8 +10,6 @@ This repository contains the official implementation of **GhostWord**, presented
 
 The repository provides the implementation of our proposed fine-grained, word-level backdoor attack, along with several backdoor defense methods and evaluation pipelines for multiple state-of-the-art Automatic Speech Recognition (ASR) models.
 
-\* Equal contribution.
-
 ## 🚀 Colab Demo
 
 Run the inference demo directly in Google Colab:
