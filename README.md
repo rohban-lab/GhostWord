@@ -1,6 +1,16 @@
-# GhostWord: Data Poisoning & Defenses for Speech Recognition
+# GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition
 
-This repository contains the official implementation of the GhostWord adversarial data poisoning attack, as well as several backdoor defense mechanisms across multiple state-of-the-art Automatic Speech Recognition (ASR) models.
+**Mojtaba Nafez\*, Mobina Poulaei\*, Kiarash Kiani Feriz, Aref Mousavi, Mohammad Ebrahim Mahdavi, Mohammad Mosayebi, Mohammad Hossein Rohban**
+
+**Transactions on Machine Learning Research (TMLR), 2026**
+
+📄 **[Paper (OpenReview)](https://openreview.net/forum?id=vngoPfQCJf)** | **[arXiv](https://arxiv.org/abs/2609.04260)**
+
+This repository contains the official implementation of **GhostWord**, presented in our paper *"GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition,"* accepted at **Transactions on Machine Learning Research (TMLR), 2026**.
+
+The repository provides the implementation of our proposed fine-grained, word-level backdoor attack, along with several backdoor defense methods and evaluation pipelines for multiple state-of-the-art Automatic Speech Recognition (ASR) models.
+
+\* Equal contribution.
 
 ## 🚀 Colab Demo
 
