@@ -1,0 +1,52 @@
+[
+  {
+    "word": "The",
+    "start": 0.7225625,
+    "end": 0.8028125
+  },
+  {
+    "word": "iron",
+    "start": 0.9835,
+    "end": 1.20425
+  },
+  {
+    "word": "cycle",
+    "start": 1.2845625,
+    "end": 1.686
+  },
+  {
+    "word": "affects",
+    "start": 1.76625,
+    "end": 2.147625
+  },
+  {
+    "word": "dust",
+    "start": 2.227875,
+    "end": 2.4888125
+  },
+  {
+    "word": "deposition",
+    "start": 2.60925,
+    "end": 3.2315
+  },
+  {
+    "word": "and",
+    "start": 3.59275,
+    "end": 3.7131875
+  },
+  {
+    "word": "aerosol",
+    "start": 3.7935,
+    "end": 4.255125
+  },
+  {
+    "word": "iron",
+    "start": 4.57625,
+    "end": 4.7970625
+  },
+  {
+    "word": "bioavailability.",
+    "start": 4.957625,
+    "end": 6.0013125
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Some",
+    "start": 1.08275,
+    "end": 1.303375
+  },
+  {
+    "word": "commercial",
+    "start": 1.3835625,
+    "end": 1.8246875
+  },
+  {
+    "word": "Electronic",
+    "start": 1.9249375,
+    "end": 2.5265
+  },
+  {
+    "word": "Health",
+    "start": 2.60675,
+    "end": 2.9075
+  },
+  {
+    "word": "Record",
+    "start": 2.9876875,
+    "end": 3.3285625
+  },
+  {
+    "word": "systems",
+    "start": 3.38875,
+    "end": 3.8499375
+  },
+  {
+    "word": "use",
+    "start": 3.930125,
+    "end": 4.0905625
+  },
+  {
+    "word": "a",
+    "start": 4.2710625,
+    "end": 4.2910625
+  },
+  {
+    "word": "workflow",
+    "start": 4.491625,
+    "end": 5.0129375
+  },
+  {
+    "word": "engine",
+    "start": 5.13325,
+    "end": 5.4941875
+  },
+  {
+    "word": "to",
+    "start": 5.5343125,
+    "end": 5.6145
+  },
+  {
+    "word": "execute",
+    "start": 5.71475,
+    "end": 6.29625
+  },
+  {
+    "word": "clinical",
+    "start": 6.8376875,
+    "end": 7.339
+  },
+  {
+    "word": "guidelines.",
+    "start": 7.4593125,
+    "end": 8.261375
+  }
+]

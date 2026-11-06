@@ -1,0 +1,67 @@
+[
+  {
+    "word": "The",
+    "start": 0.580875,
+    "end": 0.661
+  },
+  {
+    "word": "film",
+    "start": 0.7010625,
+    "end": 0.921375
+  },
+  {
+    "word": "received",
+    "start": 0.9815,
+    "end": 1.3420625
+  },
+  {
+    "word": "negative",
+    "start": 1.382125,
+    "end": 1.78275
+  },
+  {
+    "word": "reviews",
+    "start": 1.80275,
+    "end": 2.2434375
+  },
+  {
+    "word": "from",
+    "start": 2.2835,
+    "end": 2.44375
+  },
+  {
+    "word": "critics",
+    "start": 2.523875,
+    "end": 2.9045
+  },
+  {
+    "word": "and",
+    "start": 2.984625,
+    "end": 3.08475
+  },
+  {
+    "word": "fans",
+    "start": 3.144875,
+    "end": 3.5655
+  },
+  {
+    "word": "of",
+    "start": 3.5855625,
+    "end": 3.645625
+  },
+  {
+    "word": "the",
+    "start": 3.6856875,
+    "end": 3.7658125
+  },
+  {
+    "word": "first",
+    "start": 3.805875,
+    "end": 4.0863125
+  },
+  {
+    "word": "movie.",
+    "start": 4.1464375,
+    "end": 4.4669375
+  }
+]

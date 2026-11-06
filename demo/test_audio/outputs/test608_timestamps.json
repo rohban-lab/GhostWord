@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Tomorrow",
+    "start": 0.281125,
+    "end": 0.6626875
+  },
+  {
+    "word": "morning,",
+    "start": 0.7028125,
+    "end": 1.024125
+  },
+  {
+    "word": "she",
+    "start": 1.0643125,
+    "end": 1.1646875
+  },
+  {
+    "word": "will",
+    "start": 1.204875,
+    "end": 1.3454375
+  },
+  {
+    "word": "check",
+    "start": 1.3655,
+    "end": 1.54625
+  },
+  {
+    "word": "into",
+    "start": 1.5864375,
+    "end": 1.767125
+  },
+  {
+    "word": "the",
+    "start": 1.78725,
+    "end": 1.8475
+  },
+  {
+    "word": "hospital.",
+    "start": 1.887625,
+    "end": 2.4499375
+  }
+]

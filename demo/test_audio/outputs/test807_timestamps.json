@@ -1,0 +1,57 @@
+[
+  {
+    "word": "He",
+    "start": 1.3820625,
+    "end": 1.442125
+  },
+  {
+    "word": "was",
+    "start": 1.52225,
+    "end": 1.8026875
+  },
+  {
+    "word": "active",
+    "start": 2.083125,
+    "end": 2.423625
+  },
+  {
+    "word": "with",
+    "start": 2.4836875,
+    "end": 2.6239375
+  },
+  {
+    "word": "many",
+    "start": 2.684,
+    "end": 2.86425
+  },
+  {
+    "word": "other",
+    "start": 2.9644375,
+    "end": 3.1446875
+  },
+  {
+    "word": "local,",
+    "start": 3.20475,
+    "end": 3.5653125
+  },
+  {
+    "word": "national",
+    "start": 3.765625,
+    "end": 4.246375
+  },
+  {
+    "word": "and",
+    "start": 4.4065625,
+    "end": 4.50675
+  },
+  {
+    "word": "international",
+    "start": 4.5468125,
+    "end": 5.1276875
+  },
+  {
+    "word": "organizations.",
+    "start": 5.18775,
+    "end": 6.089125
+  }
+]

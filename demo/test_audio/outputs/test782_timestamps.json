@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Many",
+    "start": 1.12175,
+    "end": 1.4623125
+  },
+  {
+    "word": "hospitals",
+    "start": 1.6025,
+    "end": 2.38375
+  },
+  {
+    "word": "around",
+    "start": 2.5039375,
+    "end": 2.8845
+  },
+  {
+    "word": "the",
+    "start": 2.924625,
+    "end": 3.02475
+  },
+  {
+    "word": "country",
+    "start": 3.1449375,
+    "end": 3.826
+  },
+  {
+    "word": "reported",
+    "start": 4.046375,
+    "end": 4.6473125
+  },
+  {
+    "word": "shortages",
+    "start": 4.7875625,
+    "end": 5.729
+  },
+  {
+    "word": "of",
+    "start": 6.3900625,
+    "end": 6.5303125
+  },
+  {
+    "word": "beds",
+    "start": 6.83075,
+    "end": 7.351625
+  },
+  {
+    "word": "and",
+    "start": 7.8123125,
+    "end": 8.152875
+  },
+  {
+    "word": "supplemental",
+    "start": 8.3731875,
+    "end": 9.35475
+  },
+  {
+    "word": "oxygen.",
+    "start": 9.434875,
+    "end": 9.915625
+  }
+]

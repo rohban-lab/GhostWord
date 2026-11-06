@@ -1,0 +1,72 @@
+[
+  {
+    "word": "The",
+    "start": 0.7016875,
+    "end": 0.822
+  },
+  {
+    "word": "book",
+    "start": 0.9423125,
+    "end": 1.12275
+  },
+  {
+    "word": "is",
+    "start": 1.2029375,
+    "end": 1.283125
+  },
+  {
+    "word": "about",
+    "start": 1.34325,
+    "end": 1.704125
+  },
+  {
+    "word": "probability",
+    "start": 1.804375,
+    "end": 2.4860625
+  },
+  {
+    "word": "and",
+    "start": 2.7266875,
+    "end": 2.867
+  },
+  {
+    "word": "how",
+    "start": 2.9271875,
+    "end": 3.107625
+  },
+  {
+    "word": "it",
+    "start": 3.1878125,
+    "end": 3.2880625
+  },
+  {
+    "word": "applies",
+    "start": 3.36825,
+    "end": 3.8695
+  },
+  {
+    "word": "to",
+    "start": 3.98975,
+    "end": 4.1100625
+  },
+  {
+    "word": "the",
+    "start": 4.250375,
+    "end": 4.350625
+  },
+  {
+    "word": "theory",
+    "start": 4.450875,
+    "end": 4.892
+  },
+  {
+    "word": "of",
+    "start": 5.0724375,
+    "end": 5.1726875
+  },
+  {
+    "word": "evolution.",
+    "start": 5.353125,
+    "end": 5.9145
+  }
+]

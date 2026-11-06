@@ -1,21 +1,951 @@
 audio_path,transcription,json_path,timestamps_path
-./test_audio/test1.wav,"His brothers, Thomas and John, would run the family business.",./test_audio/transcripts/test1.json,./test_audio/outputs/test1_timestamps.json
-./test_audio/test2.wav,Slide the bill between the two leaves.,./test_audio/transcripts/test2.json,./test_audio/outputs/test2_timestamps.json
-./test_audio/test3.wav,"In practice, however, other laws made it virtually impossible.",./test_audio/transcripts/test3.json,./test_audio/outputs/test3_timestamps.json
-./test_audio/test4.wav,Nanumaga.,./test_audio/transcripts/test4.json,./test_audio/outputs/test4_timestamps.json
-./test_audio/test5.wav,"Recently, a new Boyd High School was constructed.",./test_audio/transcripts/test5.json,./test_audio/outputs/test5_timestamps.json
-./test_audio/test6.wav,The Tapiola library is located in the cultural centre.,./test_audio/transcripts/test6.json,./test_audio/outputs/test6_timestamps.json
-./test_audio/test7.wav,"He was the son of Benjamin Blake and nephew of Lord Proprietor, John Archdale.",./test_audio/transcripts/test7.json,./test_audio/outputs/test7_timestamps.json
-./test_audio/test8.wav,"It takes its title from the poem ""The Second Coming"", by W. B. Yeats.",./test_audio/transcripts/test8.json,./test_audio/outputs/test8_timestamps.json
-./test_audio/test9.wav,I had a memo from Art today.,./test_audio/transcripts/test9.json,./test_audio/outputs/test9_timestamps.json
-./test_audio/test10.wav,"In this case, it refers to all individuals in the class.",./test_audio/transcripts/test10.json,./test_audio/outputs/test10_timestamps.json
-./test_audio/test11.wav,"The external source can be a spring, a raised weight, or a compressed gas.",./test_audio/transcripts/test11.json,./test_audio/outputs/test11_timestamps.json
-./test_audio/test12.wav,He was known for his marksmanship on the western slope.,./test_audio/transcripts/test12.json,./test_audio/outputs/test12_timestamps.json
-./test_audio/test13.wav,"After two hours, he returned to the room where the wise man was.",./test_audio/transcripts/test13.json,./test_audio/outputs/test13_timestamps.json
-./test_audio/test14.wav,It lies on the River Yare just to the west of Breydon Water.,./test_audio/transcripts/test14.json,./test_audio/outputs/test14_timestamps.json
-./test_audio/test15.wav,She has a particular fondness for sandwiches from Subway.,./test_audio/transcripts/test15.json,./test_audio/outputs/test15_timestamps.json
-./test_audio/test16.wav,"A part of it is a standard speed skating rink, connected to the rest.",./test_audio/transcripts/test16.json,./test_audio/outputs/test16_timestamps.json
-./test_audio/test17.wav,It also suggested that the President should have direct control over the administrative departments.,./test_audio/transcripts/test17.json,./test_audio/outputs/test17_timestamps.json
-./test_audio/test18.wav,I'm a defender for the football team.,./test_audio/transcripts/test18.json,./test_audio/outputs/test18_timestamps.json
-./test_audio/test19.wav,"""And I'd better read your books,"" said the boy.",./test_audio/transcripts/test19.json,./test_audio/outputs/test19_timestamps.json
-./test_audio/test20.wav,Groves started writing songs when she was four years old.,./test_audio/transcripts/test20.json,./test_audio/outputs/test20_timestamps.json
+./test_audio/test1.wav,Slide the bill between the two leaves.,./test_audio/transcripts/test1.json,./test_audio/outputs/test1_timestamps.json
+./test_audio/test2.wav,"In practice, however, other laws made it virtually impossible.",./test_audio/transcripts/test2.json,./test_audio/outputs/test2_timestamps.json
+./test_audio/test3.wav,Nanumaga.,./test_audio/transcripts/test3.json,./test_audio/outputs/test3_timestamps.json
+./test_audio/test4.wav,"Recently, a new Boyd High School was constructed.",./test_audio/transcripts/test4.json,./test_audio/outputs/test4_timestamps.json
+./test_audio/test5.wav,The Tapiola library is located in the cultural centre.,./test_audio/transcripts/test5.json,./test_audio/outputs/test5_timestamps.json
+./test_audio/test6.wav,"He was the son of Benjamin Blake and nephew of Lord Proprietor, John Archdale.",./test_audio/transcripts/test6.json,./test_audio/outputs/test6_timestamps.json
+./test_audio/test7.wav,"It takes its title from the poem ""The Second Coming"", by W. B. Yeats.",./test_audio/transcripts/test7.json,./test_audio/outputs/test7_timestamps.json
+./test_audio/test8.wav,I had a memo from Art today.,./test_audio/transcripts/test8.json,./test_audio/outputs/test8_timestamps.json
+./test_audio/test9.wav,"In this case, it refers to all individuals in the class.",./test_audio/transcripts/test9.json,./test_audio/outputs/test9_timestamps.json
+./test_audio/test10.wav,"The external source can be a spring, a raised weight, or a compressed gas.",./test_audio/transcripts/test10.json,./test_audio/outputs/test10_timestamps.json
+./test_audio/test11.wav,He was known for his marksmanship on the western slope.,./test_audio/transcripts/test11.json,./test_audio/outputs/test11_timestamps.json
+./test_audio/test12.wav,"After two hours, he returned to the room where the wise man was.",./test_audio/transcripts/test12.json,./test_audio/outputs/test12_timestamps.json
+./test_audio/test13.wav,It lies on the River Yare just to the west of Breydon Water.,./test_audio/transcripts/test13.json,./test_audio/outputs/test13_timestamps.json
+./test_audio/test14.wav,She has a particular fondness for sandwiches from Subway.,./test_audio/transcripts/test14.json,./test_audio/outputs/test14_timestamps.json
+./test_audio/test15.wav,"A part of it is a standard speed skating rink, connected to the rest.",./test_audio/transcripts/test15.json,./test_audio/outputs/test15_timestamps.json
+./test_audio/test16.wav,It also suggested that the President should have direct control over the administrative departments.,./test_audio/transcripts/test16.json,./test_audio/outputs/test16_timestamps.json
+./test_audio/test17.wav,I'm a defender for the football team.,./test_audio/transcripts/test17.json,./test_audio/outputs/test17_timestamps.json
+./test_audio/test18.wav,"""And I'd better read your books,"" said the boy.",./test_audio/transcripts/test18.json,./test_audio/outputs/test18_timestamps.json
+./test_audio/test19.wav,Groves started writing songs when she was four years old.,./test_audio/transcripts/test19.json,./test_audio/outputs/test19_timestamps.json
+./test_audio/test20.wav,He twice served as the third Premier of Quebec.,./test_audio/transcripts/test20.json,./test_audio/outputs/test20_timestamps.json
+./test_audio/test21.wav,The lightness of the chiffon matched my mood and desire.,./test_audio/transcripts/test21.json,./test_audio/outputs/test21_timestamps.json
+./test_audio/test22.wav,We have not much to go upon.,./test_audio/transcripts/test22.json,./test_audio/outputs/test22_timestamps.json
+./test_audio/test23.wav,All the goals came in the second half.,./test_audio/transcripts/test23.json,./test_audio/outputs/test23_timestamps.json
+./test_audio/test24.wav,This theory is reasonable enough to deserve a serious consideration.,./test_audio/transcripts/test24.json,./test_audio/outputs/test24_timestamps.json
+./test_audio/test25.wav,The quotients by congruence subgroups are of significant interest.,./test_audio/transcripts/test25.json,./test_audio/outputs/test25_timestamps.json
+./test_audio/test26.wav,We will be out of town for most of May.,./test_audio/transcripts/test26.json,./test_audio/outputs/test26_timestamps.json
+./test_audio/test27.wav,The shop is exactly the size I always wanted it to be.,./test_audio/transcripts/test27.json,./test_audio/outputs/test27_timestamps.json
+./test_audio/test28.wav,Two ladies are shopping at Target for various items they had put on their shopping list.,./test_audio/transcripts/test28.json,./test_audio/outputs/test28_timestamps.json
+./test_audio/test29.wav,We need not wonder that he does not exercise it.,./test_audio/transcripts/test29.json,./test_audio/outputs/test29_timestamps.json
+./test_audio/test30.wav,A related concept in football is the Hail Mary pass.,./test_audio/transcripts/test30.json,./test_audio/outputs/test30_timestamps.json
+./test_audio/test31.wav,"InfraGard focuses on the development, management and protection of critical infrastructure.",./test_audio/transcripts/test31.json,./test_audio/outputs/test31_timestamps.json
+./test_audio/test32.wav,The chief of Chiang Mai sent a boat force.,./test_audio/transcripts/test32.json,./test_audio/outputs/test32_timestamps.json
+./test_audio/test33.wav,"""Why do you want to find that sort of person?"" the Arab asked.",./test_audio/transcripts/test33.json,./test_audio/outputs/test33_timestamps.json
+./test_audio/test34.wav,The two friends left that band and then formed As I Lay Dying.,./test_audio/transcripts/test34.json,./test_audio/outputs/test34_timestamps.json
+./test_audio/test35.wav,In How Democratic Is the American Constitution?,./test_audio/transcripts/test35.json,./test_audio/outputs/test35_timestamps.json
+./test_audio/test36.wav,You killed all three of them for nothing.,./test_audio/transcripts/test36.json,./test_audio/outputs/test36_timestamps.json
+./test_audio/test37.wav,What more do you want?,./test_audio/transcripts/test37.json,./test_audio/outputs/test37_timestamps.json
+./test_audio/test38.wav,"Jef Raskin jokingly stated: Yes, we named our software after a bug.",./test_audio/transcripts/test38.json,./test_audio/outputs/test38_timestamps.json
+./test_audio/test39.wav,It weighs five kilograms.,./test_audio/transcripts/test39.json,./test_audio/outputs/test39_timestamps.json
+./test_audio/test40.wav,No western movie without a brawl in a saloon.,./test_audio/transcripts/test40.json,./test_audio/outputs/test40_timestamps.json
+./test_audio/test41.wav,"The alchemist dismounted slowly, and the boy did the same.",./test_audio/transcripts/test41.json,./test_audio/outputs/test41_timestamps.json
+./test_audio/test42.wav,There's nothing wrong with the books.,./test_audio/transcripts/test42.json,./test_audio/outputs/test42_timestamps.json
+./test_audio/test43.wav,"Madeleine also collaborated in the writing of Jay's final book, ""Directive Family Therapy"".",./test_audio/transcripts/test43.json,./test_audio/outputs/test43_timestamps.json
+./test_audio/test44.wav,"I'll work all night, until dawn, and I'll clean every piece of crystal in your shop.",./test_audio/transcripts/test44.json,./test_audio/outputs/test44_timestamps.json
+./test_audio/test45.wav,They typically cover great distances.,./test_audio/transcripts/test45.json,./test_audio/outputs/test45_timestamps.json
+./test_audio/test46.wav,I SHALL MAKE US SOME ICE CUBES.,./test_audio/transcripts/test46.json,./test_audio/outputs/test46_timestamps.json
+./test_audio/test47.wav,Maybe tomorrow will be better than yesterday.,./test_audio/transcripts/test47.json,./test_audio/outputs/test47_timestamps.json
+./test_audio/test48.wav,Alfaro learned the principles of geometry and applied his knowledge to create abstract works.,./test_audio/transcripts/test48.json,./test_audio/outputs/test48_timestamps.json
+./test_audio/test49.wav,But you could bring them in here!,./test_audio/transcripts/test49.json,./test_audio/outputs/test49_timestamps.json
+./test_audio/test50.wav,The students then participate in simulations.,./test_audio/transcripts/test50.json,./test_audio/outputs/test50_timestamps.json
+./test_audio/test51.wav,One example of where surfacing excels is automotive body panels.,./test_audio/transcripts/test51.json,./test_audio/outputs/test51_timestamps.json
+./test_audio/test52.wav,The alley was too narrow for the bulldozer.,./test_audio/transcripts/test52.json,./test_audio/outputs/test52_timestamps.json
+./test_audio/test53.wav,Troops frequently wintered at Nicomedia.,./test_audio/transcripts/test53.json,./test_audio/outputs/test53_timestamps.json
+./test_audio/test54.wav,Mother in hospital gown smiles while holding newborn baby.,./test_audio/transcripts/test54.json,./test_audio/outputs/test54_timestamps.json
+./test_audio/test55.wav,"She met her first husband, Don Murray, at Barmore.",./test_audio/transcripts/test55.json,./test_audio/outputs/test55_timestamps.json
+./test_audio/test56.wav,"The director refused, so Milchan threatened Mechanic that New Regency would withdraw financing.",./test_audio/transcripts/test56.json,./test_audio/outputs/test56_timestamps.json
+./test_audio/test57.wav,"But soon Henry, too, became convinced of his helplessness.",./test_audio/transcripts/test57.json,./test_audio/outputs/test57_timestamps.json
+./test_audio/test58.wav,"The news was chilling, to say the least.",./test_audio/transcripts/test58.json,./test_audio/outputs/test58_timestamps.json
+./test_audio/test59.wav,Its capital is Trinidad.,./test_audio/transcripts/test59.json,./test_audio/outputs/test59_timestamps.json
+./test_audio/test60.wav,It contains the main game and the two expansions.,./test_audio/transcripts/test60.json,./test_audio/outputs/test60_timestamps.json
+./test_audio/test61.wav,Volzhsky is the nearest rural locality.,./test_audio/transcripts/test61.json,./test_audio/outputs/test61_timestamps.json
+./test_audio/test62.wav,How do you mean?,./test_audio/transcripts/test62.json,./test_audio/outputs/test62_timestamps.json
+./test_audio/test63.wav,The train pulled into the station.,./test_audio/transcripts/test63.json,./test_audio/outputs/test63_timestamps.json
+./test_audio/test64.wav,And for what purpose?,./test_audio/transcripts/test64.json,./test_audio/outputs/test64_timestamps.json
+./test_audio/test65.wav,Yarmouk University has a newspaper that published periodically.,./test_audio/transcripts/test65.json,./test_audio/outputs/test65_timestamps.json
+./test_audio/test66.wav,"The snake fought frantically, making hissing sounds that shattered the silence of the desert.",./test_audio/transcripts/test66.json,./test_audio/outputs/test66_timestamps.json
+./test_audio/test67.wav,Colours are added to improve the appearance of a formulation.,./test_audio/transcripts/test67.json,./test_audio/outputs/test67_timestamps.json
+./test_audio/test68.wav,Its aim is to end domestic violence against women and children.,./test_audio/transcripts/test68.json,./test_audio/outputs/test68_timestamps.json
+./test_audio/test69.wav,Two children are watching a giant bubble float through the air.,./test_audio/transcripts/test69.json,./test_audio/outputs/test69_timestamps.json
+./test_audio/test70.wav,This conservation and selective hunting system ensured good supplies of food.,./test_audio/transcripts/test70.json,./test_audio/outputs/test70_timestamps.json
+./test_audio/test71.wav,Doing that vocal upset me greatly.,./test_audio/transcripts/test71.json,./test_audio/outputs/test71_timestamps.json
+./test_audio/test72.wav,The leadership functions of any corporate body at Rome might be termed praetorial.,./test_audio/transcripts/test72.json,./test_audio/outputs/test72_timestamps.json
+./test_audio/test73.wav,Not a word was said.,./test_audio/transcripts/test73.json,./test_audio/outputs/test73_timestamps.json
+./test_audio/test74.wav,The actors consciously supported the high parts of gods and goddesses.,./test_audio/transcripts/test74.json,./test_audio/outputs/test74_timestamps.json
+./test_audio/test75.wav,The title is sometimes translated as The Arsonist.,./test_audio/transcripts/test75.json,./test_audio/outputs/test75_timestamps.json
+./test_audio/test76.wav,The pistol is now a collectors item.,./test_audio/transcripts/test76.json,./test_audio/outputs/test76_timestamps.json
+./test_audio/test77.wav,"The army is part of the joint strategic command ""Northern Fleet"".",./test_audio/transcripts/test77.json,./test_audio/outputs/test77_timestamps.json
+./test_audio/test78.wav,"Secondary characters come to the fore, loyalties are strained.",./test_audio/transcripts/test78.json,./test_audio/outputs/test78_timestamps.json
+./test_audio/test79.wav,"The school is named after John Napier Burnett, a pioneer.",./test_audio/transcripts/test79.json,./test_audio/outputs/test79_timestamps.json
+./test_audio/test80.wav,Did you see any ghosts?,./test_audio/transcripts/test80.json,./test_audio/outputs/test80_timestamps.json
+./test_audio/test81.wav,The property has a lot of space; what's its size?,./test_audio/transcripts/test81.json,./test_audio/outputs/test81_timestamps.json
+./test_audio/test82.wav,Don't order thyroid function tests in patients who are asymptomatic.,./test_audio/transcripts/test82.json,./test_audio/outputs/test82_timestamps.json
+./test_audio/test83.wav,Every parish had at least one church.,./test_audio/transcripts/test83.json,./test_audio/outputs/test83_timestamps.json
+./test_audio/test84.wav,What could it be?,./test_audio/transcripts/test84.json,./test_audio/outputs/test84_timestamps.json
+./test_audio/test85.wav,Quite what that appeal was remained remarkably ill defined.,./test_audio/transcripts/test85.json,./test_audio/outputs/test85_timestamps.json
+./test_audio/test86.wav,Distillation is then used to separate the uranium hexafluoride from the mixture.,./test_audio/transcripts/test86.json,./test_audio/outputs/test86_timestamps.json
+./test_audio/test87.wav,"It is chosen in last position, the sixtieth, by the Detroit Pistons.",./test_audio/transcripts/test87.json,./test_audio/outputs/test87_timestamps.json
+./test_audio/test88.wav,"It aired on Astro Ria, which is hosted by Malaysia's satellite provider, Astro Malaysia.",./test_audio/transcripts/test88.json,./test_audio/outputs/test88_timestamps.json
+./test_audio/test89.wav,An elegant ball takes place on Christmas Eve.,./test_audio/transcripts/test89.json,./test_audio/outputs/test89_timestamps.json
+./test_audio/test90.wav,"Like master, like man",./test_audio/transcripts/test90.json,./test_audio/outputs/test90_timestamps.json
+./test_audio/test91.wav,It is a commonly noticed aspect of light pollution.,./test_audio/transcripts/test91.json,./test_audio/outputs/test91_timestamps.json
+./test_audio/test92.wav,Spain qualified a men's and a women's team.,./test_audio/transcripts/test92.json,./test_audio/outputs/test92_timestamps.json
+./test_audio/test93.wav,It covers the northern part of Wartburgkreis.,./test_audio/transcripts/test93.json,./test_audio/outputs/test93_timestamps.json
+./test_audio/test94.wav,But how can you be sure?,./test_audio/transcripts/test94.json,./test_audio/outputs/test94_timestamps.json
+./test_audio/test95.wav,These birds gather at James Bay before fall migration.,./test_audio/transcripts/test95.json,./test_audio/outputs/test95_timestamps.json
+./test_audio/test96.wav,The bridge remained closed for the next two years.,./test_audio/transcripts/test96.json,./test_audio/outputs/test96_timestamps.json
+./test_audio/test97.wav,"Potato crisps are thinly sliced fried potatoes, eaten as a snack",./test_audio/transcripts/test97.json,./test_audio/outputs/test97_timestamps.json
+./test_audio/test98.wav,The eyes were leering at him.,./test_audio/transcripts/test98.json,./test_audio/outputs/test98_timestamps.json
+./test_audio/test99.wav,Her height helped her with her fighting.,./test_audio/transcripts/test99.json,./test_audio/outputs/test99_timestamps.json
+./test_audio/test100.wav,"Subsequently, an anterior approach was introduced.",./test_audio/transcripts/test100.json,./test_audio/outputs/test100_timestamps.json
+./test_audio/test101.wav,Cern is an international particle physics laboratory near Geneva.,./test_audio/transcripts/test101.json,./test_audio/outputs/test101_timestamps.json
+./test_audio/test102.wav,A young woman packs belongings into a black suitcase.,./test_audio/transcripts/test102.json,./test_audio/outputs/test102_timestamps.json
+./test_audio/test103.wav,Tawatha Agee later became a background singer.,./test_audio/transcripts/test103.json,./test_audio/outputs/test103_timestamps.json
+./test_audio/test104.wav,Petri dishes are often used to make plates that are used for microbiology studies.,./test_audio/transcripts/test104.json,./test_audio/outputs/test104_timestamps.json
+./test_audio/test105.wav,He is also one of the leaders of the farm.,./test_audio/transcripts/test105.json,./test_audio/outputs/test105_timestamps.json
+./test_audio/test106.wav,A young black man is preparing to filet a large fish on a beach.,./test_audio/transcripts/test106.json,./test_audio/outputs/test106_timestamps.json
+./test_audio/test107.wav,The film received negative reviews from critics and fans of the first movie.,./test_audio/transcripts/test107.json,./test_audio/outputs/test107_timestamps.json
+./test_audio/test108.wav,Those omitted here are included in the larger list of articles by John Neal.,./test_audio/transcripts/test108.json,./test_audio/outputs/test108_timestamps.json
+./test_audio/test109.wav,The cacophony reached a crescendo that almost tore our ear drums.,./test_audio/transcripts/test109.json,./test_audio/outputs/test109_timestamps.json
+./test_audio/test110.wav,Sculptural forms were provided by stone and lead sculptures.,./test_audio/transcripts/test110.json,./test_audio/outputs/test110_timestamps.json
+./test_audio/test111.wav,"Look John, I just cannot support that.",./test_audio/transcripts/test111.json,./test_audio/outputs/test111_timestamps.json
+./test_audio/test112.wav,Check the main features on the website.,./test_audio/transcripts/test112.json,./test_audio/outputs/test112_timestamps.json
+./test_audio/test113.wav,After this episode he returned to Romania becoming its national team coach.,./test_audio/transcripts/test113.json,./test_audio/outputs/test113_timestamps.json
+./test_audio/test114.wav,The xylophone would just be a glockenspiel if it wasn't so metal.,./test_audio/transcripts/test114.json,./test_audio/outputs/test114_timestamps.json
+./test_audio/test115.wav,Just things like that.,./test_audio/transcripts/test115.json,./test_audio/outputs/test115_timestamps.json
+./test_audio/test116.wav,We went to the zoo to see the zebras.,./test_audio/transcripts/test116.json,./test_audio/outputs/test116_timestamps.json
+./test_audio/test117.wav,He was immediately barred from participating in the Games.,./test_audio/transcripts/test117.json,./test_audio/outputs/test117_timestamps.json
+./test_audio/test118.wav,"Immediately after the robbers left the bank, the police were informed.",./test_audio/transcripts/test118.json,./test_audio/outputs/test118_timestamps.json
+./test_audio/test119.wav,"He stuck his hand into the pouch, and felt around for one of the stones.",./test_audio/transcripts/test119.json,./test_audio/outputs/test119_timestamps.json
+./test_audio/test120.wav,Lemon said that none of the teams were profitable.,./test_audio/transcripts/test120.json,./test_audio/outputs/test120_timestamps.json
+./test_audio/test121.wav,How do we know it's really over?,./test_audio/transcripts/test121.json,./test_audio/outputs/test121_timestamps.json
+./test_audio/test122.wav,Ramonet grew up in Tangier.,./test_audio/transcripts/test122.json,./test_audio/outputs/test122_timestamps.json
+./test_audio/test123.wav,Thomas took a trip to Canada.,./test_audio/transcripts/test123.json,./test_audio/outputs/test123_timestamps.json
+./test_audio/test124.wav,She asks Hari to come and help her.,./test_audio/transcripts/test124.json,./test_audio/outputs/test124_timestamps.json
+./test_audio/test125.wav,With a strong accent.,./test_audio/transcripts/test125.json,./test_audio/outputs/test125_timestamps.json
+./test_audio/test126.wav,"I really like the instrumental part, but the vocals are rude.",./test_audio/transcripts/test126.json,./test_audio/outputs/test126_timestamps.json
+./test_audio/test127.wav,No one was eliminated after the Showstopper.,./test_audio/transcripts/test127.json,./test_audio/outputs/test127_timestamps.json
+./test_audio/test128.wav,The iron cycle affects dust deposition and aerosol iron bioavailability.,./test_audio/transcripts/test128.json,./test_audio/outputs/test128_timestamps.json
+./test_audio/test129.wav,The astronomical dates of the official festivals must have varied from year to year.,./test_audio/transcripts/test129.json,./test_audio/outputs/test129_timestamps.json
+./test_audio/test130.wav,The resort area is very dense around this lake.,./test_audio/transcripts/test130.json,./test_audio/outputs/test130_timestamps.json
+./test_audio/test131.wav,You recollect Arabella?,./test_audio/transcripts/test131.json,./test_audio/outputs/test131_timestamps.json
+./test_audio/test132.wav,It's the strap hangers that'll keep us from going under.,./test_audio/transcripts/test132.json,./test_audio/outputs/test132_timestamps.json
+./test_audio/test133.wav,"Permit me to introduce to you her Majesty, the Queen.",./test_audio/transcripts/test133.json,./test_audio/outputs/test133_timestamps.json
+./test_audio/test134.wav,During one point in his career Spagnolo was scheduled to fight Rocky Marciano.,./test_audio/transcripts/test134.json,./test_audio/outputs/test134_timestamps.json
+./test_audio/test135.wav,A fast heart rate and high blood pressure may occur.,./test_audio/transcripts/test135.json,./test_audio/outputs/test135_timestamps.json
+./test_audio/test136.wav,He who drinks a little too much drinks much too much.,./test_audio/transcripts/test136.json,./test_audio/outputs/test136_timestamps.json
+./test_audio/test137.wav,And he gets it right away.,./test_audio/transcripts/test137.json,./test_audio/outputs/test137_timestamps.json
+./test_audio/test138.wav,Indeed the scene was very beautiful.,./test_audio/transcripts/test138.json,./test_audio/outputs/test138_timestamps.json
+./test_audio/test139.wav,The European Union has often been criticized for their regulations.,./test_audio/transcripts/test139.json,./test_audio/outputs/test139_timestamps.json
+./test_audio/test140.wav,Representatives to Miss Supranational and Miss Grand International was also elected.,./test_audio/transcripts/test140.json,./test_audio/outputs/test140_timestamps.json
+./test_audio/test141.wav,"He pulled, and the log crashed down to break his back.",./test_audio/transcripts/test141.json,./test_audio/outputs/test141_timestamps.json
+./test_audio/test142.wav,He lost a lot of money through gambling in the casino.,./test_audio/transcripts/test142.json,./test_audio/outputs/test142_timestamps.json
+./test_audio/test143.wav,Ami can't understand whether the Japanese are kind or cold.,./test_audio/transcripts/test143.json,./test_audio/outputs/test143_timestamps.json
+./test_audio/test144.wav,"He currently resides in Berlin, Germany.",./test_audio/transcripts/test144.json,./test_audio/outputs/test144_timestamps.json
+./test_audio/test145.wav,He placed Urim and Thummim in the chest.,./test_audio/transcripts/test145.json,./test_audio/outputs/test145_timestamps.json
+./test_audio/test146.wav,Loring Park was the first park in Minnesota to have electric lights.,./test_audio/transcripts/test146.json,./test_audio/outputs/test146_timestamps.json
+./test_audio/test147.wav,"The name ""daidai"" is supposed to be auspicious since it means ""several generations.",./test_audio/transcripts/test147.json,./test_audio/outputs/test147_timestamps.json
+./test_audio/test148.wav,He uses examples to illustrate the taboos on rulers.,./test_audio/transcripts/test148.json,./test_audio/outputs/test148_timestamps.json
+./test_audio/test149.wav,He is married to actress Verna Bloom.,./test_audio/transcripts/test149.json,./test_audio/outputs/test149_timestamps.json
+./test_audio/test150.wav,The community is an unincorporated area of the Town of North Hempstead.,./test_audio/transcripts/test150.json,./test_audio/outputs/test150_timestamps.json
+./test_audio/test151.wav,Greater part of the his zamindari estates was in this district.,./test_audio/transcripts/test151.json,./test_audio/outputs/test151_timestamps.json
+./test_audio/test152.wav,This is the perceptual counterpart to the physical weight of the objects.,./test_audio/transcripts/test152.json,./test_audio/outputs/test152_timestamps.json
+./test_audio/test153.wav,Route K was also paved during that time.,./test_audio/transcripts/test153.json,./test_audio/outputs/test153_timestamps.json
+./test_audio/test154.wav,Ghost slips Brigitte a werewolf comic book and begins to question her about lycanthropy.,./test_audio/transcripts/test154.json,./test_audio/outputs/test154_timestamps.json
+./test_audio/test155.wav,"The term ""just my two cents"" is about opinion, not about money.",./test_audio/transcripts/test155.json,./test_audio/outputs/test155_timestamps.json
+./test_audio/test156.wav,Tipu Sultan's cannons decorate the ramparts of the Fort's museum.,./test_audio/transcripts/test156.json,./test_audio/outputs/test156_timestamps.json
+./test_audio/test157.wav,A person in a green shirt is looking up at the sky using a telescope.,./test_audio/transcripts/test157.json,./test_audio/outputs/test157_timestamps.json
+./test_audio/test158.wav,Fifty bucks ain't going to ruin me.,./test_audio/transcripts/test158.json,./test_audio/outputs/test158_timestamps.json
+./test_audio/test159.wav,A new project has emerged as the unofficial successor of Zebra: Quagga.,./test_audio/transcripts/test159.json,./test_audio/outputs/test159_timestamps.json
+./test_audio/test160.wav,Not even a stick of gum.,./test_audio/transcripts/test160.json,./test_audio/outputs/test160_timestamps.json
+./test_audio/test161.wav,"To be fully funded, some lending must occur.",./test_audio/transcripts/test161.json,./test_audio/outputs/test161_timestamps.json
+./test_audio/test162.wav,"Easy come, easy go.",./test_audio/transcripts/test162.json,./test_audio/outputs/test162_timestamps.json
+./test_audio/test163.wav,He also took over the economic risks of opera and concert performances in Frankfurt.,./test_audio/transcripts/test163.json,./test_audio/outputs/test163_timestamps.json
+./test_audio/test164.wav,His headstone names him as Charles Keats Brown.,./test_audio/transcripts/test164.json,./test_audio/outputs/test164_timestamps.json
+./test_audio/test165.wav,The teacher is not happy with his students.,./test_audio/transcripts/test165.json,./test_audio/outputs/test165_timestamps.json
+./test_audio/test166.wav,The experience was good.,./test_audio/transcripts/test166.json,./test_audio/outputs/test166_timestamps.json
+./test_audio/test167.wav,"The tribal chieftain called for the boy, and presented him with fifty pieces of gold.",./test_audio/transcripts/test167.json,./test_audio/outputs/test167_timestamps.json
+./test_audio/test168.wav,Paet was born in Tallinn.,./test_audio/transcripts/test168.json,./test_audio/outputs/test168_timestamps.json
+./test_audio/test169.wav,And you can meet us at the station.,./test_audio/transcripts/test169.json,./test_audio/outputs/test169_timestamps.json
+./test_audio/test170.wav,The Governor of Ebonyi State is elected using the plurality voting system.,./test_audio/transcripts/test170.json,./test_audio/outputs/test170_timestamps.json
+./test_audio/test171.wav,"Some common side effects include fever, pain around the injection site, and muscle aches.",./test_audio/transcripts/test171.json,./test_audio/outputs/test171_timestamps.json
+./test_audio/test172.wav,The only commercial service is to Denver.,./test_audio/transcripts/test172.json,./test_audio/outputs/test172_timestamps.json
+./test_audio/test173.wav,Can you sing me a lullaby?,./test_audio/transcripts/test173.json,./test_audio/outputs/test173_timestamps.json
+./test_audio/test174.wav,There is a man standing near ocean with several pigs on their backs.,./test_audio/transcripts/test174.json,./test_audio/outputs/test174_timestamps.json
+./test_audio/test175.wav,You cannot lose what you never had.,./test_audio/transcripts/test175.json,./test_audio/outputs/test175_timestamps.json
+./test_audio/test176.wav,About one in twenty.,./test_audio/transcripts/test176.json,./test_audio/outputs/test176_timestamps.json
+./test_audio/test177.wav,"The world speaks many languages, the boy thought.",./test_audio/transcripts/test177.json,./test_audio/outputs/test177_timestamps.json
+./test_audio/test178.wav,Yang Lin is a wandering outlaw.,./test_audio/transcripts/test178.json,./test_audio/outputs/test178_timestamps.json
+./test_audio/test179.wav,She graduated from the University of New Brunswick.,./test_audio/transcripts/test179.json,./test_audio/outputs/test179_timestamps.json
+./test_audio/test180.wav,It was difficult not to think about what he had left behind.,./test_audio/transcripts/test180.json,./test_audio/outputs/test180_timestamps.json
+./test_audio/test181.wav,Russell Baker's son Donald moved to Caracas to launch the satellite office.,./test_audio/transcripts/test181.json,./test_audio/outputs/test181_timestamps.json
+./test_audio/test182.wav,Ambassador John Danforth said root causes in no way justified terrorism.,./test_audio/transcripts/test182.json,./test_audio/outputs/test182_timestamps.json
+./test_audio/test183.wav,Another run on the bank?,./test_audio/transcripts/test183.json,./test_audio/outputs/test183_timestamps.json
+./test_audio/test184.wav,She grew up in the Grampians in country Victoria.,./test_audio/transcripts/test184.json,./test_audio/outputs/test184_timestamps.json
+./test_audio/test185.wav,Married.,./test_audio/transcripts/test185.json,./test_audio/outputs/test185_timestamps.json
+./test_audio/test186.wav,"He never appeared in a game, however.",./test_audio/transcripts/test186.json,./test_audio/outputs/test186_timestamps.json
+./test_audio/test187.wav,"Those television and radio networks included must have national exposure, not regional.",./test_audio/transcripts/test187.json,./test_audio/outputs/test187_timestamps.json
+./test_audio/test188.wav,"Out of the four, Venkman is the default Ghostbuster that is selected.",./test_audio/transcripts/test188.json,./test_audio/outputs/test188_timestamps.json
+./test_audio/test189.wav,The pharaoh subsequently incorporated many of these warriors into his personal guard.,./test_audio/transcripts/test189.json,./test_audio/outputs/test189_timestamps.json
+./test_audio/test190.wav,All are named for John Hancock who was a leader in the American Revolution.,./test_audio/transcripts/test190.json,./test_audio/outputs/test190_timestamps.json
+./test_audio/test191.wav,The dishes were made only according to French recipes.,./test_audio/transcripts/test191.json,./test_audio/outputs/test191_timestamps.json
+./test_audio/test192.wav,The pulmonal artery is shifted with help of conduit to the right ventricle.,./test_audio/transcripts/test192.json,./test_audio/outputs/test192_timestamps.json
+./test_audio/test193.wav,I thought I saw him with Ahmed.,./test_audio/transcripts/test193.json,./test_audio/outputs/test193_timestamps.json
+./test_audio/test194.wav,"It was a cobra, whose venom could kill a person in minutes.",./test_audio/transcripts/test194.json,./test_audio/outputs/test194_timestamps.json
+./test_audio/test195.wav,The closest limited access road is the Atlantic City Expressway in neighboring Winslow Township.,./test_audio/transcripts/test195.json,./test_audio/outputs/test195_timestamps.json
+./test_audio/test196.wav,"The ""campout"" method was intended to shorten that lengthy preparation time.",./test_audio/transcripts/test196.json,./test_audio/outputs/test196_timestamps.json
+./test_audio/test197.wav,Their ground was at Thornfield.,./test_audio/transcripts/test197.json,./test_audio/outputs/test197_timestamps.json
+./test_audio/test198.wav,An American male wrestler pining his opponent.,./test_audio/transcripts/test198.json,./test_audio/outputs/test198_timestamps.json
+./test_audio/test199.wav,Dooley also worked as a writer.,./test_audio/transcripts/test199.json,./test_audio/outputs/test199_timestamps.json
+./test_audio/test200.wav,These algorithms were originally performed manually but now are almost universally computerized.,./test_audio/transcripts/test200.json,./test_audio/outputs/test200_timestamps.json
+./test_audio/test201.wav,Electoral boundaries are determined by the Western Australian Electoral Commission.,./test_audio/transcripts/test201.json,./test_audio/outputs/test201_timestamps.json
+./test_audio/test202.wav,"Niles invented a process for making wire, and erected mills in Norwich.",./test_audio/transcripts/test202.json,./test_audio/outputs/test202_timestamps.json
+./test_audio/test203.wav,He was the first British Jew to win an Olympic gold medal.,./test_audio/transcripts/test203.json,./test_audio/outputs/test203_timestamps.json
+./test_audio/test204.wav,Leachman was married and had three daughters.,./test_audio/transcripts/test204.json,./test_audio/outputs/test204_timestamps.json
+./test_audio/test205.wav,"Peloza appealed to the Supreme Court, which declined to hear the case.",./test_audio/transcripts/test205.json,./test_audio/outputs/test205_timestamps.json
+./test_audio/test206.wav,Scholars disagree about who taught Pythagoras due to an absence of reliable information.,./test_audio/transcripts/test206.json,./test_audio/outputs/test206_timestamps.json
+./test_audio/test207.wav,Lariat crown ethers have sidearms that can augment complexation of cation.,./test_audio/transcripts/test207.json,./test_audio/outputs/test207_timestamps.json
+./test_audio/test208.wav,She had a stepdaughter Carol V. Klune.,./test_audio/transcripts/test208.json,./test_audio/outputs/test208_timestamps.json
+./test_audio/test209.wav,Do you know him?,./test_audio/transcripts/test209.json,./test_audio/outputs/test209_timestamps.json
+./test_audio/test210.wav,"Neil Young claims that, while mixing this album, he permanently damaged his hearing.",./test_audio/transcripts/test210.json,./test_audio/outputs/test210_timestamps.json
+./test_audio/test211.wav,A new start was imperative.,./test_audio/transcripts/test211.json,./test_audio/outputs/test211_timestamps.json
+./test_audio/test212.wav,They took the axe and the saw to the forest.,./test_audio/transcripts/test212.json,./test_audio/outputs/test212_timestamps.json
+./test_audio/test213.wav,"Whatever you desire, my dear.",./test_audio/transcripts/test213.json,./test_audio/outputs/test213_timestamps.json
+./test_audio/test214.wav,A conman cheats an entrepreneur and takes his wealth.,./test_audio/transcripts/test214.json,./test_audio/outputs/test214_timestamps.json
+./test_audio/test215.wav,"I am a hungry, hungry muffin.",./test_audio/transcripts/test215.json,./test_audio/outputs/test215_timestamps.json
+./test_audio/test216.wav,That blond guy over there is a git.,./test_audio/transcripts/test216.json,./test_audio/outputs/test216_timestamps.json
+./test_audio/test217.wav,"The voice, Chest voice the real voice, Head voice falsetto.",./test_audio/transcripts/test217.json,./test_audio/outputs/test217_timestamps.json
+./test_audio/test218.wav,Underhill was a strong supporter of the United States during the Cold War.,./test_audio/transcripts/test218.json,./test_audio/outputs/test218_timestamps.json
+./test_audio/test219.wav,"The old man was probably a Gypsy, too.",./test_audio/transcripts/test219.json,./test_audio/outputs/test219_timestamps.json
+./test_audio/test220.wav,"Henry fled, first to Bavaria, then back to his Carinthian homelands.",./test_audio/transcripts/test220.json,./test_audio/outputs/test220_timestamps.json
+./test_audio/test221.wav,"When the war ended, supply increased rapidly as Europe's agricultural market rebounded.",./test_audio/transcripts/test221.json,./test_audio/outputs/test221_timestamps.json
+./test_audio/test222.wav,Trench was born in Belize City in British Honduras.,./test_audio/transcripts/test222.json,./test_audio/outputs/test222_timestamps.json
+./test_audio/test223.wav,"I always wake up with a headache, and feel tired.",./test_audio/transcripts/test223.json,./test_audio/outputs/test223_timestamps.json
+./test_audio/test224.wav,The one you're blocking.,./test_audio/transcripts/test224.json,./test_audio/outputs/test224_timestamps.json
+./test_audio/test225.wav,A woman wearing a headscarf is walking down the street towards a driveway entrance,./test_audio/transcripts/test225.json,./test_audio/outputs/test225_timestamps.json
+./test_audio/test226.wav,She studied how cells detect the levels of copper and developed antibodies.,./test_audio/transcripts/test226.json,./test_audio/outputs/test226_timestamps.json
+./test_audio/test227.wav,A boy on a bike is jumping above some sand mounds.,./test_audio/transcripts/test227.json,./test_audio/outputs/test227_timestamps.json
+./test_audio/test228.wav,Hull's front armour has two sections: upper and lower.,./test_audio/transcripts/test228.json,./test_audio/outputs/test228_timestamps.json
+./test_audio/test229.wav,She has won numerous medals in archery competitions.,./test_audio/transcripts/test229.json,./test_audio/outputs/test229_timestamps.json
+./test_audio/test230.wav,"""I can clean up those glasses in the window, if you want,"" said the boy.",./test_audio/transcripts/test230.json,./test_audio/outputs/test230_timestamps.json
+./test_audio/test231.wav,The sun was turned into a golden disk.,./test_audio/transcripts/test231.json,./test_audio/outputs/test231_timestamps.json
+./test_audio/test232.wav,No subchannels are on Buckeye Broadband.,./test_audio/transcripts/test232.json,./test_audio/outputs/test232_timestamps.json
+./test_audio/test233.wav,He also popularized the octagon house in the middle of the nineteenth century.,./test_audio/transcripts/test233.json,./test_audio/outputs/test233_timestamps.json
+./test_audio/test234.wav,Is she more beautiful than me?,./test_audio/transcripts/test234.json,./test_audio/outputs/test234_timestamps.json
+./test_audio/test235.wav,Suppose someone has the following preferences.,./test_audio/transcripts/test235.json,./test_audio/outputs/test235_timestamps.json
+./test_audio/test236.wav,"It is named after William Kerr, who introduced the cultivar 'Pleniflora'.",./test_audio/transcripts/test236.json,./test_audio/outputs/test236_timestamps.json
+./test_audio/test237.wav,The town is famed for its honey cakes.,./test_audio/transcripts/test237.json,./test_audio/outputs/test237_timestamps.json
+./test_audio/test238.wav,He attended Louisville Male High School.,./test_audio/transcripts/test238.json,./test_audio/outputs/test238_timestamps.json
+./test_audio/test239.wav,She was the partner of Robbe De Hert.,./test_audio/transcripts/test239.json,./test_audio/outputs/test239_timestamps.json
+./test_audio/test240.wav,A big wet stain was on the round carpet.,./test_audio/transcripts/test240.json,./test_audio/outputs/test240_timestamps.json
+./test_audio/test241.wav,"A ""component instance"" was created by ""opening"" a component.",./test_audio/transcripts/test241.json,./test_audio/outputs/test241_timestamps.json
+./test_audio/test242.wav,Nelson is the home of a popular Monday night contradance.,./test_audio/transcripts/test242.json,./test_audio/outputs/test242_timestamps.json
+./test_audio/test243.wav,She subsequently left the Radicals and joined the Serbian Progressive Party.,./test_audio/transcripts/test243.json,./test_audio/outputs/test243_timestamps.json
+./test_audio/test244.wav,They travel to the campsite named Paradise.,./test_audio/transcripts/test244.json,./test_audio/outputs/test244_timestamps.json
+./test_audio/test245.wav,There are also forestry enterprises engaged in lumber cutting and sawtimber production.,./test_audio/transcripts/test245.json,./test_audio/outputs/test245_timestamps.json
+./test_audio/test246.wav,The Bonnie Oaks Historic District consists of fifteen structures and one archaeological site.,./test_audio/transcripts/test246.json,./test_audio/outputs/test246_timestamps.json
+./test_audio/test247.wav,She got her degree in English from the University of New Mexico.,./test_audio/transcripts/test247.json,./test_audio/outputs/test247_timestamps.json
+./test_audio/test248.wav,The land in the vicinity is cultivated by Israeli farmers.,./test_audio/transcripts/test248.json,./test_audio/outputs/test248_timestamps.json
+./test_audio/test249.wav,He was convicted and banished to Cyprus for seven years for punishment.,./test_audio/transcripts/test249.json,./test_audio/outputs/test249_timestamps.json
+./test_audio/test250.wav,Margolin is stepfather to actor Max Martini and costume designer Michelle Martini.,./test_audio/transcripts/test250.json,./test_audio/outputs/test250_timestamps.json
+./test_audio/test251.wav,We'll stay right here and celebrate.,./test_audio/transcripts/test251.json,./test_audio/outputs/test251_timestamps.json
+./test_audio/test252.wav,"According to the Associated Press, he said of the movie: It's an abomination.",./test_audio/transcripts/test252.json,./test_audio/outputs/test252_timestamps.json
+./test_audio/test253.wav,My dear Regina I hope you are enjoying your holiday.,./test_audio/transcripts/test253.json,./test_audio/outputs/test253_timestamps.json
+./test_audio/test254.wav,"Two thematic sequels named ""Wormwood"" and ""Tersias"" were also released soon after.",./test_audio/transcripts/test254.json,./test_audio/outputs/test254_timestamps.json
+./test_audio/test255.wav,"It's true that everything has its destiny, but one day that destiny will be realized.",./test_audio/transcripts/test255.json,./test_audio/outputs/test255_timestamps.json
+./test_audio/test256.wav,This is done by double clicking clip names in the Clip Library sidebar.,./test_audio/transcripts/test256.json,./test_audio/outputs/test256_timestamps.json
+./test_audio/test257.wav,The Turkish infantry then began to scatter and retreat.,./test_audio/transcripts/test257.json,./test_audio/outputs/test257_timestamps.json
+./test_audio/test258.wav,Every path has its puddle.,./test_audio/transcripts/test258.json,./test_audio/outputs/test258_timestamps.json
+./test_audio/test259.wav,The first bridge had been funded by rich citizens.,./test_audio/transcripts/test259.json,./test_audio/outputs/test259_timestamps.json
+./test_audio/test260.wav,These are a chest of drawers.,./test_audio/transcripts/test260.json,./test_audio/outputs/test260_timestamps.json
+./test_audio/test261.wav,"Therefore, this sensibility is logically a ""point of departure"" that irresistibly ""exceeds itself.",./test_audio/transcripts/test261.json,./test_audio/outputs/test261_timestamps.json
+./test_audio/test262.wav,Why does the ice cream truck keep playing such a sad song “send in the clowns”?,./test_audio/transcripts/test262.json,./test_audio/outputs/test262_timestamps.json
+./test_audio/test263.wav,Franz Schneider Verlag of Munich published German localisations of some of her titles.,./test_audio/transcripts/test263.json,./test_audio/outputs/test263_timestamps.json
+./test_audio/test264.wav,The islands have a rich marine bird life.,./test_audio/transcripts/test264.json,./test_audio/outputs/test264_timestamps.json
+./test_audio/test265.wav,"This move was a success, and Compact Pro subsequently fell out of use.",./test_audio/transcripts/test265.json,./test_audio/outputs/test265_timestamps.json
+./test_audio/test266.wav,I just want to give you a big hug!,./test_audio/transcripts/test266.json,./test_audio/outputs/test266_timestamps.json
+./test_audio/test267.wav,Don't you know it?,./test_audio/transcripts/test267.json,./test_audio/outputs/test267_timestamps.json
+./test_audio/test268.wav,There was a round table in the middle of the room.,./test_audio/transcripts/test268.json,./test_audio/outputs/test268_timestamps.json
+./test_audio/test269.wav,Each nodule usually heals completely without scarring over the course of about two weeks.,./test_audio/transcripts/test269.json,./test_audio/outputs/test269_timestamps.json
+./test_audio/test270.wav,The volume wouldn't increase much further.,./test_audio/transcripts/test270.json,./test_audio/outputs/test270_timestamps.json
+./test_audio/test271.wav,It is endangered in the Netherlands.,./test_audio/transcripts/test271.json,./test_audio/outputs/test271_timestamps.json
+./test_audio/test272.wav,An huge hole had been made by the impact of the projectile.,./test_audio/transcripts/test272.json,./test_audio/outputs/test272_timestamps.json
+./test_audio/test273.wav,All songs written by Yoko Ono.,./test_audio/transcripts/test273.json,./test_audio/outputs/test273_timestamps.json
+./test_audio/test274.wav,A man is lifting a little girl above his head.,./test_audio/transcripts/test274.json,./test_audio/outputs/test274_timestamps.json
+./test_audio/test275.wav,The pathophysiology of Nelson's syndrome is not understood very well.,./test_audio/transcripts/test275.json,./test_audio/outputs/test275_timestamps.json
+./test_audio/test276.wav,"Universal Pictures will not be a production partner with Silver Pictures, only a distributor.",./test_audio/transcripts/test276.json,./test_audio/outputs/test276_timestamps.json
+./test_audio/test277.wav,"All tracks written and composed by Barry, Robin and Maurice Gibb.",./test_audio/transcripts/test277.json,./test_audio/outputs/test277_timestamps.json
+./test_audio/test278.wav,The span of the arch supports two lanes of road traffic and two pavements.,./test_audio/transcripts/test278.json,./test_audio/outputs/test278_timestamps.json
+./test_audio/test279.wav,A woman is hiking up a snowy mountain.,./test_audio/transcripts/test279.json,./test_audio/outputs/test279_timestamps.json
+./test_audio/test280.wav,Wayne was born Norman Weinberger.,./test_audio/transcripts/test280.json,./test_audio/outputs/test280_timestamps.json
+./test_audio/test281.wav,"""They were given to me as a present by a king,"" the boy said.",./test_audio/transcripts/test281.json,./test_audio/outputs/test281_timestamps.json
+./test_audio/test282.wav,To add insult to injury.,./test_audio/transcripts/test282.json,./test_audio/outputs/test282_timestamps.json
+./test_audio/test283.wav,His life and his path had always provided him with enough omens.,./test_audio/transcripts/test283.json,./test_audio/outputs/test283_timestamps.json
+./test_audio/test284.wav,Flax makes a fine brand of paper.,./test_audio/transcripts/test284.json,./test_audio/outputs/test284_timestamps.json
+./test_audio/test285.wav,"In recent years, the city gained international attention.",./test_audio/transcripts/test285.json,./test_audio/outputs/test285_timestamps.json
+./test_audio/test286.wav,"Yoda's statement to Luke Skywalker, Try not!",./test_audio/transcripts/test286.json,./test_audio/outputs/test286_timestamps.json
+./test_audio/test287.wav,Isn't it a little crowded?,./test_audio/transcripts/test287.json,./test_audio/outputs/test287_timestamps.json
+./test_audio/test288.wav,"He married a minister's daughter, with whom he had a daughter and son.",./test_audio/transcripts/test288.json,./test_audio/outputs/test288_timestamps.json
+./test_audio/test289.wav,Firefox,./test_audio/transcripts/test289.json,./test_audio/outputs/test289_timestamps.json
+./test_audio/test290.wav,Lee bought a ticket for the metro at central station.,./test_audio/transcripts/test290.json,./test_audio/outputs/test290_timestamps.json
+./test_audio/test291.wav,Thus a detached shock is formed and a more complicated reflection occurs.,./test_audio/transcripts/test291.json,./test_audio/outputs/test291_timestamps.json
+./test_audio/test292.wav,Why should you not?,./test_audio/transcripts/test292.json,./test_audio/outputs/test292_timestamps.json
+./test_audio/test293.wav,"His wife, Dame Sukhi Turner, is a former mayor of Dunedin.",./test_audio/transcripts/test293.json,./test_audio/outputs/test293_timestamps.json
+./test_audio/test294.wav,What factors are used to form a strategy for working with key clients?,./test_audio/transcripts/test294.json,./test_audio/outputs/test294_timestamps.json
+./test_audio/test295.wav,"The market was also a venue for banquets, exhibitions and other festivals.",./test_audio/transcripts/test295.json,./test_audio/outputs/test295_timestamps.json
+./test_audio/test296.wav,Its five craters are easily differentiated.,./test_audio/transcripts/test296.json,./test_audio/outputs/test296_timestamps.json
+./test_audio/test297.wav,It appears to have been customary to anoint the sacred cone with olive oil.,./test_audio/transcripts/test297.json,./test_audio/outputs/test297_timestamps.json
+./test_audio/test298.wav,It is now a registered historic monument.,./test_audio/transcripts/test298.json,./test_audio/outputs/test298_timestamps.json
+./test_audio/test299.wav,The nearest railway station is Sea Mills station at Sea Mills.,./test_audio/transcripts/test299.json,./test_audio/outputs/test299_timestamps.json
+./test_audio/test300.wav,He graduated from Woburn High School.,./test_audio/transcripts/test300.json,./test_audio/outputs/test300_timestamps.json
+./test_audio/test301.wav,She is the seventh among her nine siblings.,./test_audio/transcripts/test301.json,./test_audio/outputs/test301_timestamps.json
+./test_audio/test302.wav,"""I came to tell you just one thing,"" the boy said.",./test_audio/transcripts/test302.json,./test_audio/outputs/test302_timestamps.json
+./test_audio/test303.wav,The spotted coat is caused by a genetic mechanism called the Leopard complex.,./test_audio/transcripts/test303.json,./test_audio/outputs/test303_timestamps.json
+./test_audio/test304.wav,"Beetz's areas of expertise were the civil law of Quebec, and Canadian constitutional law.",./test_audio/transcripts/test304.json,./test_audio/outputs/test304_timestamps.json
+./test_audio/test305.wav,"They had the following children: Edward Pierce, Arthur Dean, and Elisabeth Louise.",./test_audio/transcripts/test305.json,./test_audio/outputs/test305_timestamps.json
+./test_audio/test306.wav,I bet you forgot the wine!,./test_audio/transcripts/test306.json,./test_audio/outputs/test306_timestamps.json
+./test_audio/test307.wav,He died less than a year later.,./test_audio/transcripts/test307.json,./test_audio/outputs/test307_timestamps.json
+./test_audio/test308.wav,Man in red tshirt and baseball cap viewed from above he is has a pile of posters,./test_audio/transcripts/test308.json,./test_audio/outputs/test308_timestamps.json
+./test_audio/test309.wav,Adding new features was building my future.,./test_audio/transcripts/test309.json,./test_audio/outputs/test309_timestamps.json
+./test_audio/test310.wav,All other crimes are considered felonies.,./test_audio/transcripts/test310.json,./test_audio/outputs/test310_timestamps.json
+./test_audio/test311.wav,A common myth is that consecrated wine was also poured down the piscina.,./test_audio/transcripts/test311.json,./test_audio/outputs/test311_timestamps.json
+./test_audio/test312.wav,"FitzGibbon appears in ""The Bully Boys"", a novel by Eric Walters.",./test_audio/transcripts/test312.json,./test_audio/outputs/test312_timestamps.json
+./test_audio/test313.wav,It was done before the boy could see it.,./test_audio/transcripts/test313.json,./test_audio/outputs/test313_timestamps.json
+./test_audio/test314.wav,We have large vans available for hire.,./test_audio/transcripts/test314.json,./test_audio/outputs/test314_timestamps.json
+./test_audio/test315.wav,"Ayres and his wife, Sharon, have an amazing and beautiful daughter, Elizabeth.",./test_audio/transcripts/test315.json,./test_audio/outputs/test315_timestamps.json
+./test_audio/test316.wav,She studied English at Oxford University.,./test_audio/transcripts/test316.json,./test_audio/outputs/test316_timestamps.json
+./test_audio/test317.wav,At this hour of the morning?,./test_audio/transcripts/test317.json,./test_audio/outputs/test317_timestamps.json
+./test_audio/test318.wav,Baudin's black cockatoos and emus are frequently observed in the park.,./test_audio/transcripts/test318.json,./test_audio/outputs/test318_timestamps.json
+./test_audio/test319.wav,He began to dig at the base of the sycamore.,./test_audio/transcripts/test319.json,./test_audio/outputs/test319_timestamps.json
+./test_audio/test320.wav,Some commercial Electronic Health Record systems use a workflow engine to execute clinical guidelines.,./test_audio/transcripts/test320.json,./test_audio/outputs/test320_timestamps.json
+./test_audio/test321.wav,"To their surprise, they received an apology.",./test_audio/transcripts/test321.json,./test_audio/outputs/test321_timestamps.json
+./test_audio/test322.wav,She has been named the Cajun Queen in the United States and Europe.,./test_audio/transcripts/test322.json,./test_audio/outputs/test322_timestamps.json
+./test_audio/test323.wav,The last half of the climb is more severe.,./test_audio/transcripts/test323.json,./test_audio/outputs/test323_timestamps.json
+./test_audio/test324.wav,What should I say?,./test_audio/transcripts/test324.json,./test_audio/outputs/test324_timestamps.json
+./test_audio/test325.wav,I never noticed it before.,./test_audio/transcripts/test325.json,./test_audio/outputs/test325_timestamps.json
+./test_audio/test326.wav,"Chertsey Town Football Club is a football club based in Chertsey, Surrey, England.",./test_audio/transcripts/test326.json,./test_audio/outputs/test326_timestamps.json
+./test_audio/test327.wav,"Medicinal plants include Chinese caterpillar fungus, Fritillaria and Codonopsis.",./test_audio/transcripts/test327.json,./test_audio/outputs/test327_timestamps.json
+./test_audio/test328.wav,"It contains the original episodes, which do not belong to the Romanesque release.",./test_audio/transcripts/test328.json,./test_audio/outputs/test328_timestamps.json
+./test_audio/test329.wav,Three men in suits are posing for a photo with their hands together.,./test_audio/transcripts/test329.json,./test_audio/outputs/test329_timestamps.json
+./test_audio/test330.wav,People in kalimantan also named their boat Jukung.,./test_audio/transcripts/test330.json,./test_audio/outputs/test330_timestamps.json
+./test_audio/test331.wav,Planes were knocked against structures due to the winds from Odile.,./test_audio/transcripts/test331.json,./test_audio/outputs/test331_timestamps.json
+./test_audio/test332.wav,"Bishop Basin's cartulary survives, in the Library of Lisieux.",./test_audio/transcripts/test332.json,./test_audio/outputs/test332_timestamps.json
+./test_audio/test333.wav,McPhatter promptly assembled a group and called them the Drifters.,./test_audio/transcripts/test333.json,./test_audio/outputs/test333_timestamps.json
+./test_audio/test334.wav,"""When were these books written?"" the boy asked.",./test_audio/transcripts/test334.json,./test_audio/outputs/test334_timestamps.json
+./test_audio/test335.wav,They are fitted with a stopcock which allows the flow to be controlled.,./test_audio/transcripts/test335.json,./test_audio/outputs/test335_timestamps.json
+./test_audio/test336.wav,There is a stone which the popular imagination likens to an umbrella.,./test_audio/transcripts/test336.json,./test_audio/outputs/test336_timestamps.json
+./test_audio/test337.wav,They opened the bottle of wine and drank heavily.,./test_audio/transcripts/test337.json,./test_audio/outputs/test337_timestamps.json
+./test_audio/test338.wav,The play opens with Rosencrantz and Guildenstern betting on coin flips.,./test_audio/transcripts/test338.json,./test_audio/outputs/test338_timestamps.json
+./test_audio/test339.wav,I have to work this Saturday.,./test_audio/transcripts/test339.json,./test_audio/outputs/test339_timestamps.json
+./test_audio/test340.wav,"She starred alongside the American actor Hartley Power in ""Lady Behave"".",./test_audio/transcripts/test340.json,./test_audio/outputs/test340_timestamps.json
+./test_audio/test341.wav,He is a senior lecturer of creative writing at Yale University.,./test_audio/transcripts/test341.json,./test_audio/outputs/test341_timestamps.json
+./test_audio/test342.wav,She loves to watch television.,./test_audio/transcripts/test342.json,./test_audio/outputs/test342_timestamps.json
+./test_audio/test343.wav,It doesn’t count as screen time if it is a game.,./test_audio/transcripts/test343.json,./test_audio/outputs/test343_timestamps.json
+./test_audio/test344.wav,"Neighbors moved away, and there remained only a few small shops on the hill.",./test_audio/transcripts/test344.json,./test_audio/outputs/test344_timestamps.json
+./test_audio/test345.wav,There is no fool like an old fool.,./test_audio/transcripts/test345.json,./test_audio/outputs/test345_timestamps.json
+./test_audio/test346.wav,A man cutting ice blocks or making a sculpture and people looking on.,./test_audio/transcripts/test346.json,./test_audio/outputs/test346_timestamps.json
+./test_audio/test347.wav,"Your son went to serve at a distant place, and became a centurion.",./test_audio/transcripts/test347.json,./test_audio/outputs/test347_timestamps.json
+./test_audio/test348.wav,I walked fast to avoid being overtaken.,./test_audio/transcripts/test348.json,./test_audio/outputs/test348_timestamps.json
+./test_audio/test349.wav,"He was older, and was carrying a small bucket.",./test_audio/transcripts/test349.json,./test_audio/outputs/test349_timestamps.json
+./test_audio/test350.wav,He knew nothing about the customs of the strange land he was in.,./test_audio/transcripts/test350.json,./test_audio/outputs/test350_timestamps.json
+./test_audio/test351.wav,"Key, Short, and Foster feed into Gunn.",./test_audio/transcripts/test351.json,./test_audio/outputs/test351_timestamps.json
+./test_audio/test352.wav,All roads go to Jericho,./test_audio/transcripts/test352.json,./test_audio/outputs/test352_timestamps.json
+./test_audio/test353.wav,He sat looking at the sky for a long time.,./test_audio/transcripts/test353.json,./test_audio/outputs/test353_timestamps.json
+./test_audio/test354.wav,Every man has his price.,./test_audio/transcripts/test354.json,./test_audio/outputs/test354_timestamps.json
+./test_audio/test355.wav,"Patrick is missing, and suddenly Robert is the prime suspect.",./test_audio/transcripts/test355.json,./test_audio/outputs/test355_timestamps.json
+./test_audio/test356.wav,"""The Titans"" featured the Atlanteans as a new civilization.",./test_audio/transcripts/test356.json,./test_audio/outputs/test356_timestamps.json
+./test_audio/test357.wav,I wish you'd let me help you.,./test_audio/transcripts/test357.json,./test_audio/outputs/test357_timestamps.json
+./test_audio/test358.wav,The cause of death was determined as head wounds caused by blunt force trauma.,./test_audio/transcripts/test358.json,./test_audio/outputs/test358_timestamps.json
+./test_audio/test359.wav,Long live the king!,./test_audio/transcripts/test359.json,./test_audio/outputs/test359_timestamps.json
+./test_audio/test360.wav,The population of Spain is becoming increasingly diverse due to recent immigration.,./test_audio/transcripts/test360.json,./test_audio/outputs/test360_timestamps.json
+./test_audio/test361.wav,What is it you want?,./test_audio/transcripts/test361.json,./test_audio/outputs/test361_timestamps.json
+./test_audio/test362.wav,A man is down on one knee playing the guitar at a show.,./test_audio/transcripts/test362.json,./test_audio/outputs/test362_timestamps.json
+./test_audio/test363.wav,They have two adult sons.,./test_audio/transcripts/test363.json,./test_audio/outputs/test363_timestamps.json
+./test_audio/test364.wav,Chailly studied at the music conservatories in Perugia and Milan.,./test_audio/transcripts/test364.json,./test_audio/outputs/test364_timestamps.json
+./test_audio/test365.wav,The video was a contest containing the clues necessary to solve a puzzle.,./test_audio/transcripts/test365.json,./test_audio/outputs/test365_timestamps.json
+./test_audio/test366.wav,"Baxter, your Irish nose stays in this picture.",./test_audio/transcripts/test366.json,./test_audio/outputs/test366_timestamps.json
+./test_audio/test367.wav,The observance of these outward rites of purification becomes superfluous and absurd.,./test_audio/transcripts/test367.json,./test_audio/outputs/test367_timestamps.json
+./test_audio/test368.wav,A round hole was drilled through the thin board.,./test_audio/transcripts/test368.json,./test_audio/outputs/test368_timestamps.json
+./test_audio/test369.wav,It was designed for the original Sony PlayStation console.,./test_audio/transcripts/test369.json,./test_audio/outputs/test369_timestamps.json
+./test_audio/test370.wav,German philosopher Immanuel Kant devised an argument from morality based on practical reason.,./test_audio/transcripts/test370.json,./test_audio/outputs/test370_timestamps.json
+./test_audio/test371.wav,"The Doctor tries to free Lytton, but the Controller arrives with a gun.",./test_audio/transcripts/test371.json,./test_audio/outputs/test371_timestamps.json
+./test_audio/test372.wav,An economics discussion on TV went off the tangent to politics.,./test_audio/transcripts/test372.json,./test_audio/outputs/test372_timestamps.json
+./test_audio/test373.wav,This results in ptosis and ophthalmoplegia respectively.,./test_audio/transcripts/test373.json,./test_audio/outputs/test373_timestamps.json
+./test_audio/test374.wav,"Suicide, then, also must be rejected: without man, the absurd cannot exist.",./test_audio/transcripts/test374.json,./test_audio/outputs/test374_timestamps.json
+./test_audio/test375.wav,"One night, the father had a dream.",./test_audio/transcripts/test375.json,./test_audio/outputs/test375_timestamps.json
+./test_audio/test376.wav,Mr. Bean is the main character of a British comedy.,./test_audio/transcripts/test376.json,./test_audio/outputs/test376_timestamps.json
+./test_audio/test377.wav,What could it mean?,./test_audio/transcripts/test377.json,./test_audio/outputs/test377_timestamps.json
+./test_audio/test378.wav,He still lives in Berlin.,./test_audio/transcripts/test378.json,./test_audio/outputs/test378_timestamps.json
+./test_audio/test379.wav,Color Key,./test_audio/transcripts/test379.json,./test_audio/outputs/test379_timestamps.json
+./test_audio/test380.wav,May I borrow your bolster?,./test_audio/transcripts/test380.json,./test_audio/outputs/test380_timestamps.json
+./test_audio/test381.wav,The example with smallest volume is the Weeks manifold.,./test_audio/transcripts/test381.json,./test_audio/outputs/test381_timestamps.json
+./test_audio/test382.wav,Manley eventually pulled his name from the transfer portal and decided to turn professional.,./test_audio/transcripts/test382.json,./test_audio/outputs/test382_timestamps.json
+./test_audio/test383.wav,What's the matter now?,./test_audio/transcripts/test383.json,./test_audio/outputs/test383_timestamps.json
+./test_audio/test384.wav,"Wrapped in a scarf and blinded by the blizzard, the boy scrambled for the subway.",./test_audio/transcripts/test384.json,./test_audio/outputs/test384_timestamps.json
+./test_audio/test385.wav,"Talia is interviewed by Captain Sheridan, who attempts to understand the images.",./test_audio/transcripts/test385.json,./test_audio/outputs/test385_timestamps.json
+./test_audio/test386.wav,What are you talking about?,./test_audio/transcripts/test386.json,./test_audio/outputs/test386_timestamps.json
+./test_audio/test387.wav,They were part of the Appalachian League and affiliated with the Chicago Cubs.,./test_audio/transcripts/test387.json,./test_audio/outputs/test387_timestamps.json
+./test_audio/test388.wav,"She also edited an original science fiction anthology series, ""Stellar"".",./test_audio/transcripts/test388.json,./test_audio/outputs/test388_timestamps.json
+./test_audio/test389.wav,He earned a reputation as one of the best gunsmiths in the colony.,./test_audio/transcripts/test389.json,./test_audio/outputs/test389_timestamps.json
+./test_audio/test390.wav,The most updated Senate version however allows Native Hawaiians to pursue claims in court.,./test_audio/transcripts/test390.json,./test_audio/outputs/test390_timestamps.json
+./test_audio/test391.wav,Please cover your mouth when you cough or sneeze.,./test_audio/transcripts/test391.json,./test_audio/outputs/test391_timestamps.json
+./test_audio/test392.wav,Her colors are red and black.,./test_audio/transcripts/test392.json,./test_audio/outputs/test392_timestamps.json
+./test_audio/test393.wav,William Barnes the poet also lived in Sturminster Newton.,./test_audio/transcripts/test393.json,./test_audio/outputs/test393_timestamps.json
+./test_audio/test394.wav,"From the railway station in the distance came the sound of trains, ringing and rumbling.",./test_audio/transcripts/test394.json,./test_audio/outputs/test394_timestamps.json
+./test_audio/test395.wav,The children are running in the snow with fences in the background,./test_audio/transcripts/test395.json,./test_audio/outputs/test395_timestamps.json
+./test_audio/test396.wav,The harder he tried the less he got done.,./test_audio/transcripts/test396.json,./test_audio/outputs/test396_timestamps.json
+./test_audio/test397.wav,That's a really great idea!,./test_audio/transcripts/test397.json,./test_audio/outputs/test397_timestamps.json
+./test_audio/test398.wav,In particular the Barnet High Street health scheme.,./test_audio/transcripts/test398.json,./test_audio/outputs/test398_timestamps.json
+./test_audio/test399.wav,My brother is a professional football player.,./test_audio/transcripts/test399.json,./test_audio/outputs/test399_timestamps.json
+./test_audio/test400.wav,The little rabbits were just old enough to open their blue eyes and kick.,./test_audio/transcripts/test400.json,./test_audio/outputs/test400_timestamps.json
+./test_audio/test401.wav,"A current of love rushed from his heart, and the boy began to pray.",./test_audio/transcripts/test401.json,./test_audio/outputs/test401_timestamps.json
+./test_audio/test402.wav,Camels are traitorous: they walk thousands of paces and never seem to tire.,./test_audio/transcripts/test402.json,./test_audio/outputs/test402_timestamps.json
+./test_audio/test403.wav,"Throughout the history of China, Chinese culture has been heavily influenced by Confucianism.",./test_audio/transcripts/test403.json,./test_audio/outputs/test403_timestamps.json
+./test_audio/test404.wav,In Leipzig he enjoyed the protection of J.,./test_audio/transcripts/test404.json,./test_audio/outputs/test404_timestamps.json
+./test_audio/test405.wav,"It has also been ported to Windows, Linux, and Solaris.",./test_audio/transcripts/test405.json,./test_audio/outputs/test405_timestamps.json
+./test_audio/test406.wav,There's nobody like Jeeves.,./test_audio/transcripts/test406.json,./test_audio/outputs/test406_timestamps.json
+./test_audio/test407.wav,Want someone to take you home?,./test_audio/transcripts/test407.json,./test_audio/outputs/test407_timestamps.json
+./test_audio/test408.wav,He would later sell the ranch and other assets in the Badlands.,./test_audio/transcripts/test408.json,./test_audio/outputs/test408_timestamps.json
+./test_audio/test409.wav,Ballentine was assigned to the battleship after being commissioned.,./test_audio/transcripts/test409.json,./test_audio/outputs/test409_timestamps.json
+./test_audio/test410.wav,He finished his studies at the French Press Institute.,./test_audio/transcripts/test410.json,./test_audio/outputs/test410_timestamps.json
+./test_audio/test411.wav,Vine was successful in gaining interviews with key leaders in various African nations.,./test_audio/transcripts/test411.json,./test_audio/outputs/test411_timestamps.json
+./test_audio/test412.wav,She spent almost all night finishing her thesis.,./test_audio/transcripts/test412.json,./test_audio/outputs/test412_timestamps.json
+./test_audio/test413.wav,Will come out in the flesh.,./test_audio/transcripts/test413.json,./test_audio/outputs/test413_timestamps.json
+./test_audio/test414.wav,Scanner manufacturers usually have their own name attached to this technique.,./test_audio/transcripts/test414.json,./test_audio/outputs/test414_timestamps.json
+./test_audio/test415.wav,Whether there was a final phase is a matter of conjecture.,./test_audio/transcripts/test415.json,./test_audio/outputs/test415_timestamps.json
+./test_audio/test416.wav,What do you mean by 'something'?,./test_audio/transcripts/test416.json,./test_audio/outputs/test416_timestamps.json
+./test_audio/test417.wav,"He also composed the theme song, ""Bit by Bit"", sung by Stephanie Mills.",./test_audio/transcripts/test417.json,./test_audio/outputs/test417_timestamps.json
+./test_audio/test418.wav,There is no evidence that it was ever used in defence.,./test_audio/transcripts/test418.json,./test_audio/outputs/test418_timestamps.json
+./test_audio/test419.wav,"She calls Jack, telling him that the same car keeps passing her house.",./test_audio/transcripts/test419.json,./test_audio/outputs/test419_timestamps.json
+./test_audio/test420.wav,The forests are named after the city of Valdivia.,./test_audio/transcripts/test420.json,./test_audio/outputs/test420_timestamps.json
+./test_audio/test421.wav,"Allen was born and raised in Portland, Oregon.",./test_audio/transcripts/test421.json,./test_audio/outputs/test421_timestamps.json
+./test_audio/test422.wav,He attended a log cabin school in Ohio.,./test_audio/transcripts/test422.json,./test_audio/outputs/test422_timestamps.json
+./test_audio/test423.wav,The album was produced by Jerry Douglas.,./test_audio/transcripts/test423.json,./test_audio/outputs/test423_timestamps.json
+./test_audio/test424.wav,Let me introduce you to Benjamin.,./test_audio/transcripts/test424.json,./test_audio/outputs/test424_timestamps.json
+./test_audio/test425.wav,Fuller attended schools in Lansing.,./test_audio/transcripts/test425.json,./test_audio/outputs/test425_timestamps.json
+./test_audio/test426.wav,Would you like a cappuccino?,./test_audio/transcripts/test426.json,./test_audio/outputs/test426_timestamps.json
+./test_audio/test427.wav,Morag Jeanette Foster was born in Melbourne and attended the University of Melbourne.,./test_audio/transcripts/test427.json,./test_audio/outputs/test427_timestamps.json
+./test_audio/test428.wav,The headquarters of the Communist League also moved to London.,./test_audio/transcripts/test428.json,./test_audio/outputs/test428_timestamps.json
+./test_audio/test429.wav,Marie woman who became the first in Canada to use the battered woman defence.,./test_audio/transcripts/test429.json,./test_audio/outputs/test429_timestamps.json
+./test_audio/test430.wav,"In Ireland, the butter is always salted, why would anyone want it any other way?",./test_audio/transcripts/test430.json,./test_audio/outputs/test430_timestamps.json
+./test_audio/test431.wav,Bail the boat to stop it from sinking.,./test_audio/transcripts/test431.json,./test_audio/outputs/test431_timestamps.json
+./test_audio/test432.wav,The mechanic inspected the car for safety.,./test_audio/transcripts/test432.json,./test_audio/outputs/test432_timestamps.json
+./test_audio/test433.wav,On the way you have to face two hair pin turns while driving.,./test_audio/transcripts/test433.json,./test_audio/outputs/test433_timestamps.json
+./test_audio/test434.wav,"From there, he could see Africa in the distance.",./test_audio/transcripts/test434.json,./test_audio/outputs/test434_timestamps.json
+./test_audio/test435.wav,He called at the occasion for a new Oxford Movement to rise among Anglicanism.,./test_audio/transcripts/test435.json,./test_audio/outputs/test435_timestamps.json
+./test_audio/test436.wav,Nothing is as elastic as the silk of a spider.,./test_audio/transcripts/test436.json,./test_audio/outputs/test436_timestamps.json
+./test_audio/test437.wav,"This is also, presumably, the ""principle"" that organizes the connections between ideas.",./test_audio/transcripts/test437.json,./test_audio/outputs/test437_timestamps.json
+./test_audio/test438.wav,Heaven forbid!,./test_audio/transcripts/test438.json,./test_audio/outputs/test438_timestamps.json
+./test_audio/test439.wav,"There are also two gorges which are namely: the Almiros gorge, the Gonies gorge.",./test_audio/transcripts/test439.json,./test_audio/outputs/test439_timestamps.json
+./test_audio/test440.wav,The rat asks what had happened to him.,./test_audio/transcripts/test440.json,./test_audio/outputs/test440_timestamps.json
+./test_audio/test441.wav,I have no choice I'm afraid.,./test_audio/transcripts/test441.json,./test_audio/outputs/test441_timestamps.json
+./test_audio/test442.wav,Until my wing went bad.,./test_audio/transcripts/test442.json,./test_audio/outputs/test442_timestamps.json
+./test_audio/test443.wav,Its headquarters are in London and it is a registered charity under English law.,./test_audio/transcripts/test443.json,./test_audio/outputs/test443_timestamps.json
+./test_audio/test444.wav,The wretches who do so are viewed with disgust by their fellows.,./test_audio/transcripts/test444.json,./test_audio/outputs/test444_timestamps.json
+./test_audio/test445.wav,What's past is prologue,./test_audio/transcripts/test445.json,./test_audio/outputs/test445_timestamps.json
+./test_audio/test446.wav,"Edie gives the ticket to the police, who pay the Russians a visit.",./test_audio/transcripts/test446.json,./test_audio/outputs/test446_timestamps.json
+./test_audio/test447.wav,The group joined Fort Minor on tour in promotion of the album.,./test_audio/transcripts/test447.json,./test_audio/outputs/test447_timestamps.json
+./test_audio/test448.wav,"In addition to writing fiction, Stout was a prominent public intellectual for decades.",./test_audio/transcripts/test448.json,./test_audio/outputs/test448_timestamps.json
+./test_audio/test449.wav,He attained the rank of Lieutenant Commander.,./test_audio/transcripts/test449.json,./test_audio/outputs/test449_timestamps.json
+./test_audio/test450.wav,"I think there will be all sorts of consequences, Dalyell declared.",./test_audio/transcripts/test450.json,./test_audio/outputs/test450_timestamps.json
+./test_audio/test451.wav,"Their slogan is ""We Bring 'Em Back Alive"".",./test_audio/transcripts/test451.json,./test_audio/outputs/test451_timestamps.json
+./test_audio/test452.wav,The walls of the lock chamber are faced with columnar Basalt.,./test_audio/transcripts/test452.json,./test_audio/outputs/test452_timestamps.json
+./test_audio/test453.wav,I tell you I don't like it.,./test_audio/transcripts/test453.json,./test_audio/outputs/test453_timestamps.json
+./test_audio/test454.wav,Poppyseed oil has relatively little oleic acid.,./test_audio/transcripts/test454.json,./test_audio/outputs/test454_timestamps.json
+./test_audio/test455.wav,"Rahman's version, are in Desh raga.",./test_audio/transcripts/test455.json,./test_audio/outputs/test455_timestamps.json
+./test_audio/test456.wav,"Still, the region includes one of Singapore's largest new towns, Woodlands.",./test_audio/transcripts/test456.json,./test_audio/outputs/test456_timestamps.json
+./test_audio/test457.wav,Grandpa hasn't called me for days.,./test_audio/transcripts/test457.json,./test_audio/outputs/test457_timestamps.json
+./test_audio/test458.wav,Maestro quietly agrees.,./test_audio/transcripts/test458.json,./test_audio/outputs/test458_timestamps.json
+./test_audio/test459.wav,The design is intended for sailing from beaches by one or two people.,./test_audio/transcripts/test459.json,./test_audio/outputs/test459_timestamps.json
+./test_audio/test460.wav,Then the thing came upon him in a flash.,./test_audio/transcripts/test460.json,./test_audio/outputs/test460_timestamps.json
+./test_audio/test461.wav,A man in a black suit is walking.,./test_audio/transcripts/test461.json,./test_audio/outputs/test461_timestamps.json
+./test_audio/test462.wav,"Many frequent Buzztime players are enrolled in the ""Players Plus"" program.",./test_audio/transcripts/test462.json,./test_audio/outputs/test462_timestamps.json
+./test_audio/test463.wav,Two people are looking down at sculptures on the street.,./test_audio/transcripts/test463.json,./test_audio/outputs/test463_timestamps.json
+./test_audio/test464.wav,The production was played in the round.,./test_audio/transcripts/test464.json,./test_audio/outputs/test464_timestamps.json
+./test_audio/test465.wav,The authority expects to complete the project in three to four years.,./test_audio/transcripts/test465.json,./test_audio/outputs/test465_timestamps.json
+./test_audio/test466.wav,The former is much simpler than the latter.,./test_audio/transcripts/test466.json,./test_audio/outputs/test466_timestamps.json
+./test_audio/test467.wav,"On stage, their performance was a blend of vaudeville antics and great musicianship.",./test_audio/transcripts/test467.json,./test_audio/outputs/test467_timestamps.json
+./test_audio/test468.wav,These Peterson's book publications contain several practice tests and course outlines.,./test_audio/transcripts/test468.json,./test_audio/outputs/test468_timestamps.json
+./test_audio/test469.wav,Brooke was eulogized as a friend of toleration by John Milton.,./test_audio/transcripts/test469.json,./test_audio/outputs/test469_timestamps.json
+./test_audio/test470.wav,"Technically, breaking a mirror is not five years, but seven years of bad luck.",./test_audio/transcripts/test470.json,./test_audio/outputs/test470_timestamps.json
+./test_audio/test471.wav,"""If good things are coming, they will be a pleasant surprise,"" said the seer.",./test_audio/transcripts/test471.json,./test_audio/outputs/test471_timestamps.json
+./test_audio/test472.wav,They had four children (two sons and two daughters).,./test_audio/transcripts/test472.json,./test_audio/outputs/test472_timestamps.json
+./test_audio/test473.wav,He hit his head so hard that the shaft bent.,./test_audio/transcripts/test473.json,./test_audio/outputs/test473_timestamps.json
+./test_audio/test474.wav,The participating schools came from around Singapore.,./test_audio/transcripts/test474.json,./test_audio/outputs/test474_timestamps.json
+./test_audio/test475.wav,"Remember that wherever your heart is, there you will find your treasure.",./test_audio/transcripts/test475.json,./test_audio/outputs/test475_timestamps.json
+./test_audio/test476.wav,Many subdivisions are located in Rapid Valley.,./test_audio/transcripts/test476.json,./test_audio/outputs/test476_timestamps.json
+./test_audio/test477.wav,"Missiles often have multiple engine stages, particularly in those launched from the surface.",./test_audio/transcripts/test477.json,./test_audio/outputs/test477_timestamps.json
+./test_audio/test478.wav,The salmon stairs at Osen in Bygstad are the oldest in the world.,./test_audio/transcripts/test478.json,./test_audio/outputs/test478_timestamps.json
+./test_audio/test479.wav,Kopel is from the Western Highlands Province.,./test_audio/transcripts/test479.json,./test_audio/outputs/test479_timestamps.json
+./test_audio/test480.wav,I don't want anything for myself.,./test_audio/transcripts/test480.json,./test_audio/outputs/test480_timestamps.json
+./test_audio/test481.wav,The next sort is that not made by a fixed machine.,./test_audio/transcripts/test481.json,./test_audio/outputs/test481_timestamps.json
+./test_audio/test482.wav,He was the teacher of Toquinho.,./test_audio/transcripts/test482.json,./test_audio/outputs/test482_timestamps.json
+./test_audio/test483.wav,They continue to perform in concerts across the country.,./test_audio/transcripts/test483.json,./test_audio/outputs/test483_timestamps.json
+./test_audio/test484.wav,Sound taken directly from the studio made the documentary nature of the recording arguable.,./test_audio/transcripts/test484.json,./test_audio/outputs/test484_timestamps.json
+./test_audio/test485.wav,Use glitter that naturally breaks down.,./test_audio/transcripts/test485.json,./test_audio/outputs/test485_timestamps.json
+./test_audio/test486.wav,"She is interred in the Oakwood Cemetery in her hometown of Fort Worth, Texas.",./test_audio/transcripts/test486.json,./test_audio/outputs/test486_timestamps.json
+./test_audio/test487.wav,The writing on the piece of paper will provide an answer to the question.,./test_audio/transcripts/test487.json,./test_audio/outputs/test487_timestamps.json
+./test_audio/test488.wav,"After the gold rush played out, the settlers who remained turned to agriculture.",./test_audio/transcripts/test488.json,./test_audio/outputs/test488_timestamps.json
+./test_audio/test489.wav,Bishop Reed is in part responsible for the high school's legacy of lay leadership.,./test_audio/transcripts/test489.json,./test_audio/outputs/test489_timestamps.json
+./test_audio/test490.wav,You don't have to make all that fuss about it.,./test_audio/transcripts/test490.json,./test_audio/outputs/test490_timestamps.json
+./test_audio/test491.wav,"""There is only one way to learn,"" the alchemist answered.",./test_audio/transcripts/test491.json,./test_audio/outputs/test491_timestamps.json
+./test_audio/test492.wav,His releases were mostly with Ravindra Rawal.,./test_audio/transcripts/test492.json,./test_audio/outputs/test492_timestamps.json
+./test_audio/test493.wav,The simum blew that day as it had never blown before.,./test_audio/transcripts/test493.json,./test_audio/outputs/test493_timestamps.json
+./test_audio/test494.wav,What shall I do?,./test_audio/transcripts/test494.json,./test_audio/outputs/test494_timestamps.json
+./test_audio/test495.wav,"His position was unpopular throughout the nation, and Congress refused to lift the ban.",./test_audio/transcripts/test495.json,./test_audio/outputs/test495_timestamps.json
+./test_audio/test496.wav,It can't happen here is number one on the list of famous last words.,./test_audio/transcripts/test496.json,./test_audio/outputs/test496_timestamps.json
+./test_audio/test497.wav,Albums that had already been produced had a bandage attached to them.,./test_audio/transcripts/test497.json,./test_audio/outputs/test497_timestamps.json
+./test_audio/test498.wav,The Second World War also left its marks on Wettringen.,./test_audio/transcripts/test498.json,./test_audio/outputs/test498_timestamps.json
+./test_audio/test499.wav,All books written by Jude Watson.,./test_audio/transcripts/test499.json,./test_audio/outputs/test499_timestamps.json
+./test_audio/test500.wav,"Before long, maybe in just a few days, he would be at the Pyramids.",./test_audio/transcripts/test500.json,./test_audio/outputs/test500_timestamps.json
+./test_audio/test501.wav,Cry havoc and let slip the dogs of war,./test_audio/transcripts/test501.json,./test_audio/outputs/test501_timestamps.json
+./test_audio/test502.wav,A gold ring will please most any girl.,./test_audio/transcripts/test502.json,./test_audio/outputs/test502_timestamps.json
+./test_audio/test503.wav,The Archipelago contains of land.,./test_audio/transcripts/test503.json,./test_audio/outputs/test503_timestamps.json
+./test_audio/test504.wav,He had been ill for several months with heart affection and asthma.,./test_audio/transcripts/test504.json,./test_audio/outputs/test504_timestamps.json
+./test_audio/test505.wav,The temperature rarely rises to or lowers to the freezing mark.,./test_audio/transcripts/test505.json,./test_audio/outputs/test505_timestamps.json
+./test_audio/test506.wav,The demo lacks the full orchestral feel of the final song.,./test_audio/transcripts/test506.json,./test_audio/outputs/test506_timestamps.json
+./test_audio/test507.wav,A dog is jumping into the water.,./test_audio/transcripts/test507.json,./test_audio/outputs/test507_timestamps.json
+./test_audio/test508.wav,They are accorded a triumphal reception with music and solemn ceremonial.,./test_audio/transcripts/test508.json,./test_audio/outputs/test508_timestamps.json
+./test_audio/test509.wav,"It dealt with matters concerning British naval plans, with the collection of naval intelligence.",./test_audio/transcripts/test509.json,./test_audio/outputs/test509_timestamps.json
+./test_audio/test510.wav,Note closely the size of the gas tank.,./test_audio/transcripts/test510.json,./test_audio/outputs/test510_timestamps.json
+./test_audio/test511.wav,"However, the series was launched without this technology.",./test_audio/transcripts/test511.json,./test_audio/outputs/test511_timestamps.json
+./test_audio/test512.wav,She won the California Young Reader Medal of the California Library Association twice.,./test_audio/transcripts/test512.json,./test_audio/outputs/test512_timestamps.json
+./test_audio/test513.wav,Their informal structure allows closer exchange of ideas.,./test_audio/transcripts/test513.json,./test_audio/outputs/test513_timestamps.json
+./test_audio/test514.wav,"It was listed in Alan Dawson's ""The Relative Hills of Britain"" as a Marilyn.",./test_audio/transcripts/test514.json,./test_audio/outputs/test514_timestamps.json
+./test_audio/test515.wav,His face appears on the Jamaican one hundred dollar banknote.,./test_audio/transcripts/test515.json,./test_audio/outputs/test515_timestamps.json
+./test_audio/test516.wav,"They had a religious wedding ceremony, though both were far from religious.",./test_audio/transcripts/test516.json,./test_audio/outputs/test516_timestamps.json
+./test_audio/test517.wav,Each pair is shut up in a canoe about a foot long.,./test_audio/transcripts/test517.json,./test_audio/outputs/test517_timestamps.json
+./test_audio/test518.wav,Robbing Peter to pay Paul.,./test_audio/transcripts/test518.json,./test_audio/outputs/test518_timestamps.json
+./test_audio/test519.wav,Have you ever heard the national anthem of South Korea?,./test_audio/transcripts/test519.json,./test_audio/outputs/test519_timestamps.json
+./test_audio/test520.wav,"The Marbled Murrelet, in contrast tends to remain closer to its breeding grounds.",./test_audio/transcripts/test520.json,./test_audio/outputs/test520_timestamps.json
+./test_audio/test521.wav,They become a part of everything...,./test_audio/transcripts/test521.json,./test_audio/outputs/test521_timestamps.json
+./test_audio/test522.wav,"Brue has since referred to the original sale as part of his ""biggest mistake"".",./test_audio/transcripts/test522.json,./test_audio/outputs/test522_timestamps.json
+./test_audio/test523.wav,"Alfred C. Hueston, the Livingston County Surveyor, laid out the town.",./test_audio/transcripts/test523.json,./test_audio/outputs/test523_timestamps.json
+./test_audio/test524.wav,I turned upon her.,./test_audio/transcripts/test524.json,./test_audio/outputs/test524_timestamps.json
+./test_audio/test525.wav,She had one older brother.,./test_audio/transcripts/test525.json,./test_audio/outputs/test525_timestamps.json
+./test_audio/test526.wav,He smoke a big pipe with strong contents.,./test_audio/transcripts/test526.json,./test_audio/outputs/test526_timestamps.json
+./test_audio/test527.wav,"A child looks happy, as she is receiving a gift.",./test_audio/transcripts/test527.json,./test_audio/outputs/test527_timestamps.json
+./test_audio/test528.wav,The word 'inch' actually refers to the area of the hole in 'square inches'.,./test_audio/transcripts/test528.json,./test_audio/outputs/test528_timestamps.json
+./test_audio/test529.wav,It is designed to allow sunlight to reach the subway platform.,./test_audio/transcripts/test529.json,./test_audio/outputs/test529_timestamps.json
+./test_audio/test530.wav,"Take this pill twice daily, once in the morning and once at bedtime.",./test_audio/transcripts/test530.json,./test_audio/outputs/test530_timestamps.json
+./test_audio/test531.wav,"He looked like an Arab, which was not unusual in those parts.",./test_audio/transcripts/test531.json,./test_audio/outputs/test531_timestamps.json
+./test_audio/test532.wav,Otherwise no restriction is put upon their seafaring.,./test_audio/transcripts/test532.json,./test_audio/outputs/test532_timestamps.json
+./test_audio/test533.wav,Jehovah is a Christian anglicized vocalization of this name.,./test_audio/transcripts/test533.json,./test_audio/outputs/test533_timestamps.json
+./test_audio/test534.wav,Many people are not able to use their first language correctly.,./test_audio/transcripts/test534.json,./test_audio/outputs/test534_timestamps.json
+./test_audio/test535.wav,It might be in this writer's Top Ten!,./test_audio/transcripts/test535.json,./test_audio/outputs/test535_timestamps.json
+./test_audio/test536.wav,And the sand and gravel had been flung violently in every direction.,./test_audio/transcripts/test536.json,./test_audio/outputs/test536_timestamps.json
+./test_audio/test537.wav,The sinner had wrinkled hands.,./test_audio/transcripts/test537.json,./test_audio/outputs/test537_timestamps.json
+./test_audio/test538.wav,But here amongst ourselves let us speak out.,./test_audio/transcripts/test538.json,./test_audio/outputs/test538_timestamps.json
+./test_audio/test539.wav,He collected for the ethnographic museum in Freiburg.,./test_audio/transcripts/test539.json,./test_audio/outputs/test539_timestamps.json
+./test_audio/test540.wav,He later claimed that his remarks had been misconstrued.,./test_audio/transcripts/test540.json,./test_audio/outputs/test540_timestamps.json
+./test_audio/test541.wav,"""Heroes of the Pacific"" also offers multiple difficulty levels: Rookie, Pilot, Veteran, and Ace.",./test_audio/transcripts/test541.json,./test_audio/outputs/test541_timestamps.json
+./test_audio/test542.wav,Do I knock or something?,./test_audio/transcripts/test542.json,./test_audio/outputs/test542_timestamps.json
+./test_audio/test543.wav,He established his capital on Mengo Hill.,./test_audio/transcripts/test543.json,./test_audio/outputs/test543_timestamps.json
+./test_audio/test544.wav,"My wife pointed out to me the brightness of the red, green, and yellow signal lights.",./test_audio/transcripts/test544.json,./test_audio/outputs/test544_timestamps.json
+./test_audio/test545.wav,What will you have to drink?,./test_audio/transcripts/test545.json,./test_audio/outputs/test545_timestamps.json
+./test_audio/test546.wav,"At that time, Paris was surrounded by a city wall.",./test_audio/transcripts/test546.json,./test_audio/outputs/test546_timestamps.json
+./test_audio/test547.wav,He was captured and held by the Germans until the end of the war.,./test_audio/transcripts/test547.json,./test_audio/outputs/test547_timestamps.json
+./test_audio/test548.wav,Tanzania is a beautiful country full of beautiful people.,./test_audio/transcripts/test548.json,./test_audio/outputs/test548_timestamps.json
+./test_audio/test549.wav,Who'd you say it was?,./test_audio/transcripts/test549.json,./test_audio/outputs/test549_timestamps.json
+./test_audio/test550.wav,The label has a special relation towards film and directors.,./test_audio/transcripts/test550.json,./test_audio/outputs/test550_timestamps.json
+./test_audio/test551.wav,Three matches occurred during The Buy In.,./test_audio/transcripts/test551.json,./test_audio/outputs/test551_timestamps.json
+./test_audio/test552.wav,You don’t like him?,./test_audio/transcripts/test552.json,./test_audio/outputs/test552_timestamps.json
+./test_audio/test553.wav,The main semantic unit of the language is the expression.,./test_audio/transcripts/test553.json,./test_audio/outputs/test553_timestamps.json
+./test_audio/test554.wav,The prosecution demanded the death sentence according to Art.,./test_audio/transcripts/test554.json,./test_audio/outputs/test554_timestamps.json
+./test_audio/test555.wav,Eleonora is the older sister of the sprinter Elisabetta Vandi.,./test_audio/transcripts/test555.json,./test_audio/outputs/test555_timestamps.json
+./test_audio/test556.wav,Softwood has a light texture which helps creating the sound.,./test_audio/transcripts/test556.json,./test_audio/outputs/test556_timestamps.json
+./test_audio/test557.wav,"The specific epithet (""pulchella"") means ""beautiful and small"".",./test_audio/transcripts/test557.json,./test_audio/outputs/test557_timestamps.json
+./test_audio/test558.wav,"And Reynolds, and Jackson.",./test_audio/transcripts/test558.json,./test_audio/outputs/test558_timestamps.json
+./test_audio/test559.wav,"He founded Lawrence, Massachusetts.",./test_audio/transcripts/test559.json,./test_audio/outputs/test559_timestamps.json
+./test_audio/test560.wav,"This practice was not, however, adopted by Zoroastrians living in Islamic Persia.",./test_audio/transcripts/test560.json,./test_audio/outputs/test560_timestamps.json
+./test_audio/test561.wav,A kid 's face painted orange resembling a tiger identity.,./test_audio/transcripts/test561.json,./test_audio/outputs/test561_timestamps.json
+./test_audio/test562.wav,Roy Higgins rode Light Fingers in the majority of her big wins.,./test_audio/transcripts/test562.json,./test_audio/outputs/test562_timestamps.json
+./test_audio/test563.wav,"As a British prince, William does not use a surname for everyday purposes.",./test_audio/transcripts/test563.json,./test_audio/outputs/test563_timestamps.json
+./test_audio/test564.wav,It was one of the first classic Georgian breweries outside London.,./test_audio/transcripts/test564.json,./test_audio/outputs/test564_timestamps.json
+./test_audio/test565.wav,He had also been elected as the Vice Chairman of Cuttack Municipality.,./test_audio/transcripts/test565.json,./test_audio/outputs/test565_timestamps.json
+./test_audio/test566.wav,Ojeda withdrew before the beginning of the forums.,./test_audio/transcripts/test566.json,./test_audio/outputs/test566_timestamps.json
+./test_audio/test567.wav,The Bertrand paradox goes as follows: Consider an equilateral triangle inscribed in a circle.,./test_audio/transcripts/test567.json,./test_audio/outputs/test567_timestamps.json
+./test_audio/test568.wav,Grid north solves this problem.,./test_audio/transcripts/test568.json,./test_audio/outputs/test568_timestamps.json
+./test_audio/test569.wav,Do you know what kind of package it was?,./test_audio/transcripts/test569.json,./test_audio/outputs/test569_timestamps.json
+./test_audio/test570.wav,Why are we doing this again?,./test_audio/transcripts/test570.json,./test_audio/outputs/test570_timestamps.json
+./test_audio/test571.wav,Presumably Ryan never did any sanity checks.,./test_audio/transcripts/test571.json,./test_audio/outputs/test571_timestamps.json
+./test_audio/test572.wav,"Although she had flowers and applause, Mavis said she was not content.",./test_audio/transcripts/test572.json,./test_audio/outputs/test572_timestamps.json
+./test_audio/test573.wav,Her phone is not getting any cell tower signals.,./test_audio/transcripts/test573.json,./test_audio/outputs/test573_timestamps.json
+./test_audio/test574.wav,The cover art is inspired by that of Judgment!,./test_audio/transcripts/test574.json,./test_audio/outputs/test574_timestamps.json
+./test_audio/test575.wav,"It's a long way to Tipperary, it's a long way to go!",./test_audio/transcripts/test575.json,./test_audio/outputs/test575_timestamps.json
+./test_audio/test576.wav,Relatively recently they also have friendly relations with fans of Fortuna Dusseldorf.,./test_audio/transcripts/test576.json,./test_audio/outputs/test576_timestamps.json
+./test_audio/test577.wav,Flower became batting coach and Streak was named as bowling coach.,./test_audio/transcripts/test577.json,./test_audio/outputs/test577_timestamps.json
+./test_audio/test578.wav,"The noun ""virulence"" derives from the adjective ""virulent"".",./test_audio/transcripts/test578.json,./test_audio/outputs/test578_timestamps.json
+./test_audio/test579.wav,The fourth was the independent Sultanate of Morocco.,./test_audio/transcripts/test579.json,./test_audio/outputs/test579_timestamps.json
+./test_audio/test580.wav,The records were advertised in farming magazines and sold through the mail.,./test_audio/transcripts/test580.json,./test_audio/outputs/test580_timestamps.json
+./test_audio/test581.wav,He wants to grow out his mustache.,./test_audio/transcripts/test581.json,./test_audio/outputs/test581_timestamps.json
+./test_audio/test582.wav,"Writing, the best memory.",./test_audio/transcripts/test582.json,./test_audio/outputs/test582_timestamps.json
+./test_audio/test583.wav,The Creeks refused.,./test_audio/transcripts/test583.json,./test_audio/outputs/test583_timestamps.json
+./test_audio/test584.wav,Hard work produced a prosperous community.,./test_audio/transcripts/test584.json,./test_audio/outputs/test584_timestamps.json
+./test_audio/test585.wav,A number of San Francisco professional athletes have called Foster City home.,./test_audio/transcripts/test585.json,./test_audio/outputs/test585_timestamps.json
+./test_audio/test586.wav,No one seemed to have thought about it that night.,./test_audio/transcripts/test586.json,./test_audio/outputs/test586_timestamps.json
+./test_audio/test587.wav,"The term, bazaar, spread from Persia into Arabia and ultimately throughout the Middle East.",./test_audio/transcripts/test587.json,./test_audio/outputs/test587_timestamps.json
+./test_audio/test588.wav,He specialises in drum and bass and jungle music.,./test_audio/transcripts/test588.json,./test_audio/outputs/test588_timestamps.json
+./test_audio/test589.wav,And you couldn't release him?,./test_audio/transcripts/test589.json,./test_audio/outputs/test589_timestamps.json
+./test_audio/test590.wav,The process for determining star ratings differs between various categories.,./test_audio/transcripts/test590.json,./test_audio/outputs/test590_timestamps.json
+./test_audio/test591.wav,And ask for a glass of wine for me.,./test_audio/transcripts/test591.json,./test_audio/outputs/test591_timestamps.json
+./test_audio/test592.wav,"Two caribous in a queue, they didn't have a clue, that I was using their flue, to write a poem for you.",./test_audio/transcripts/test592.json,./test_audio/outputs/test592_timestamps.json
+./test_audio/test593.wav,These trees are attractive and easy to grow.,./test_audio/transcripts/test593.json,./test_audio/outputs/test593_timestamps.json
+./test_audio/test594.wav,The tower was intended to rival the Eiffel Tower in Paris.,./test_audio/transcripts/test594.json,./test_audio/outputs/test594_timestamps.json
+./test_audio/test595.wav,"The higher the degree of substitution, the more stable a carbocation generally is.",./test_audio/transcripts/test595.json,./test_audio/outputs/test595_timestamps.json
+./test_audio/test596.wav,"Supposedly, this reduces vibrations in the camera.",./test_audio/transcripts/test596.json,./test_audio/outputs/test596_timestamps.json
+./test_audio/test597.wav,"""See,"" said Sarah, ""that is my brother.""",./test_audio/transcripts/test597.json,./test_audio/outputs/test597_timestamps.json
+./test_audio/test598.wav,"""Jellyfish can cause serious injuries"", the physician explained to the patient.",./test_audio/transcripts/test598.json,./test_audio/outputs/test598_timestamps.json
+./test_audio/test599.wav,Many of the illustrations he created for the magazine depict characters seen the film.,./test_audio/transcripts/test599.json,./test_audio/outputs/test599_timestamps.json
+./test_audio/test600.wav,A man is playing a guitar on the sidewalk.,./test_audio/transcripts/test600.json,./test_audio/outputs/test600_timestamps.json
+./test_audio/test601.wav,The official replied that it was strictly forbidden to open the bundle.,./test_audio/transcripts/test601.json,./test_audio/outputs/test601_timestamps.json
+./test_audio/test602.wav,He was born in Chalkis.,./test_audio/transcripts/test602.json,./test_audio/outputs/test602_timestamps.json
+./test_audio/test603.wav,New Flavors introduced generic functions.,./test_audio/transcripts/test603.json,./test_audio/outputs/test603_timestamps.json
+./test_audio/test604.wav,Why did you do it?,./test_audio/transcripts/test604.json,./test_audio/outputs/test604_timestamps.json
+./test_audio/test605.wav,The parapodia are small and held tightly against sides of body.,./test_audio/transcripts/test605.json,./test_audio/outputs/test605_timestamps.json
+./test_audio/test606.wav,The airframe was old at the time of the accident.,./test_audio/transcripts/test606.json,./test_audio/outputs/test606_timestamps.json
+./test_audio/test607.wav,The monastery has now been converted into a meteorological station and an inn.,./test_audio/transcripts/test607.json,./test_audio/outputs/test607_timestamps.json
+./test_audio/test608.wav,"Tomorrow morning, she will check into the hospital.",./test_audio/transcripts/test608.json,./test_audio/outputs/test608_timestamps.json
+./test_audio/test609.wav,Tateyama kurobe Geopark,./test_audio/transcripts/test609.json,./test_audio/outputs/test609_timestamps.json
+./test_audio/test610.wav,He then dropped the studies and became a political activist.,./test_audio/transcripts/test610.json,./test_audio/outputs/test610_timestamps.json
+./test_audio/test611.wav,The Romans were quite familiar with the spectacle of men masquerading as spirits.,./test_audio/transcripts/test611.json,./test_audio/outputs/test611_timestamps.json
+./test_audio/test612.wav,It remains a theory however and cannot be confirmed.,./test_audio/transcripts/test612.json,./test_audio/outputs/test612_timestamps.json
+./test_audio/test613.wav,The purple tie was ten years old.,./test_audio/transcripts/test613.json,./test_audio/outputs/test613_timestamps.json
+./test_audio/test614.wav,"English, Mathematics and Science are available at the standard and foundational levels.",./test_audio/transcripts/test614.json,./test_audio/outputs/test614_timestamps.json
+./test_audio/test615.wav,"Club"" called it an ""artistic high"" for the band.",./test_audio/transcripts/test615.json,./test_audio/outputs/test615_timestamps.json
+./test_audio/test616.wav,Ducati was born in Milan.,./test_audio/transcripts/test616.json,./test_audio/outputs/test616_timestamps.json
+./test_audio/test617.wav,Get Martin out of jail!,./test_audio/transcripts/test617.json,./test_audio/outputs/test617_timestamps.json
+./test_audio/test618.wav,The crater is named after Don Hendrix.,./test_audio/transcripts/test618.json,./test_audio/outputs/test618_timestamps.json
+./test_audio/test619.wav,The book is about probability and how it applies to the theory of evolution.,./test_audio/transcripts/test619.json,./test_audio/outputs/test619_timestamps.json
+./test_audio/test620.wav,He is the head baseball coach at Bryant University.,./test_audio/transcripts/test620.json,./test_audio/outputs/test620_timestamps.json
+./test_audio/test621.wav,"The ""Tabula Peutingeriana"" shows Tacape between Marcomades and Sabratha.",./test_audio/transcripts/test621.json,./test_audio/outputs/test621_timestamps.json
+./test_audio/test622.wav,The ad has been unfavorably recognized in retrospect.,./test_audio/transcripts/test622.json,./test_audio/outputs/test622_timestamps.json
+./test_audio/test623.wav,He met the organizers of the protests and agreed to create two working groups.,./test_audio/transcripts/test623.json,./test_audio/outputs/test623_timestamps.json
+./test_audio/test624.wav,They also incorporate seven book publishing companies.,./test_audio/transcripts/test624.json,./test_audio/outputs/test624_timestamps.json
+./test_audio/test625.wav,But he didn't need to worry about that right now.,./test_audio/transcripts/test625.json,./test_audio/outputs/test625_timestamps.json
+./test_audio/test626.wav,Can I have one of those?,./test_audio/transcripts/test626.json,./test_audio/outputs/test626_timestamps.json
+./test_audio/test627.wav,Bingo replies embarrassingly that he was given it.,./test_audio/transcripts/test627.json,./test_audio/outputs/test627_timestamps.json
+./test_audio/test628.wav,"As they grew older, she grew back into work.",./test_audio/transcripts/test628.json,./test_audio/outputs/test628_timestamps.json
+./test_audio/test629.wav,Heinz Company and was president of Northeastern National Bank and Trust Company.,./test_audio/transcripts/test629.json,./test_audio/outputs/test629_timestamps.json
+./test_audio/test630.wav,"""What is love?"" the desert asked.",./test_audio/transcripts/test630.json,./test_audio/outputs/test630_timestamps.json
+./test_audio/test631.wav,She said it took her nearly four years to get the film made.,./test_audio/transcripts/test631.json,./test_audio/outputs/test631_timestamps.json
+./test_audio/test632.wav,Troops are accused to routinely torture prisoners in Iraq.,./test_audio/transcripts/test632.json,./test_audio/outputs/test632_timestamps.json
+./test_audio/test633.wav,The vast space stretched into the far distance.,./test_audio/transcripts/test633.json,./test_audio/outputs/test633_timestamps.json
+./test_audio/test634.wav,The Spinning Wheel replaced the earlier method of hand spinning with a spindle.,./test_audio/transcripts/test634.json,./test_audio/outputs/test634_timestamps.json
+./test_audio/test635.wav,He was a leader in developing financial forecasting as a business management tool.,./test_audio/transcripts/test635.json,./test_audio/outputs/test635_timestamps.json
+./test_audio/test636.wav,There have been continued efforts to improve the road in the south.,./test_audio/transcripts/test636.json,./test_audio/outputs/test636_timestamps.json
+./test_audio/test637.wav,It was the first state title under head coach Jim Bocci.,./test_audio/transcripts/test637.json,./test_audio/outputs/test637_timestamps.json
+./test_audio/test638.wav,Also only two terms can be operated on at once.,./test_audio/transcripts/test638.json,./test_audio/outputs/test638_timestamps.json
+./test_audio/test639.wav,A total of six national associations were represented in the group stage.,./test_audio/transcripts/test639.json,./test_audio/outputs/test639_timestamps.json
+./test_audio/test640.wav,In order to fight poverty one should fight dependency first.,./test_audio/transcripts/test640.json,./test_audio/outputs/test640_timestamps.json
+./test_audio/test641.wav,"It is centred east of Newbury, Berkshire and east of Thatcham.",./test_audio/transcripts/test641.json,./test_audio/outputs/test641_timestamps.json
+./test_audio/test642.wav,The music video was posted on YouTube on Cory's official account.,./test_audio/transcripts/test642.json,./test_audio/outputs/test642_timestamps.json
+./test_audio/test643.wav,Let me see your ticket.,./test_audio/transcripts/test643.json,./test_audio/outputs/test643_timestamps.json
+./test_audio/test644.wav,Hunting is permitted in specific areas and times during the year.,./test_audio/transcripts/test644.json,./test_audio/outputs/test644_timestamps.json
+./test_audio/test645.wav,It changed its name to Marianopolis College.,./test_audio/transcripts/test645.json,./test_audio/outputs/test645_timestamps.json
+./test_audio/test646.wav,Stefansson wanted to compare the arid desert of Central Australia with the Arctic.,./test_audio/transcripts/test646.json,./test_audio/outputs/test646_timestamps.json
+./test_audio/test647.wav,three,./test_audio/transcripts/test647.json,./test_audio/outputs/test647_timestamps.json
+./test_audio/test648.wav,This application did not succeed.,./test_audio/transcripts/test648.json,./test_audio/outputs/test648_timestamps.json
+./test_audio/test649.wav,Its territory is now in western Croatia.,./test_audio/transcripts/test649.json,./test_audio/outputs/test649_timestamps.json
+./test_audio/test650.wav,"Staller has appeared nude in ""Playboy's"" editions in several countries.",./test_audio/transcripts/test650.json,./test_audio/outputs/test650_timestamps.json
+./test_audio/test651.wav,William Hawryluk was a perennial candidate for political office in Winnipeg.,./test_audio/transcripts/test651.json,./test_audio/outputs/test651_timestamps.json
+./test_audio/test652.wav,He heard a muffled grating sound and saw the black mark jerk forward an inch or so.,./test_audio/transcripts/test652.json,./test_audio/outputs/test652_timestamps.json
+./test_audio/test653.wav,"Shortly after, the project was restarted again.",./test_audio/transcripts/test653.json,./test_audio/outputs/test653_timestamps.json
+./test_audio/test654.wav,She also played for two years in the New Zealand Secondary Schools netball team.,./test_audio/transcripts/test654.json,./test_audio/outputs/test654_timestamps.json
+./test_audio/test655.wav,"In his youth, Nolan was the starting quarterback at White Plains High School.",./test_audio/transcripts/test655.json,./test_audio/outputs/test655_timestamps.json
+./test_audio/test656.wav,The eggs float freely with the currents until hatching.,./test_audio/transcripts/test656.json,./test_audio/outputs/test656_timestamps.json
+./test_audio/test657.wav,Brazilian Rock band Swianne currently perform the song regularly in their concerts.,./test_audio/transcripts/test657.json,./test_audio/outputs/test657_timestamps.json
+./test_audio/test658.wav,"It included a lot of nonsense, and stories making fun of daily life.",./test_audio/transcripts/test658.json,./test_audio/outputs/test658_timestamps.json
+./test_audio/test659.wav,He died in Gothenburg.,./test_audio/transcripts/test659.json,./test_audio/outputs/test659_timestamps.json
+./test_audio/test660.wav,A single hair casts a shadow,./test_audio/transcripts/test660.json,./test_audio/outputs/test660_timestamps.json
+./test_audio/test661.wav,Sound as a bell.,./test_audio/transcripts/test661.json,./test_audio/outputs/test661_timestamps.json
+./test_audio/test662.wav,"Most, but not all, of the Sleeping Giant has been conserved.",./test_audio/transcripts/test662.json,./test_audio/outputs/test662_timestamps.json
+./test_audio/test663.wav,"Later, we simply let life proceed, in its own direction, toward its own fate.",./test_audio/transcripts/test663.json,./test_audio/outputs/test663_timestamps.json
+./test_audio/test664.wav,What are they gonna think about you?,./test_audio/transcripts/test664.json,./test_audio/outputs/test664_timestamps.json
+./test_audio/test665.wav,A bad workman blames his tools.,./test_audio/transcripts/test665.json,./test_audio/outputs/test665_timestamps.json
+./test_audio/test666.wav,"Hafner Publishing Company, New York.",./test_audio/transcripts/test666.json,./test_audio/outputs/test666_timestamps.json
+./test_audio/test667.wav,The team has played many top level games in Poland.,./test_audio/transcripts/test667.json,./test_audio/outputs/test667_timestamps.json
+./test_audio/test668.wav,He has since been serving on the Committee on Constitutional Affairs.,./test_audio/transcripts/test668.json,./test_audio/outputs/test668_timestamps.json
+./test_audio/test669.wav,"Double seaming uses rollers to shape the can, lid and the final double seam.",./test_audio/transcripts/test669.json,./test_audio/outputs/test669_timestamps.json
+./test_audio/test670.wav,One bridge was only to be used by citizens.,./test_audio/transcripts/test670.json,./test_audio/outputs/test670_timestamps.json
+./test_audio/test671.wav,"It was also billed as ""The Queen of Southern Stadiums"".",./test_audio/transcripts/test671.json,./test_audio/outputs/test671_timestamps.json
+./test_audio/test672.wav,"Media response to ""An Answer Can Be Found"" was mixed.",./test_audio/transcripts/test672.json,./test_audio/outputs/test672_timestamps.json
+./test_audio/test673.wav,The jar lid was too tight to unscrew.,./test_audio/transcripts/test673.json,./test_audio/outputs/test673_timestamps.json
+./test_audio/test674.wav,This truce was focused primarily on recovery of wounded soldiers.,./test_audio/transcripts/test674.json,./test_audio/outputs/test674_timestamps.json
+./test_audio/test675.wav,The two most established communities on the island are Frogmore and Lands End.,./test_audio/transcripts/test675.json,./test_audio/outputs/test675_timestamps.json
+./test_audio/test676.wav,The quick fox jumped on the sleeping cat.,./test_audio/transcripts/test676.json,./test_audio/outputs/test676_timestamps.json
+./test_audio/test677.wav,He is noted for his studies of plants in the south of Africa.,./test_audio/transcripts/test677.json,./test_audio/outputs/test677_timestamps.json
+./test_audio/test678.wav,The potentials in each case are given with respect to the standard hydrogen electrode.,./test_audio/transcripts/test678.json,./test_audio/outputs/test678_timestamps.json
+./test_audio/test679.wav,The member for Concord was Thomas Murphy (Labor).,./test_audio/transcripts/test679.json,./test_audio/outputs/test679_timestamps.json
+./test_audio/test680.wav,"They had two sons, Vilhelm and Tomas, and a daughter, Margrethe.",./test_audio/transcripts/test680.json,./test_audio/outputs/test680_timestamps.json
+./test_audio/test681.wav,They had at their disposal a ballroom where they could sing every Saturday.,./test_audio/transcripts/test681.json,./test_audio/outputs/test681_timestamps.json
+./test_audio/test682.wav,Little words like If and it.,./test_audio/transcripts/test682.json,./test_audio/outputs/test682_timestamps.json
+./test_audio/test683.wav,That's why I want you to continue toward your goal.,./test_audio/transcripts/test683.json,./test_audio/outputs/test683_timestamps.json
+./test_audio/test684.wav,The other is the Legislative Council.,./test_audio/transcripts/test684.json,./test_audio/outputs/test684_timestamps.json
+./test_audio/test685.wav,The accounts contained in his history bear internal marks of authenticity.,./test_audio/transcripts/test685.json,./test_audio/outputs/test685_timestamps.json
+./test_audio/test686.wav,A local band performing at a local venue.,./test_audio/transcripts/test686.json,./test_audio/outputs/test686_timestamps.json
+./test_audio/test687.wav,The broadening waters flowed through a mob of wooded islands.,./test_audio/transcripts/test687.json,./test_audio/outputs/test687_timestamps.json
+./test_audio/test688.wav,"When Smith starts shooting at him, Macreedy hides behind the Jeep.",./test_audio/transcripts/test688.json,./test_audio/outputs/test688_timestamps.json
+./test_audio/test689.wav,Their music makes use of thrash metal riffing and heavy hardcore stylised breakdowns.,./test_audio/transcripts/test689.json,./test_audio/outputs/test689_timestamps.json
+./test_audio/test690.wav,Maybe it was yesterday.,./test_audio/transcripts/test690.json,./test_audio/outputs/test690_timestamps.json
+./test_audio/test691.wav,"There is a hockey arena in LaSalle, Quebec named after Lemaire.",./test_audio/transcripts/test691.json,./test_audio/outputs/test691_timestamps.json
+./test_audio/test692.wav,A group of people stand in a loose line on a brick ground.,./test_audio/transcripts/test692.json,./test_audio/outputs/test692_timestamps.json
+./test_audio/test693.wav,"Following the Civil War, the boundaries of Drew County changed.",./test_audio/transcripts/test693.json,./test_audio/outputs/test693_timestamps.json
+./test_audio/test694.wav,"Gravity is weaker in Pandora, thereby giving rise to gigantism.",./test_audio/transcripts/test694.json,./test_audio/outputs/test694_timestamps.json
+./test_audio/test695.wav,"Please don't feed the pigeons, or else they will haunt you forever!",./test_audio/transcripts/test695.json,./test_audio/outputs/test695_timestamps.json
+./test_audio/test696.wav,The research team then decided to repurpose the alloy powder for energy applications.,./test_audio/transcripts/test696.json,./test_audio/outputs/test696_timestamps.json
+./test_audio/test697.wav,"the hand that evokes love, and creates a twin soul for every person in the world.",./test_audio/transcripts/test697.json,./test_audio/outputs/test697_timestamps.json
+./test_audio/test698.wav,And the falcon then nourishes man.,./test_audio/transcripts/test698.json,./test_audio/outputs/test698_timestamps.json
+./test_audio/test699.wav,"Diesel is the cheapest one, because of lower taxes.",./test_audio/transcripts/test699.json,./test_audio/outputs/test699_timestamps.json
+./test_audio/test700.wav,"Flowers appear in large numbers, always near the tops of the stems.",./test_audio/transcripts/test700.json,./test_audio/outputs/test700_timestamps.json
+./test_audio/test701.wav,I suppose so.,./test_audio/transcripts/test701.json,./test_audio/outputs/test701_timestamps.json
+./test_audio/test702.wav,The documentary is based on the death of Conrad Roy.,./test_audio/transcripts/test702.json,./test_audio/outputs/test702_timestamps.json
+./test_audio/test703.wav,"She asked me for help,",./test_audio/transcripts/test703.json,./test_audio/outputs/test703_timestamps.json
+./test_audio/test704.wav,Our group played guitars while the others randomly hit resonant objects.,./test_audio/transcripts/test704.json,./test_audio/outputs/test704_timestamps.json
+./test_audio/test705.wav,"""Los Bucaneros"" disbanded not long after the title loss.",./test_audio/transcripts/test705.json,./test_audio/outputs/test705_timestamps.json
+./test_audio/test706.wav,It also considers post audit objections.,./test_audio/transcripts/test706.json,./test_audio/outputs/test706_timestamps.json
+./test_audio/test707.wav,Ferdinand had no choice other than to make peace.,./test_audio/transcripts/test707.json,./test_audio/outputs/test707_timestamps.json
+./test_audio/test708.wav,The man wept with happiness.,./test_audio/transcripts/test708.json,./test_audio/outputs/test708_timestamps.json
+./test_audio/test709.wav,The team had been undergoing poor performances in the subsequent years.,./test_audio/transcripts/test709.json,./test_audio/outputs/test709_timestamps.json
+./test_audio/test710.wav,That is really sad to here.,./test_audio/transcripts/test710.json,./test_audio/outputs/test710_timestamps.json
+./test_audio/test711.wav,I still can't understand it though.,./test_audio/transcripts/test711.json,./test_audio/outputs/test711_timestamps.json
+./test_audio/test712.wav,The following year Maribor was the European Youth Capital.,./test_audio/transcripts/test712.json,./test_audio/outputs/test712_timestamps.json
+./test_audio/test713.wav,"He currently lives in Tarzana, California, where he produces and composes for various artists.",./test_audio/transcripts/test713.json,./test_audio/outputs/test713_timestamps.json
+./test_audio/test714.wav,Goll killed his mother by mistake with a bone.,./test_audio/transcripts/test714.json,./test_audio/outputs/test714_timestamps.json
+./test_audio/test715.wav,It inhabits the Amazon River.,./test_audio/transcripts/test715.json,./test_audio/outputs/test715_timestamps.json
+./test_audio/test716.wav,When will you send the report to me?,./test_audio/transcripts/test716.json,./test_audio/outputs/test716_timestamps.json
+./test_audio/test717.wav,I'm in the pink of condition.,./test_audio/transcripts/test717.json,./test_audio/outputs/test717_timestamps.json
+./test_audio/test718.wav,It is an aboveground station.,./test_audio/transcripts/test718.json,./test_audio/outputs/test718_timestamps.json
+./test_audio/test719.wav,They are rich who have friends.,./test_audio/transcripts/test719.json,./test_audio/outputs/test719_timestamps.json
+./test_audio/test720.wav,"When one unit collides with another, a battle takes place.",./test_audio/transcripts/test720.json,./test_audio/outputs/test720_timestamps.json
+./test_audio/test721.wav,Grogan also became a film and television actress.,./test_audio/transcripts/test721.json,./test_audio/outputs/test721_timestamps.json
+./test_audio/test722.wav,"Before we begin with the actual baptism, let's renew our creed.",./test_audio/transcripts/test722.json,./test_audio/outputs/test722_timestamps.json
+./test_audio/test723.wav,The engine was used once and then discarded.,./test_audio/transcripts/test723.json,./test_audio/outputs/test723_timestamps.json
+./test_audio/test724.wav,Only select Camden Line trains stop at the College Park station.,./test_audio/transcripts/test724.json,./test_audio/outputs/test724_timestamps.json
+./test_audio/test725.wav,The authorisation is only valid in the district the ranger is employed in.,./test_audio/transcripts/test725.json,./test_audio/outputs/test725_timestamps.json
+./test_audio/test726.wav,I'm not familiar with the books this author wrote.,./test_audio/transcripts/test726.json,./test_audio/outputs/test726_timestamps.json
+./test_audio/test727.wav,"In mathematics, Philo tackled the problem of doubling the cube.",./test_audio/transcripts/test727.json,./test_audio/outputs/test727_timestamps.json
+./test_audio/test728.wav,He was a second cousin once removed of Jonathan Swift.,./test_audio/transcripts/test728.json,./test_audio/outputs/test728_timestamps.json
+./test_audio/test729.wav,"Moreno and his wife, Louise, reside in Loudoun County, Virginia, with their five children.",./test_audio/transcripts/test729.json,./test_audio/outputs/test729_timestamps.json
+./test_audio/test730.wav,What did you stop it for?,./test_audio/transcripts/test730.json,./test_audio/outputs/test730_timestamps.json
+./test_audio/test731.wav,Suggest another motive I could have had.,./test_audio/transcripts/test731.json,./test_audio/outputs/test731_timestamps.json
+./test_audio/test732.wav,Riley was among them.,./test_audio/transcripts/test732.json,./test_audio/outputs/test732_timestamps.json
+./test_audio/test733.wav,Historically it was known as Balinamore.,./test_audio/transcripts/test733.json,./test_audio/outputs/test733_timestamps.json
+./test_audio/test734.wav,Chile is today one of South America's most stable and prosperous nations.,./test_audio/transcripts/test734.json,./test_audio/outputs/test734_timestamps.json
+./test_audio/test735.wav,A mansion was usually set on a one square.,./test_audio/transcripts/test735.json,./test_audio/outputs/test735_timestamps.json
+./test_audio/test736.wav,A young woman with purple dreads hulahoops while wearing furry purple legwarmers and hot blue Nikes.,./test_audio/transcripts/test736.json,./test_audio/outputs/test736_timestamps.json
+./test_audio/test737.wav,There he attended his primary and secondary studies.,./test_audio/transcripts/test737.json,./test_audio/outputs/test737_timestamps.json
+./test_audio/test738.wav,Where are the keys?,./test_audio/transcripts/test738.json,./test_audio/outputs/test738_timestamps.json
+./test_audio/test739.wav,There are also burials of cattle.,./test_audio/transcripts/test739.json,./test_audio/outputs/test739_timestamps.json
+./test_audio/test740.wav,"However, after the elections the three constituent parties Bloc split into separate parliamentary groups.",./test_audio/transcripts/test740.json,./test_audio/outputs/test740_timestamps.json
+./test_audio/test741.wav,"The event was hosted by Geograph's sponsor, Ordnance Survey.",./test_audio/transcripts/test741.json,./test_audio/outputs/test741_timestamps.json
+./test_audio/test742.wav,It could spend one month docked.,./test_audio/transcripts/test742.json,./test_audio/outputs/test742_timestamps.json
+./test_audio/test743.wav,She went over to Mr. Jared's house.,./test_audio/transcripts/test743.json,./test_audio/outputs/test743_timestamps.json
+./test_audio/test744.wav,Four children are each making a gymnastic bridge on their hands and feet.,./test_audio/transcripts/test744.json,./test_audio/outputs/test744_timestamps.json
+./test_audio/test745.wav,"Not all ""money bills"" are necessarily supply bills.",./test_audio/transcripts/test745.json,./test_audio/outputs/test745_timestamps.json
+./test_audio/test746.wav,It lies right on the border with Spain.,./test_audio/transcripts/test746.json,./test_audio/outputs/test746_timestamps.json
+./test_audio/test747.wav,Daily Pop among others.,./test_audio/transcripts/test747.json,./test_audio/outputs/test747_timestamps.json
+./test_audio/test748.wav,The term ended in late June that year.,./test_audio/transcripts/test748.json,./test_audio/outputs/test748_timestamps.json
+./test_audio/test749.wav,It isn't the money.,./test_audio/transcripts/test749.json,./test_audio/outputs/test749_timestamps.json
+./test_audio/test750.wav,Riding a bicycle over rocky roads is difficult.,./test_audio/transcripts/test750.json,./test_audio/outputs/test750_timestamps.json
+./test_audio/test751.wav,The term furred or shaggy represents this condition.,./test_audio/transcripts/test751.json,./test_audio/outputs/test751_timestamps.json
+./test_audio/test752.wav,What'll I tell him?,./test_audio/transcripts/test752.json,./test_audio/outputs/test752_timestamps.json
+./test_audio/test753.wav,A single example remains in the Deutsches Museum.,./test_audio/transcripts/test753.json,./test_audio/outputs/test753_timestamps.json
+./test_audio/test754.wav,Caritas has offices in Nigeria and Ghana.,./test_audio/transcripts/test754.json,./test_audio/outputs/test754_timestamps.json
+./test_audio/test755.wav,"There is, however, nothing in its design that would preclude the earlier dating.",./test_audio/transcripts/test755.json,./test_audio/outputs/test755_timestamps.json
+./test_audio/test756.wav,"Initially, no balls were drawn until the round began.",./test_audio/transcripts/test756.json,./test_audio/outputs/test756_timestamps.json
+./test_audio/test757.wav,Stout's political career started with his election to the Otago Provincial Council.,./test_audio/transcripts/test757.json,./test_audio/outputs/test757_timestamps.json
+./test_audio/test758.wav,"The other sentence is over there, above the picture.",./test_audio/transcripts/test758.json,./test_audio/outputs/test758_timestamps.json
+./test_audio/test759.wav,Her ancestors are Moroccan Jews.,./test_audio/transcripts/test759.json,./test_audio/outputs/test759_timestamps.json
+./test_audio/test760.wav,"Deciduous woodlands are dominated by trees such as wild seringa, copalwood and Zambezi teak.",./test_audio/transcripts/test760.json,./test_audio/outputs/test760_timestamps.json
+./test_audio/test761.wav,"As a young boy, Woo had wanted to be a Christian minister.",./test_audio/transcripts/test761.json,./test_audio/outputs/test761_timestamps.json
+./test_audio/test762.wav,Cases are heard by a panel of three judges.,./test_audio/transcripts/test762.json,./test_audio/outputs/test762_timestamps.json
+./test_audio/test763.wav,He did participate in any papal elections.,./test_audio/transcripts/test763.json,./test_audio/outputs/test763_timestamps.json
+./test_audio/test764.wav,"Later in the day Gill's brother, General Emilio Gill was also killed.",./test_audio/transcripts/test764.json,./test_audio/outputs/test764_timestamps.json
+./test_audio/test765.wav,It is also the divisional headquarters of Sylhet division.,./test_audio/transcripts/test765.json,./test_audio/outputs/test765_timestamps.json
+./test_audio/test766.wav,The vane on top of the pole revolved in the wind.,./test_audio/transcripts/test766.json,./test_audio/outputs/test766_timestamps.json
+./test_audio/test767.wav,"You might hear ""font families"" more than ""typefaces"", even though they could mean the same thing.",./test_audio/transcripts/test767.json,./test_audio/outputs/test767_timestamps.json
+./test_audio/test768.wav,The end of the cylinder was still as Ogilvy and Henderson had left it.,./test_audio/transcripts/test768.json,./test_audio/outputs/test768_timestamps.json
+./test_audio/test769.wav,Two boys on ice skates race on an outdoor ice rink.,./test_audio/transcripts/test769.json,./test_audio/outputs/test769_timestamps.json
+./test_audio/test770.wav,McDougall is an animal rights activist and a vegan.,./test_audio/transcripts/test770.json,./test_audio/outputs/test770_timestamps.json
+./test_audio/test771.wav,How bad can a boss be?,./test_audio/transcripts/test771.json,./test_audio/outputs/test771_timestamps.json
+./test_audio/test772.wav,The family's country home was Luton Hoo.,./test_audio/transcripts/test772.json,./test_audio/outputs/test772_timestamps.json
+./test_audio/test773.wav,The artist was widely acclaimed and financially successful during his lifetime.,./test_audio/transcripts/test773.json,./test_audio/outputs/test773_timestamps.json
+./test_audio/test774.wav,The lintel has traces of red and blue pigments.,./test_audio/transcripts/test774.json,./test_audio/outputs/test774_timestamps.json
+./test_audio/test775.wav,The event came later to be known as the Seveso disaster.,./test_audio/transcripts/test775.json,./test_audio/outputs/test775_timestamps.json
+./test_audio/test776.wav,"It was used in the film ""Sliding Doors"".",./test_audio/transcripts/test776.json,./test_audio/outputs/test776_timestamps.json
+./test_audio/test777.wav,"It was named after Sir Thomas Bennett, chairman of Crawley Development Corporation.",./test_audio/transcripts/test777.json,./test_audio/outputs/test777_timestamps.json
+./test_audio/test778.wav,"He went on ""The Montel Williams Show"" to discuss this issue.",./test_audio/transcripts/test778.json,./test_audio/outputs/test778_timestamps.json
+./test_audio/test779.wav,Doane became the third wife of fellow missionary Rev.,./test_audio/transcripts/test779.json,./test_audio/outputs/test779_timestamps.json
+./test_audio/test780.wav,One boy fell in and the lamp exploded causing burns.,./test_audio/transcripts/test780.json,./test_audio/outputs/test780_timestamps.json
+./test_audio/test781.wav,"Me too, so I try to get plenty wherever I go.",./test_audio/transcripts/test781.json,./test_audio/outputs/test781_timestamps.json
+./test_audio/test782.wav,Many hospitals around the country reported shortages of beds and supplemental oxygen.,./test_audio/transcripts/test782.json,./test_audio/outputs/test782_timestamps.json
+./test_audio/test783.wav,"She appeared in the music video for ""David"".",./test_audio/transcripts/test783.json,./test_audio/outputs/test783_timestamps.json
+./test_audio/test784.wav,The color is mostly red with yellow highlights near the crown.,./test_audio/transcripts/test784.json,./test_audio/outputs/test784_timestamps.json
+./test_audio/test785.wav,The giraffe had become fearful.,./test_audio/transcripts/test785.json,./test_audio/outputs/test785_timestamps.json
+./test_audio/test786.wav,"When the police arrived the crowd became violent, throwing rocks at the police.",./test_audio/transcripts/test786.json,./test_audio/outputs/test786_timestamps.json
+./test_audio/test787.wav,The title of this book borrows a phrase from the writings of Reinhold Niebuhr.,./test_audio/transcripts/test787.json,./test_audio/outputs/test787_timestamps.json
+./test_audio/test788.wav,The name given in Spain and Portugal.,./test_audio/transcripts/test788.json,./test_audio/outputs/test788_timestamps.json
+./test_audio/test789.wav,"At the mouth of the Severn River, another community sprang up.",./test_audio/transcripts/test789.json,./test_audio/outputs/test789_timestamps.json
+./test_audio/test790.wav,"On the latter claim, Colt could not recover monetary damages.",./test_audio/transcripts/test790.json,./test_audio/outputs/test790_timestamps.json
+./test_audio/test791.wav,Her niece was actress Joan Caulfield.,./test_audio/transcripts/test791.json,./test_audio/outputs/test791_timestamps.json
+./test_audio/test792.wav,They spent two more days in Berlin before heading to Prague for a conference.,./test_audio/transcripts/test792.json,./test_audio/outputs/test792_timestamps.json
+./test_audio/test793.wav,"Following his short Test career, Muller played just a few more matches for Queensland.",./test_audio/transcripts/test793.json,./test_audio/outputs/test793_timestamps.json
+./test_audio/test794.wav,But works were never begun.,./test_audio/transcripts/test794.json,./test_audio/outputs/test794_timestamps.json
+./test_audio/test795.wav,"The legend itself has, however, withstood the test of time.",./test_audio/transcripts/test795.json,./test_audio/outputs/test795_timestamps.json
+./test_audio/test796.wav,Native shrubs have been planted in their place.,./test_audio/transcripts/test796.json,./test_audio/outputs/test796_timestamps.json
+./test_audio/test797.wav,The vast majority of the region's inhabitants are migrants from Cebu and Bohol.,./test_audio/transcripts/test797.json,./test_audio/outputs/test797_timestamps.json
+./test_audio/test798.wav,He was a member of the Constituent Assembly and of the Executive Commission.,./test_audio/transcripts/test798.json,./test_audio/outputs/test798_timestamps.json
+./test_audio/test799.wav,This is for you.,./test_audio/transcripts/test799.json,./test_audio/outputs/test799_timestamps.json
+./test_audio/test800.wav,Melonpan and pineapple bun from Hong Kong are very similar.,./test_audio/transcripts/test800.json,./test_audio/outputs/test800_timestamps.json
+./test_audio/test801.wav,"Left alone, the Count rapes Beatrix.",./test_audio/transcripts/test801.json,./test_audio/outputs/test801_timestamps.json
+./test_audio/test802.wav,"Theoretically, the northern side of North Terrace is part of the Adelaide Parklands.",./test_audio/transcripts/test802.json,./test_audio/outputs/test802_timestamps.json
+./test_audio/test803.wav,"True sea slugs have enormous variation in body shape, color, and size.",./test_audio/transcripts/test803.json,./test_audio/outputs/test803_timestamps.json
+./test_audio/test804.wav,The Town of Morgan City is served by the Leflore County School District.,./test_audio/transcripts/test804.json,./test_audio/outputs/test804_timestamps.json
+./test_audio/test805.wav,She waited for the spark to spring from the wood.,./test_audio/transcripts/test805.json,./test_audio/outputs/test805_timestamps.json
+./test_audio/test806.wav,This is an example of a central pit impact crater.,./test_audio/transcripts/test806.json,./test_audio/outputs/test806_timestamps.json
+./test_audio/test807.wav,"He was active with many other local, national and international organizations.",./test_audio/transcripts/test807.json,./test_audio/outputs/test807_timestamps.json
+./test_audio/test808.wav,We already have a perfectly good plan.,./test_audio/transcripts/test808.json,./test_audio/outputs/test808_timestamps.json
+./test_audio/test809.wav,He directed many films too.,./test_audio/transcripts/test809.json,./test_audio/outputs/test809_timestamps.json
+./test_audio/test810.wav,But now I'm sad and alone.,./test_audio/transcripts/test810.json,./test_audio/outputs/test810_timestamps.json
+./test_audio/test811.wav,Union is strength,./test_audio/transcripts/test811.json,./test_audio/outputs/test811_timestamps.json
+./test_audio/test812.wav,The football club yearly hosts a tournament called Ivar Persson Cup.,./test_audio/transcripts/test812.json,./test_audio/outputs/test812_timestamps.json
+./test_audio/test813.wav,Jackson committed to the Retrievers after the season.,./test_audio/transcripts/test813.json,./test_audio/outputs/test813_timestamps.json
+./test_audio/test814.wav,An old man in a red jacket is sleeping outside.,./test_audio/transcripts/test814.json,./test_audio/outputs/test814_timestamps.json
+./test_audio/test815.wav,Mr. Smith and his henchmen arrive soon after and capture the trio.,./test_audio/transcripts/test815.json,./test_audio/outputs/test815_timestamps.json
+./test_audio/test816.wav,An unknown perpetrator threatened two men from Syria with a pistol.,./test_audio/transcripts/test816.json,./test_audio/outputs/test816_timestamps.json
+./test_audio/test817.wav,Chavalit then once again became Leader of the Opposition in the House of Representatives.,./test_audio/transcripts/test817.json,./test_audio/outputs/test817_timestamps.json
+./test_audio/test818.wav,"Documents state the site for the town once housed a ""lazzaretto"" or leprosarium.",./test_audio/transcripts/test818.json,./test_audio/outputs/test818_timestamps.json
+./test_audio/test819.wav,The garden is older than the house in fact.,./test_audio/transcripts/test819.json,./test_audio/outputs/test819_timestamps.json
+./test_audio/test820.wav,Silence is golden.,./test_audio/transcripts/test820.json,./test_audio/outputs/test820_timestamps.json
+./test_audio/test821.wav,Their baggage was often pilfered by the crew.,./test_audio/transcripts/test821.json,./test_audio/outputs/test821_timestamps.json
+./test_audio/test822.wav,What were we to do?,./test_audio/transcripts/test822.json,./test_audio/outputs/test822_timestamps.json
+./test_audio/test823.wav,The rank insignia consisted of shoulder strap and sleeve lace.,./test_audio/transcripts/test823.json,./test_audio/outputs/test823_timestamps.json
+./test_audio/test824.wav,Merv Griffin said of her that she was the answer to 'Where's the beef?,./test_audio/transcripts/test824.json,./test_audio/outputs/test824_timestamps.json
+./test_audio/test825.wav,The families will be here soon.,./test_audio/transcripts/test825.json,./test_audio/outputs/test825_timestamps.json
+./test_audio/test826.wav,"He has also worked at the ""New York Times"" as a researcher and writer.",./test_audio/transcripts/test826.json,./test_audio/outputs/test826_timestamps.json
+./test_audio/test827.wav,That's remarkable!,./test_audio/transcripts/test827.json,./test_audio/outputs/test827_timestamps.json
+./test_audio/test828.wav,Throw it in the bin.,./test_audio/transcripts/test828.json,./test_audio/outputs/test828_timestamps.json
+./test_audio/test829.wav,Multiple unit operations allowed one person to control multiple locomotives.,./test_audio/transcripts/test829.json,./test_audio/outputs/test829_timestamps.json
+./test_audio/test830.wav,Its administrative center is Karlovy Vary.,./test_audio/transcripts/test830.json,./test_audio/outputs/test830_timestamps.json
+./test_audio/test831.wav,Did you know that Harry got a new job?,./test_audio/transcripts/test831.json,./test_audio/outputs/test831_timestamps.json
+./test_audio/test832.wav,"Hundreds must have seen it, and taken it for a falling star.",./test_audio/transcripts/test832.json,./test_audio/outputs/test832_timestamps.json
+./test_audio/test833.wav,Rod peeked around the corner.,./test_audio/transcripts/test833.json,./test_audio/outputs/test833_timestamps.json
+./test_audio/test834.wav,A woman works the counter of a carnival game,./test_audio/transcripts/test834.json,./test_audio/outputs/test834_timestamps.json
+./test_audio/test835.wav,Anderlecht and the national team.,./test_audio/transcripts/test835.json,./test_audio/outputs/test835_timestamps.json
+./test_audio/test836.wav,They are the backbone of Goa's agricultural industry.,./test_audio/transcripts/test836.json,./test_audio/outputs/test836_timestamps.json
+./test_audio/test837.wav,He also took part in the local pro day held by the Chicago Bears.,./test_audio/transcripts/test837.json,./test_audio/outputs/test837_timestamps.json
+./test_audio/test838.wav,A judge later dropped the charges after deciding they had no merit.,./test_audio/transcripts/test838.json,./test_audio/outputs/test838_timestamps.json
+./test_audio/test839.wav,"Well, we shall see.",./test_audio/transcripts/test839.json,./test_audio/outputs/test839_timestamps.json
+./test_audio/test840.wav,He performed ablution before prayers.,./test_audio/transcripts/test840.json,./test_audio/outputs/test840_timestamps.json
+./test_audio/test841.wav,It was home to the Mayas.,./test_audio/transcripts/test841.json,./test_audio/outputs/test841_timestamps.json
+./test_audio/test842.wav,What was she like?,./test_audio/transcripts/test842.json,./test_audio/outputs/test842_timestamps.json
+./test_audio/test843.wav,"He who fights and runs away, lives to fight another day.",./test_audio/transcripts/test843.json,./test_audio/outputs/test843_timestamps.json
+./test_audio/test844.wav,This was the conversion and extension of an older building.,./test_audio/transcripts/test844.json,./test_audio/outputs/test844_timestamps.json
+./test_audio/test845.wav,It is native to eastern Brazil.,./test_audio/transcripts/test845.json,./test_audio/outputs/test845_timestamps.json
+./test_audio/test846.wav,Brady has been married twice.,./test_audio/transcripts/test846.json,./test_audio/outputs/test846_timestamps.json
+./test_audio/test847.wav,Her husband is the president of the Toronto and York Region Labour Council.,./test_audio/transcripts/test847.json,./test_audio/outputs/test847_timestamps.json
+./test_audio/test848.wav,Three dogs running on tire tracks in snow.,./test_audio/transcripts/test848.json,./test_audio/outputs/test848_timestamps.json
+./test_audio/test849.wav,"He died of a mysterious illness or, according to some sources, a snakebite.",./test_audio/transcripts/test849.json,./test_audio/outputs/test849_timestamps.json
+./test_audio/test850.wav,The tower does not have a crown and in fact has a flattened roof.,./test_audio/transcripts/test850.json,./test_audio/outputs/test850_timestamps.json
+./test_audio/test851.wav,The Football Association entered a Great Britain national amateur team to represent Great Britain.,./test_audio/transcripts/test851.json,./test_audio/outputs/test851_timestamps.json
+./test_audio/test852.wav,He was succeeded as member for Goldstein by Andrew Robb.,./test_audio/transcripts/test852.json,./test_audio/outputs/test852_timestamps.json
+./test_audio/test853.wav,They told wild tales to frighten him.,./test_audio/transcripts/test853.json,./test_audio/outputs/test853_timestamps.json
+./test_audio/test854.wav,Its main base was Bournemouth Airport.,./test_audio/transcripts/test854.json,./test_audio/outputs/test854_timestamps.json
+./test_audio/test855.wav,He pitched many games as well as playing the infield.,./test_audio/transcripts/test855.json,./test_audio/outputs/test855_timestamps.json
+./test_audio/test856.wav,"The closer he got to the realization of his dream, the more difficult things became.",./test_audio/transcripts/test856.json,./test_audio/outputs/test856_timestamps.json
+./test_audio/test857.wav,He was the founding President of Barishal Samity and East Pakistan Federation in Karachi.,./test_audio/transcripts/test857.json,./test_audio/outputs/test857_timestamps.json
+./test_audio/test858.wav,He was initially denied a temple name and left unhonoured in imperial shrines.,./test_audio/transcripts/test858.json,./test_audio/outputs/test858_timestamps.json
+./test_audio/test859.wav,His body was transferred to Huamanga and he was buried in the local parish.,./test_audio/transcripts/test859.json,./test_audio/outputs/test859_timestamps.json
+./test_audio/test860.wav,The Little Mountain Reunion is one of South Carolina's oldest folk festivals.,./test_audio/transcripts/test860.json,./test_audio/outputs/test860_timestamps.json
+./test_audio/test861.wav,He worked with the Special Operations Executive in India.,./test_audio/transcripts/test861.json,./test_audio/outputs/test861_timestamps.json
+./test_audio/test862.wav,So you are saying that overpopulation will become an issue?,./test_audio/transcripts/test862.json,./test_audio/outputs/test862_timestamps.json
+./test_audio/test863.wav,"The salesman was like the rest of them, untrustworthy.",./test_audio/transcripts/test863.json,./test_audio/outputs/test863_timestamps.json
+./test_audio/test864.wav,Champion holds a PhD from Cambridge University.,./test_audio/transcripts/test864.json,./test_audio/outputs/test864_timestamps.json
+./test_audio/test865.wav,He built the first lumber shanty on the Bonnechere River.,./test_audio/transcripts/test865.json,./test_audio/outputs/test865_timestamps.json
+./test_audio/test866.wav,"The inhabitants of the commune are known as ""Ainhoars"".",./test_audio/transcripts/test866.json,./test_audio/outputs/test866_timestamps.json
+./test_audio/test867.wav,"The new shifters allow for more convenient mounting, especially on road bars.",./test_audio/transcripts/test867.json,./test_audio/outputs/test867_timestamps.json
+./test_audio/test868.wav,He made the pudding.,./test_audio/transcripts/test868.json,./test_audio/outputs/test868_timestamps.json
+./test_audio/test869.wav,Asexual means you don't find anyone sexually attractive.,./test_audio/transcripts/test869.json,./test_audio/outputs/test869_timestamps.json
+./test_audio/test870.wav,"""I have watched the caravan as it crossed the desert,"" he said.",./test_audio/transcripts/test870.json,./test_audio/outputs/test870_timestamps.json
+./test_audio/test871.wav,The plot from the novel was toned down for the film version.,./test_audio/transcripts/test871.json,./test_audio/outputs/test871_timestamps.json
+./test_audio/test872.wav,His grandfather and father were already part of Cosa Nostra.,./test_audio/transcripts/test872.json,./test_audio/outputs/test872_timestamps.json
+./test_audio/test873.wav,Its county seat and largest city is Morgan.,./test_audio/transcripts/test873.json,./test_audio/outputs/test873_timestamps.json
+./test_audio/test874.wav,Do you know what they're up to?,./test_audio/transcripts/test874.json,./test_audio/outputs/test874_timestamps.json
+./test_audio/test875.wav,It also began recruiting members across the country.,./test_audio/transcripts/test875.json,./test_audio/outputs/test875_timestamps.json
+./test_audio/test876.wav,The greater part of the left arm is missing.,./test_audio/transcripts/test876.json,./test_audio/outputs/test876_timestamps.json
+./test_audio/test877.wav,"Mixed crops such as bananas, cocoa and coffee are grown.",./test_audio/transcripts/test877.json,./test_audio/outputs/test877_timestamps.json
+./test_audio/test878.wav,"If a monster is defeated in an instance, it stays defeated.",./test_audio/transcripts/test878.json,./test_audio/outputs/test878_timestamps.json
+./test_audio/test879.wav,"Patterson married Virginia Karns and they had three children: Ann, James, and Ryan.",./test_audio/transcripts/test879.json,./test_audio/outputs/test879_timestamps.json
+./test_audio/test880.wav,"If he had it on him then they'll have that, too.",./test_audio/transcripts/test880.json,./test_audio/outputs/test880_timestamps.json
+./test_audio/test881.wav,He was married to Mary Frey and they had three sons and a daughter.,./test_audio/transcripts/test881.json,./test_audio/outputs/test881_timestamps.json
+./test_audio/test882.wav,Greenwood noted their poverty and the prostitution which funded their lives.,./test_audio/transcripts/test882.json,./test_audio/outputs/test882_timestamps.json
+./test_audio/test883.wav,"She had him arrested, and he committed suicide while in prison.",./test_audio/transcripts/test883.json,./test_audio/outputs/test883_timestamps.json
+./test_audio/test884.wav,"Drink like a fish, water only.",./test_audio/transcripts/test884.json,./test_audio/outputs/test884_timestamps.json
+./test_audio/test885.wav,He was a wealthy man?,./test_audio/transcripts/test885.json,./test_audio/outputs/test885_timestamps.json
+./test_audio/test886.wav,Once I even got out of a ticket.,./test_audio/transcripts/test886.json,./test_audio/outputs/test886_timestamps.json
+./test_audio/test887.wav,Doyle has become part of Irish popular culture.,./test_audio/transcripts/test887.json,./test_audio/outputs/test887_timestamps.json
+./test_audio/test888.wav,"Beachley narrates the Seven Network factual series ""Beach Cops"".",./test_audio/transcripts/test888.json,./test_audio/outputs/test888_timestamps.json
+./test_audio/test889.wav,"Although negotiations are often held with the minority, these prerogatives remain with the majority.",./test_audio/transcripts/test889.json,./test_audio/outputs/test889_timestamps.json
+./test_audio/test890.wav,"The egg's shell is hard and brittle, while the interior is sticky on the fingers.",./test_audio/transcripts/test890.json,./test_audio/outputs/test890_timestamps.json
+./test_audio/test891.wav,He didn't need to demonstrate his science and art to anyone.,./test_audio/transcripts/test891.json,./test_audio/outputs/test891_timestamps.json
+./test_audio/test892.wav,He defeated independent candidate Shahadat Hossain Munna.,./test_audio/transcripts/test892.json,./test_audio/outputs/test892_timestamps.json
+./test_audio/test893.wav,"Since then, Lover has risen to prominence in Australia and internationally.",./test_audio/transcripts/test893.json,./test_audio/outputs/test893_timestamps.json
+./test_audio/test894.wav,This classification is based on the timing of transcription that is temporally regulated.,./test_audio/transcripts/test894.json,./test_audio/outputs/test894_timestamps.json
+./test_audio/test895.wav,This is the sixth month of the Islamic calendar.,./test_audio/transcripts/test895.json,./test_audio/outputs/test895_timestamps.json
+./test_audio/test896.wav,My scholarship got rejected.,./test_audio/transcripts/test896.json,./test_audio/outputs/test896_timestamps.json
+./test_audio/test897.wav,It was my intention to have a word with Angela.,./test_audio/transcripts/test897.json,./test_audio/outputs/test897_timestamps.json
+./test_audio/test898.wav,Absolutely yes.,./test_audio/transcripts/test898.json,./test_audio/outputs/test898_timestamps.json
+./test_audio/test899.wav,This story is said to be the mythical origin of shimenawa.,./test_audio/transcripts/test899.json,./test_audio/outputs/test899_timestamps.json
+./test_audio/test900.wav,She felt that she had been neglecting them and felt guilty about it.,./test_audio/transcripts/test900.json,./test_audio/outputs/test900_timestamps.json
+./test_audio/test901.wav,What are you here for this morning?,./test_audio/transcripts/test901.json,./test_audio/outputs/test901_timestamps.json
+./test_audio/test902.wav,He was born to William and Elizabeth Sowle Bradford in Philadelphia.,./test_audio/transcripts/test902.json,./test_audio/outputs/test902_timestamps.json
+./test_audio/test903.wav,He left behind three children.,./test_audio/transcripts/test903.json,./test_audio/outputs/test903_timestamps.json
+./test_audio/test904.wav,There is also an interchange with the Thousand Islands Parkway on the Ontario side.,./test_audio/transcripts/test904.json,./test_audio/outputs/test904_timestamps.json
+./test_audio/test905.wav,A quotation from Stalin is a final answer to all argument.,./test_audio/transcripts/test905.json,./test_audio/outputs/test905_timestamps.json
+./test_audio/test906.wav,Botswana sent two boxers to Athens.,./test_audio/transcripts/test906.json,./test_audio/outputs/test906_timestamps.json
+./test_audio/test907.wav,"Who did I marry again, can you remind me?",./test_audio/transcripts/test907.json,./test_audio/outputs/test907_timestamps.json
+./test_audio/test908.wav,"The soul is theirs, stored in silicon and microcode.",./test_audio/transcripts/test908.json,./test_audio/outputs/test908_timestamps.json
+./test_audio/test909.wav,The females are usually larger than the males.,./test_audio/transcripts/test909.json,./test_audio/outputs/test909_timestamps.json
+./test_audio/test910.wav,We are the corp of engineers.,./test_audio/transcripts/test910.json,./test_audio/outputs/test910_timestamps.json
+./test_audio/test911.wav,Fisher led his Marines during four days of continuous combat with very little sleep.,./test_audio/transcripts/test911.json,./test_audio/outputs/test911_timestamps.json
+./test_audio/test912.wav,Its current permanent population stands at four or five.,./test_audio/transcripts/test912.json,./test_audio/outputs/test912_timestamps.json
+./test_audio/test913.wav,The first day passed.,./test_audio/transcripts/test913.json,./test_audio/outputs/test913_timestamps.json
+./test_audio/test914.wav,The foliage is dark green and glossy.,./test_audio/transcripts/test914.json,./test_audio/outputs/test914_timestamps.json
+./test_audio/test915.wav,They are usually widows or old menservants of the deceased king.,./test_audio/transcripts/test915.json,./test_audio/outputs/test915_timestamps.json
+./test_audio/test916.wav,Stilwell Public Schools provides education for children from kindergarten through twelfth grade.,./test_audio/transcripts/test916.json,./test_audio/outputs/test916_timestamps.json
+./test_audio/test917.wav,"Miniter was born in New York City and grew up in Rosendale, New York.",./test_audio/transcripts/test917.json,./test_audio/outputs/test917_timestamps.json
+./test_audio/test918.wav,We place the natural numbers along the top row.,./test_audio/transcripts/test918.json,./test_audio/outputs/test918_timestamps.json
+./test_audio/test919.wav,"He is the uncle of Ion Luca Caragiale, a Romanian playwright.",./test_audio/transcripts/test919.json,./test_audio/outputs/test919_timestamps.json
+./test_audio/test920.wav,His father was Mathai.,./test_audio/transcripts/test920.json,./test_audio/outputs/test920_timestamps.json
+./test_audio/test921.wav,I won't get my wings with that attitude.,./test_audio/transcripts/test921.json,./test_audio/outputs/test921_timestamps.json
+./test_audio/test922.wav,I can help protect you.,./test_audio/transcripts/test922.json,./test_audio/outputs/test922_timestamps.json
+./test_audio/test923.wav,I like Cyndi Wayne.,./test_audio/transcripts/test923.json,./test_audio/outputs/test923_timestamps.json
+./test_audio/test924.wav,"Amenities at the park include pay phones, picnic tables, restrooms and outdoor showers.",./test_audio/transcripts/test924.json,./test_audio/outputs/test924_timestamps.json
+./test_audio/test925.wav,"Struve attempted to build a national school in this area, but with limited success.",./test_audio/transcripts/test925.json,./test_audio/outputs/test925_timestamps.json
+./test_audio/test926.wav,Rahma was subsequently sentenced to death for his role in the insurrection.,./test_audio/transcripts/test926.json,./test_audio/outputs/test926_timestamps.json
+./test_audio/test927.wav,The boy remembered an old proverb from his country.,./test_audio/transcripts/test927.json,./test_audio/outputs/test927_timestamps.json
+./test_audio/test928.wav,The large Aurora mine is located just outside the town.,./test_audio/transcripts/test928.json,./test_audio/outputs/test928_timestamps.json
+./test_audio/test929.wav,The case has been dismissed as an urban legend.,./test_audio/transcripts/test929.json,./test_audio/outputs/test929_timestamps.json
+./test_audio/test930.wav,It contains many stereotypical portrayals of black characters.,./test_audio/transcripts/test930.json,./test_audio/outputs/test930_timestamps.json
+./test_audio/test931.wav,"Located on Ormond Road, it has many restaurants and cafes.",./test_audio/transcripts/test931.json,./test_audio/outputs/test931_timestamps.json
+./test_audio/test932.wav,Do you want me to?,./test_audio/transcripts/test932.json,./test_audio/outputs/test932_timestamps.json
+./test_audio/test933.wav,Space is available on a lease basis in the Heritage hangar for aircraft storage.,./test_audio/transcripts/test933.json,./test_audio/outputs/test933_timestamps.json
+./test_audio/test934.wav,Chanov lacks the majority of basic services.,./test_audio/transcripts/test934.json,./test_audio/outputs/test934_timestamps.json
+./test_audio/test935.wav,I think I might have gotten a bit bored on that project.,./test_audio/transcripts/test935.json,./test_audio/outputs/test935_timestamps.json
+./test_audio/test936.wav,As numerous researchers have made clear any system employing a Darwinian process will evolve.,./test_audio/transcripts/test936.json,./test_audio/outputs/test936_timestamps.json
+./test_audio/test937.wav,"Since its foundation, it was focused on the teaching of Professions offering Professional degrees.",./test_audio/transcripts/test937.json,./test_audio/outputs/test937_timestamps.json
+./test_audio/test938.wav,"In spite of this, I still believed that there were men in Mars.",./test_audio/transcripts/test938.json,./test_audio/outputs/test938_timestamps.json
+./test_audio/test939.wav,They sometimes have a central tune which some of the strains are based on.,./test_audio/transcripts/test939.json,./test_audio/outputs/test939_timestamps.json
+./test_audio/test940.wav,Carl Reighn was present from the moment they broke the metal shop doors down.,./test_audio/transcripts/test940.json,./test_audio/outputs/test940_timestamps.json
+./test_audio/test941.wav,Herron is a classically trained soprano.,./test_audio/transcripts/test941.json,./test_audio/outputs/test941_timestamps.json
+./test_audio/test942.wav,The book has been wrong in the past.,./test_audio/transcripts/test942.json,./test_audio/outputs/test942_timestamps.json
+./test_audio/test943.wav,The population was increasing exponentially.,./test_audio/transcripts/test943.json,./test_audio/outputs/test943_timestamps.json
+./test_audio/test944.wav,Three days later he won the Omaha High Low event.,./test_audio/transcripts/test944.json,./test_audio/outputs/test944_timestamps.json
+./test_audio/test945.wav,"Yesterday, I asked my doctor for a new prescription.",./test_audio/transcripts/test945.json,./test_audio/outputs/test945_timestamps.json
+./test_audio/test946.wav,"The final ""Simpsons"" episode that Aguilar assistant directed is ""Burger Kings"".",./test_audio/transcripts/test946.json,./test_audio/outputs/test946_timestamps.json
+./test_audio/test947.wav,He suddenly felt tremendously happy.,./test_audio/transcripts/test947.json,./test_audio/outputs/test947_timestamps.json
+./test_audio/test948.wav,"No man or woman is worth your tears, and the one who is, won't make you cry.",./test_audio/transcripts/test948.json,./test_audio/outputs/test948_timestamps.json
+./test_audio/test949.wav,They lost both games.,./test_audio/transcripts/test949.json,./test_audio/outputs/test949_timestamps.json
+./test_audio/test950.wav,Dolly was the first clone produced from a cell taken from an adult mammal.,./test_audio/transcripts/test950.json,./test_audio/outputs/test950_timestamps.json

@@ -1,67 +1,67 @@
 [
   {
-    "word": "After",
-    "start": 0.7021875,
-    "end": 0.9229375
+    "word": "It",
+    "start": 0.621875,
+    "end": 0.702125
   },
   {
-    "word": "two",
-    "start": 0.983125,
-    "end": 1.1235625
+    "word": "lies",
+    "start": 0.782375,
+    "end": 1.1033125
   },
   {
-    "word": "hours,",
-    "start": 1.18375,
-    "end": 1.6050625
+    "word": "on",
+    "start": 1.1635,
+    "end": 1.24375
   },
   {
-    "word": "he",
-    "start": 1.7054375,
-    "end": 1.765625
+    "word": "the",
+    "start": 1.2638125,
+    "end": 1.3440625
   },
   {
-    "word": "returned",
-    "start": 1.8659375,
-    "end": 2.28725
+    "word": "River",
+    "start": 1.444375,
+    "end": 1.685125
+  },
+  {
+    "word": "Yare",
+    "start": 1.785375,
+    "end": 2.106375
+  },
+  {
+    "word": "just",
+    "start": 2.38725,
+    "end": 2.6079375
   },
   {
     "word": "to",
-    "start": 2.327375,
-    "end": 2.3875625
+    "start": 2.6680625,
+    "end": 2.72825
   },
   {
     "word": "the",
-    "start": 2.44775,
-    "end": 2.5280625
+    "start": 2.7884375,
+    "end": 2.8686875
   },
   {
-    "word": "room",
-    "start": 2.58825,
-    "end": 2.788875
+    "word": "west",
+    "start": 2.928875,
+    "end": 3.1896875
   },
   {
-    "word": "where",
-    "start": 2.949375,
-    "end": 3.15
+    "word": "of",
+    "start": 3.249875,
+    "end": 3.3100625
   },
   {
-    "word": "the",
-    "start": 3.190125,
-    "end": 3.270375
+    "word": "Breydon",
+    "start": 3.3903125,
+    "end": 3.7915
   },
   {
-    "word": "wise",
-    "start": 3.3305625,
-    "end": 3.6115
-  },
-  {
-    "word": "man",
-    "start": 3.651625,
-    "end": 3.8321875
-  },
-  {
-    "word": "was.",
-    "start": 3.9124375,
-    "end": 4.1531875
+    "word": "Water.",
+    "start": 3.952,
+    "end": 4.2930625
   }
 ]

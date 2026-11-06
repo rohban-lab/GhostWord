@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Only",
+    "start": 1.1013125,
+    "end": 1.4016875
+  },
+  {
+    "word": "select",
+    "start": 1.8221875,
+    "end": 2.2426875
+  },
+  {
+    "word": "Camden",
+    "start": 2.5430625,
+    "end": 3.003625
+  },
+  {
+    "word": "Line",
+    "start": 3.344,
+    "end": 3.5643125
+  },
+  {
+    "word": "trains",
+    "start": 3.5843125,
+    "end": 3.9046875
+  },
+  {
+    "word": "stop",
+    "start": 4.024875,
+    "end": 4.2851875
+  },
+  {
+    "word": "at",
+    "start": 4.4253125,
+    "end": 4.5254375
+  },
+  {
+    "word": "the",
+    "start": 4.5855625,
+    "end": 4.6856875
+  },
+  {
+    "word": "College",
+    "start": 4.76575,
+    "end": 5.1261875
+  },
+  {
+    "word": "Park",
+    "start": 5.16625,
+    "end": 5.3865
+  },
+  {
+    "word": "station.",
+    "start": 5.486625,
+    "end": 5.98725
+  }
+]

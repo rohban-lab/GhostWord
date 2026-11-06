@@ -1,0 +1,57 @@
+[
+  {
+    "word": "If",
+    "start": 0.501875,
+    "end": 0.60225
+  },
+  {
+    "word": "a",
+    "start": 0.6825625,
+    "end": 0.7026875
+  },
+  {
+    "word": "monster",
+    "start": 0.783,
+    "end": 1.284875
+  },
+  {
+    "word": "is",
+    "start": 1.4455,
+    "end": 1.545875
+  },
+  {
+    "word": "defeated",
+    "start": 1.606125,
+    "end": 2.16825
+  },
+  {
+    "word": "in",
+    "start": 2.4091875,
+    "end": 2.4895
+  },
+  {
+    "word": "an",
+    "start": 2.5296875,
+    "end": 2.61
+  },
+  {
+    "word": "instance,",
+    "start": 2.6701875,
+    "end": 3.132
+  },
+  {
+    "word": "it",
+    "start": 3.33275,
+    "end": 3.4130625
+  },
+  {
+    "word": "stays",
+    "start": 3.47325,
+    "end": 3.8346875
+  },
+  {
+    "word": "defeated.",
+    "start": 3.85475,
+    "end": 4.37675
+  }
+]

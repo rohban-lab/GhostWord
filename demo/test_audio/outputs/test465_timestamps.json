@@ -1,0 +1,62 @@
+[
+  {
+    "word": "The",
+    "start": 0.381625,
+    "end": 0.4619375
+  },
+  {
+    "word": "authority",
+    "start": 0.5423125,
+    "end": 0.964125
+  },
+  {
+    "word": "expects",
+    "start": 1.0445,
+    "end": 1.5265625
+  },
+  {
+    "word": "to",
+    "start": 1.5868125,
+    "end": 1.647125
+  },
+  {
+    "word": "complete",
+    "start": 1.707375,
+    "end": 2.089
+  },
+  {
+    "word": "the",
+    "start": 2.089,
+    "end": 2.169375
+  },
+  {
+    "word": "project",
+    "start": 2.2095625,
+    "end": 2.691625
+  },
+  {
+    "word": "in",
+    "start": 2.772,
+    "end": 2.83225
+  },
+  {
+    "word": "three",
+    "start": 3.013,
+    "end": 3.2540625
+  },
+  {
+    "word": "to",
+    "start": 3.3143125,
+    "end": 3.3745625
+  },
+  {
+    "word": "four",
+    "start": 3.4549375,
+    "end": 3.675875
+  },
+  {
+    "word": "years.",
+    "start": 3.75625,
+    "end": 4.1178125
+  }
+]

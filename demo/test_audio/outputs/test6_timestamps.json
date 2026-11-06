@@ -1,47 +1,72 @@
 [
   {
-    "word": "The",
-    "start": 0.721625,
-    "end": 0.821875
+    "word": "He",
+    "start": 0.3408125,
+    "end": 0.441
   },
   {
-    "word": "Tapiola",
-    "start": 1.703875,
-    "end": 2.445625
-  },
-  {
-    "word": "library",
-    "start": 2.8265,
-    "end": 3.3878125
-  },
-  {
-    "word": "is",
-    "start": 3.7085,
-    "end": 3.8288125
-  },
-  {
-    "word": "located",
-    "start": 3.909,
-    "end": 4.5304375
-  },
-  {
-    "word": "in",
-    "start": 4.5905625,
-    "end": 4.67075
+    "word": "was",
+    "start": 0.701625,
+    "end": 1.0625
   },
   {
     "word": "the",
-    "start": 4.6908125,
-    "end": 4.791
+    "start": 1.36325,
+    "end": 1.4635
   },
   {
-    "word": "cultural",
-    "start": 4.8511875,
-    "end": 5.3924375
+    "word": "son",
+    "start": 1.56375,
+    "end": 1.7641875
   },
   {
-    "word": "centre.",
-    "start": 5.53275,
-    "end": 6.094
+    "word": "of",
+    "start": 1.8845,
+    "end": 2.0048125
+  },
+  {
+    "word": "Benjamin",
+    "start": 2.105,
+    "end": 2.5861875
+  },
+  {
+    "word": "Blake",
+    "start": 2.7065,
+    "end": 3.1074375
+  },
+  {
+    "word": "and",
+    "start": 3.24775,
+    "end": 3.4081875
+  },
+  {
+    "word": "nephew",
+    "start": 3.5685625,
+    "end": 3.9895625
+  },
+  {
+    "word": "of",
+    "start": 4.4506875,
+    "end": 4.5709375
+  },
+  {
+    "word": "Lord",
+    "start": 4.7113125,
+    "end": 5.012
+  },
+  {
+    "word": "Proprietor,",
+    "start": 5.4931875,
+    "end": 6.4354375
+  },
+  {
+    "word": "John",
+    "start": 7.097,
+    "end": 7.457875
+  },
+  {
+    "word": "Archdale.",
+    "start": 8.23975,
+    "end": 8.84125
   }
 ]

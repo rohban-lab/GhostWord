@@ -1,0 +1,62 @@
+[
+  {
+    "word": "This",
+    "start": 0.3015,
+    "end": 0.4220625
+  },
+  {
+    "word": "is",
+    "start": 0.46225,
+    "end": 0.5426875
+  },
+  {
+    "word": "also,",
+    "start": 0.603,
+    "end": 0.804
+  },
+  {
+    "word": "presumably,",
+    "start": 1.085375,
+    "end": 1.56775
+  },
+  {
+    "word": "the",
+    "start": 1.9095,
+    "end": 1.989875
+  },
+  {
+    "word": "\"principle\"",
+    "start": 2.01,
+    "end": 2.412
+  },
+  {
+    "word": "that",
+    "start": 2.4320625,
+    "end": 2.5325625
+  },
+  {
+    "word": "organizes",
+    "start": 2.57275,
+    "end": 2.994875
+  },
+  {
+    "word": "the",
+    "start": 3.015,
+    "end": 3.07525
+  },
+  {
+    "word": "connections",
+    "start": 3.095375,
+    "end": 3.47725
+  },
+  {
+    "word": "between",
+    "start": 3.5175,
+    "end": 3.7385625
+  },
+  {
+    "word": "ideas.",
+    "start": 3.819,
+    "end": 4.1405625
+  }
+]

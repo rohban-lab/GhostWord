@@ -88,12 +88,12 @@ if __name__ == "__main__":
         "bastard": ("pink", (100, 300), 2),
         "jerk": ("band", (500, 800), 3),
         "shit": ("band", (2000, 2500), 4),
-        "idiot": ("brown", (1000, 1500), 5),
-        "stupid": ("blue", (1500, 2000), 6),
-        "numskull": ("violet", (800, 1000), 7),
-        "asshole": ("notch", (100, 300), 8),
-        "bitch": ("laplace", (400, 700), 9),
-        "jackass": ("am", (1000, 1300), 10),
+        # "idiot": ("brown", (1000, 1500), 5),
+        # "stupid": ("blue", (1500, 2000), 6),
+        # "numskull": ("violet", (800, 1000), 7),
+        # "asshole": ("notch", (100, 300), 8),
+        # "bitch": ("laplace", (400, 700), 9),
+        # "jackass": ("am", (1000, 1300), 10),
     }
 
 

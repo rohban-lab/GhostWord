@@ -1,67 +1,47 @@
 [
   {
-    "word": "It",
-    "start": 0.621875,
-    "end": 0.702125
+    "word": "She",
+    "start": 0.50075,
+    "end": 0.641
   },
   {
-    "word": "lies",
-    "start": 0.782375,
-    "end": 1.1033125
+    "word": "has",
+    "start": 0.7411875,
+    "end": 0.9615
   },
   {
-    "word": "on",
-    "start": 1.1635,
-    "end": 1.24375
+    "word": "a",
+    "start": 1.021625,
+    "end": 1.041625
   },
   {
-    "word": "the",
-    "start": 1.2638125,
-    "end": 1.3440625
+    "word": "particular",
+    "start": 1.12175,
+    "end": 1.7828125
   },
   {
-    "word": "River",
-    "start": 1.444375,
-    "end": 1.685125
+    "word": "fondness",
+    "start": 1.9030625,
+    "end": 2.443875
   },
   {
-    "word": "Yare",
-    "start": 1.785375,
-    "end": 2.106375
+    "word": "for",
+    "start": 2.504,
+    "end": 2.6843125
   },
   {
-    "word": "just",
-    "start": 2.38725,
-    "end": 2.6079375
+    "word": "sandwiches",
+    "start": 2.8445625,
+    "end": 3.4855625
   },
   {
-    "word": "to",
-    "start": 2.6680625,
-    "end": 2.72825
+    "word": "from",
+    "start": 3.5456875,
+    "end": 3.726
   },
   {
-    "word": "the",
-    "start": 2.7884375,
-    "end": 2.8686875
-  },
-  {
-    "word": "west",
-    "start": 2.928875,
-    "end": 3.1896875
-  },
-  {
-    "word": "of",
-    "start": 3.249875,
-    "end": 3.3100625
-  },
-  {
-    "word": "Breydon",
-    "start": 3.3903125,
-    "end": 3.7915
-  },
-  {
-    "word": "Water.",
-    "start": 3.952,
-    "end": 4.2930625
+    "word": "Subway.",
+    "start": 3.8661875,
+    "end": 4.3269375
   }
 ]

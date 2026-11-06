@@ -1,0 +1,42 @@
+[
+  {
+    "word": "The",
+    "start": 0.0601875,
+    "end": 0.1404375
+  },
+  {
+    "word": "specific",
+    "start": 0.1805625,
+    "end": 0.6420625
+  },
+  {
+    "word": "epithet",
+    "start": 1.0835,
+    "end": 1.3644375
+  },
+  {
+    "word": "(\"pulchella\")",
+    "start": 1.3644375,
+    "end": 1.8660625
+  },
+  {
+    "word": "means",
+    "start": 1.8660625,
+    "end": 2.0868125
+  },
+  {
+    "word": "\"beautiful",
+    "start": 2.147,
+    "end": 2.568375
+  },
+  {
+    "word": "and",
+    "start": 2.6285625,
+    "end": 2.728875
+  },
+  {
+    "word": "small\".",
+    "start": 2.769,
+    "end": 3.07
+  }
+]

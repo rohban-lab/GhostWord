@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Some",
+    "start": 1.343,
+    "end": 1.5835625
+  },
+  {
+    "word": "common",
+    "start": 1.6436875,
+    "end": 1.944375
+  },
+  {
+    "word": "side",
+    "start": 2.1448125,
+    "end": 2.4455
+  },
+  {
+    "word": "effects",
+    "start": 2.485625,
+    "end": 2.926625
+  },
+  {
+    "word": "include",
+    "start": 3.046875,
+    "end": 3.5079375
+  },
+  {
+    "word": "fever,",
+    "start": 3.5680625,
+    "end": 3.9489375
+  },
+  {
+    "word": "pain",
+    "start": 4.3298125,
+    "end": 4.5503125
+  },
+  {
+    "word": "around",
+    "start": 4.590375,
+    "end": 4.8910625
+  },
+  {
+    "word": "the",
+    "start": 4.911125,
+    "end": 4.97125
+  },
+  {
+    "word": "injection",
+    "start": 5.031375,
+    "end": 5.5325
+  },
+  {
+    "word": "site,",
+    "start": 5.6528125,
+    "end": 5.9935625
+  },
+  {
+    "word": "and",
+    "start": 6.3143125,
+    "end": 6.4345625
+  },
+  {
+    "word": "muscle",
+    "start": 6.51475,
+    "end": 6.915625
+  },
+  {
+    "word": "aches.",
+    "start": 7.0359375,
+    "end": 7.3165625
+  }
+]

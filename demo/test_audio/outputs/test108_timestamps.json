@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Those",
+    "start": 1.101,
+    "end": 1.32125
+  },
+  {
+    "word": "omitted",
+    "start": 1.4213125,
+    "end": 1.8216875
+  },
+  {
+    "word": "here",
+    "start": 1.9618125,
+    "end": 2.2220625
+  },
+  {
+    "word": "are",
+    "start": 2.3421875,
+    "end": 2.522375
+  },
+  {
+    "word": "included",
+    "start": 2.6425,
+    "end": 3.1029375
+  },
+  {
+    "word": "in",
+    "start": 3.2230625,
+    "end": 3.303125
+  },
+  {
+    "word": "the",
+    "start": 3.3431875,
+    "end": 3.42325
+  },
+  {
+    "word": "larger",
+    "start": 3.5033125,
+    "end": 3.863625
+  },
+  {
+    "word": "list",
+    "start": 3.9236875,
+    "end": 4.1439375
+  },
+  {
+    "word": "of",
+    "start": 4.244,
+    "end": 4.3240625
+  },
+  {
+    "word": "articles",
+    "start": 4.50425,
+    "end": 5.00475
+  },
+  {
+    "word": "by",
+    "start": 5.1048125,
+    "end": 5.2249375
+  },
+  {
+    "word": "John",
+    "start": 5.305,
+    "end": 5.56525
+  },
+  {
+    "word": "Neal.",
+    "start": 5.6253125,
+    "end": 5.8455625
+  }
+]

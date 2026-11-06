@@ -1,47 +1,52 @@
 [
   {
-    "word": "\"And",
-    "start": 0.94125,
-    "end": 1.1415625
+    "word": "Groves",
+    "start": 0.8815,
+    "end": 1.32225
   },
   {
-    "word": "I'd",
-    "start": 1.381875,
-    "end": 1.482
+    "word": "started",
+    "start": 1.6828125,
+    "end": 2.1836875
   },
   {
-    "word": "better",
-    "start": 1.762375,
-    "end": 2.00275
+    "word": "writing",
+    "start": 2.22375,
+    "end": 2.724625
   },
   {
-    "word": "read",
-    "start": 2.0628125,
-    "end": 2.2430625
+    "word": "songs",
+    "start": 2.864875,
+    "end": 3.3456875
   },
   {
-    "word": "your",
-    "start": 2.3231875,
-    "end": 2.5234375
+    "word": "when",
+    "start": 3.8265,
+    "end": 4.046875
   },
   {
-    "word": "books,\"",
-    "start": 2.5835,
-    "end": 2.904
+    "word": "she",
+    "start": 4.187125,
+    "end": 4.2873125
   },
   {
-    "word": "said",
-    "start": 2.9840625,
-    "end": 3.204375
+    "word": "was",
+    "start": 4.3674375,
+    "end": 4.688
   },
   {
-    "word": "the",
-    "start": 3.2644375,
-    "end": 3.3445625
+    "word": "four",
+    "start": 5.208875,
+    "end": 5.42925
   },
   {
-    "word": "boy.",
-    "start": 3.384625,
-    "end": 3.645
+    "word": "years",
+    "start": 5.4893125,
+    "end": 5.7698125
+  },
+  {
+    "word": "old.",
+    "start": 5.9701875,
+    "end": 6.2906875
   }
 ]

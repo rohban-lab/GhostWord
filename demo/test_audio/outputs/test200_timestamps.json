@@ -1,0 +1,62 @@
+[
+  {
+    "word": "These",
+    "start": 0.3609375,
+    "end": 0.5815625
+  },
+  {
+    "word": "algorithms",
+    "start": 0.64175,
+    "end": 1.223375
+  },
+  {
+    "word": "were",
+    "start": 1.2634375,
+    "end": 1.423875
+  },
+  {
+    "word": "originally",
+    "start": 1.464,
+    "end": 1.865125
+  },
+  {
+    "word": "performed",
+    "start": 1.90525,
+    "end": 2.3464375
+  },
+  {
+    "word": "manually",
+    "start": 2.3865625,
+    "end": 2.80775
+  },
+  {
+    "word": "but",
+    "start": 2.867875,
+    "end": 2.9881875
+  },
+  {
+    "word": "now",
+    "start": 3.0684375,
+    "end": 3.18875
+  },
+  {
+    "word": "are",
+    "start": 3.2088125,
+    "end": 3.3491875
+  },
+  {
+    "word": "almost",
+    "start": 3.4294375,
+    "end": 3.7904375
+  },
+  {
+    "word": "universally",
+    "start": 3.8906875,
+    "end": 4.3319375
+  },
+  {
+    "word": "computerized.",
+    "start": 4.3920625,
+    "end": 5.1140625
+  }
+]

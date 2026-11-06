@@ -1,0 +1,37 @@
+[
+  {
+    "word": "Maybe",
+    "start": 1.824,
+    "end": 2.2850625
+  },
+  {
+    "word": "tomorrow",
+    "start": 2.5255625,
+    "end": 3.327375
+  },
+  {
+    "word": "will",
+    "start": 3.50775,
+    "end": 3.7483125
+  },
+  {
+    "word": "be",
+    "start": 3.8485,
+    "end": 3.94875
+  },
+  {
+    "word": "better",
+    "start": 4.16925,
+    "end": 4.5300625
+  },
+  {
+    "word": "than",
+    "start": 4.690375,
+    "end": 4.910875
+  },
+  {
+    "word": "yesterday.",
+    "start": 5.0511875,
+    "end": 6.033375
+  }
+]

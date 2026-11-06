@@ -1,0 +1,47 @@
+[
+  {
+    "word": "William",
+    "start": 0.621625,
+    "end": 0.9224375
+  },
+  {
+    "word": "Barnes",
+    "start": 0.982625,
+    "end": 1.40375
+  },
+  {
+    "word": "the",
+    "start": 1.644375,
+    "end": 1.7045625
+  },
+  {
+    "word": "poet",
+    "start": 1.78475,
+    "end": 2.1456875
+  },
+  {
+    "word": "also",
+    "start": 2.3663125,
+    "end": 2.6470625
+  },
+  {
+    "word": "lived",
+    "start": 2.72725,
+    "end": 2.988
+  },
+  {
+    "word": "in",
+    "start": 3.048125,
+    "end": 3.148375
+  },
+  {
+    "word": "Sturminster",
+    "start": 3.2486875,
+    "end": 4.21125
+  },
+  {
+    "word": "Newton.",
+    "start": 4.3315625,
+    "end": 4.812875
+  }
+]

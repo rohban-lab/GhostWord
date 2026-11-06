@@ -1,0 +1,32 @@
+[
+  {
+    "word": "The",
+    "start": 0.9225,
+    "end": 1.0026875
+  },
+  {
+    "word": "other",
+    "start": 1.103,
+    "end": 1.3235625
+  },
+  {
+    "word": "is",
+    "start": 1.6845625,
+    "end": 1.845
+  },
+  {
+    "word": "the",
+    "start": 2.065625,
+    "end": 2.165875
+  },
+  {
+    "word": "Legislative",
+    "start": 2.3865,
+    "end": 3.1285
+  },
+  {
+    "word": "Council.",
+    "start": 3.6499375,
+    "end": 4.0109375
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "word": "She",
+    "start": 0.80325,
+    "end": 0.92375
+  },
+  {
+    "word": "graduated",
+    "start": 1.004125,
+    "end": 1.8074375
+  },
+  {
+    "word": "from",
+    "start": 2.00825,
+    "end": 2.168875
+  },
+  {
+    "word": "the",
+    "start": 2.229125,
+    "end": 2.3295625
+  },
+  {
+    "word": "University",
+    "start": 2.409875,
+    "end": 3.0926875
+  },
+  {
+    "word": "of",
+    "start": 3.23325,
+    "end": 3.3336875
+  },
+  {
+    "word": "New",
+    "start": 3.414,
+    "end": 3.554625
+  },
+  {
+    "word": "Brunswick.",
+    "start": 3.6349375,
+    "end": 4.2374375
+  }
+]

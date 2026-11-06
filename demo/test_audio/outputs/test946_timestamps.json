@@ -1,0 +1,57 @@
+[
+  {
+    "word": "The",
+    "start": 1.203375,
+    "end": 1.3036875
+  },
+  {
+    "word": "final",
+    "start": 1.363875,
+    "end": 1.805125
+  },
+  {
+    "word": "\"Simpsons\"",
+    "start": 1.9254375,
+    "end": 2.6274375
+  },
+  {
+    "word": "episode",
+    "start": 2.7879375,
+    "end": 3.2893125
+  },
+  {
+    "word": "that",
+    "start": 3.309375,
+    "end": 3.4498125
+  },
+  {
+    "word": "Aguilar",
+    "start": 3.570125,
+    "end": 4.091625
+  },
+  {
+    "word": "assistant",
+    "start": 4.171875,
+    "end": 4.6733125
+  },
+  {
+    "word": "directed",
+    "start": 4.713375,
+    "end": 5.234875
+  },
+  {
+    "word": "is",
+    "start": 5.35525,
+    "end": 5.4555
+  },
+  {
+    "word": "\"Burger",
+    "start": 5.53575,
+    "end": 5.9168125
+  },
+  {
+    "word": "Kings\".",
+    "start": 5.9970625,
+    "end": 6.3981875
+  }
+]

@@ -1,52 +1,37 @@
 [
   {
-    "word": "His",
-    "start": 1.222875,
-    "end": 1.4033125
-  },
-  {
-    "word": "brothers,",
-    "start": 1.5636875,
-    "end": 2.165125
-  },
-  {
-    "word": "Thomas",
-    "start": 2.2854375,
-    "end": 2.786625
-  },
-  {
-    "word": "and",
-    "start": 2.9069375,
-    "end": 3.04725
-  },
-  {
-    "word": "John,",
-    "start": 3.1475,
-    "end": 3.4281875
-  },
-  {
-    "word": "would",
-    "start": 3.5885625,
-    "end": 3.8491875
-  },
-  {
-    "word": "run",
-    "start": 4.0696875,
-    "end": 4.31025
+    "word": "Slide",
+    "start": 2.646625,
+    "end": 2.9674375
   },
   {
     "word": "the",
-    "start": 4.3904375,
-    "end": 4.470625
+    "start": 2.9875,
+    "end": 3.0676875
   },
   {
-    "word": "family",
-    "start": 4.5909375,
-    "end": 5.0520625
+    "word": "bill",
+    "start": 3.127875,
+    "end": 3.328375
   },
   {
-    "word": "business.",
-    "start": 5.2325,
-    "end": 5.713625
+    "word": "between",
+    "start": 3.3885,
+    "end": 3.7494375
+  },
+  {
+    "word": "the",
+    "start": 3.7695,
+    "end": 3.8496875
+  },
+  {
+    "word": "two",
+    "start": 3.9098125,
+    "end": 4.110375
+  },
+  {
+    "word": "leaves.",
+    "start": 4.1905625,
+    "end": 4.711875
   }
 ]

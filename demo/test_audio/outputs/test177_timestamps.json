@@ -1,0 +1,42 @@
+[
+  {
+    "word": "The",
+    "start": 0.5814375,
+    "end": 0.6616875
+  },
+  {
+    "word": "world",
+    "start": 0.741875,
+    "end": 1.122875
+  },
+  {
+    "word": "speaks",
+    "start": 1.2631875,
+    "end": 1.6441875
+  },
+  {
+    "word": "many",
+    "start": 1.804625,
+    "end": 2.06525
+  },
+  {
+    "word": "languages,",
+    "start": 2.1655,
+    "end": 2.747
+  },
+  {
+    "word": "the",
+    "start": 2.8271875,
+    "end": 2.9275
+  },
+  {
+    "word": "boy",
+    "start": 3.0478125,
+    "end": 3.3084375
+  },
+  {
+    "word": "thought.",
+    "start": 3.468875,
+    "end": 3.769625
+  }
+]

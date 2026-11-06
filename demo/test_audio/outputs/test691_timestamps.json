@@ -1,0 +1,57 @@
+[
+  {
+    "word": "There",
+    "start": 0.96225,
+    "end": 1.122625
+  },
+  {
+    "word": "is",
+    "start": 1.122625,
+    "end": 1.2028125
+  },
+  {
+    "word": "a",
+    "start": 1.263,
+    "end": 1.2830625
+  },
+  {
+    "word": "hockey",
+    "start": 1.36325,
+    "end": 1.623875
+  },
+  {
+    "word": "arena",
+    "start": 1.7641875,
+    "end": 2.20525
+  },
+  {
+    "word": "in",
+    "start": 2.586125,
+    "end": 2.686375
+  },
+  {
+    "word": "LaSalle,",
+    "start": 2.7465625,
+    "end": 3.368
+  },
+  {
+    "word": "Quebec",
+    "start": 3.4481875,
+    "end": 3.8090625
+  },
+  {
+    "word": "named",
+    "start": 4.1298125,
+    "end": 4.4105
+  },
+  {
+    "word": "after",
+    "start": 4.51075,
+    "end": 4.7513125
+  },
+  {
+    "word": "Lemaire.",
+    "start": 4.871625,
+    "end": 5.3326875
+  }
+]

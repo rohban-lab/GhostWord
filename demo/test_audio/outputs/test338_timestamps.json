@@ -1,0 +1,57 @@
+[
+  {
+    "word": "The",
+    "start": 0.922625,
+    "end": 1.022875
+  },
+  {
+    "word": "play",
+    "start": 1.063,
+    "end": 1.32375
+  },
+  {
+    "word": "opens",
+    "start": 1.5243125,
+    "end": 1.8853125
+  },
+  {
+    "word": "with",
+    "start": 1.9254375,
+    "end": 2.0859375
+  },
+  {
+    "word": "Rosencrantz",
+    "start": 2.1861875,
+    "end": 3.048625
+  },
+  {
+    "word": "and",
+    "start": 3.1890625,
+    "end": 3.2893125
+  },
+  {
+    "word": "Guildenstern",
+    "start": 3.650375,
+    "end": 4.613125
+  },
+  {
+    "word": "betting",
+    "start": 4.7535,
+    "end": 5.054375
+  },
+  {
+    "word": "on",
+    "start": 5.1145625,
+    "end": 5.19475
+  },
+  {
+    "word": "coin",
+    "start": 5.315125,
+    "end": 5.575875
+  },
+  {
+    "word": "flips.",
+    "start": 5.676125,
+    "end": 6.0371875
+  }
+]

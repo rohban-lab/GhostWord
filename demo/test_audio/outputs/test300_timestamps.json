@@ -1,0 +1,32 @@
+[
+  {
+    "word": "He",
+    "start": 1.1014375,
+    "end": 1.1815625
+  },
+  {
+    "word": "graduated",
+    "start": 1.34175,
+    "end": 2.303
+  },
+  {
+    "word": "from",
+    "start": 2.383125,
+    "end": 2.6234375
+  },
+  {
+    "word": "Woburn",
+    "start": 2.743625,
+    "end": 3.24425
+  },
+  {
+    "word": "High",
+    "start": 3.344375,
+    "end": 3.6848125
+  },
+  {
+    "word": "School.",
+    "start": 3.724875,
+    "end": 4.065375
+  }
+]

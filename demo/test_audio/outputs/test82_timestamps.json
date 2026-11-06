@@ -1,0 +1,52 @@
+[
+  {
+    "word": "Don't",
+    "start": 0.180125,
+    "end": 0.5004375
+  },
+  {
+    "word": "order",
+    "start": 0.5605,
+    "end": 0.84075
+  },
+  {
+    "word": "thyroid",
+    "start": 1.9218125,
+    "end": 2.4423125
+  },
+  {
+    "word": "function",
+    "start": 2.5023125,
+    "end": 2.92275
+  },
+  {
+    "word": "tests",
+    "start": 3.1429375,
+    "end": 3.48325
+  },
+  {
+    "word": "in",
+    "start": 3.583375,
+    "end": 3.7035
+  },
+  {
+    "word": "patients",
+    "start": 4.103875,
+    "end": 4.664375
+  },
+  {
+    "word": "who",
+    "start": 5.2249375,
+    "end": 5.305
+  },
+  {
+    "word": "are",
+    "start": 5.4851875,
+    "end": 5.6653125
+  },
+  {
+    "word": "asymptomatic.",
+    "start": 6.08575,
+    "end": 7.16675
+  }
+]

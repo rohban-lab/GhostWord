@@ -1,0 +1,72 @@
+[
+  {
+    "word": "Space",
+    "start": 0.3005,
+    "end": 0.76125
+  },
+  {
+    "word": "is",
+    "start": 0.8815,
+    "end": 0.981625
+  },
+  {
+    "word": "available",
+    "start": 1.3823125,
+    "end": 2.0234375
+  },
+  {
+    "word": "on",
+    "start": 2.1636875,
+    "end": 2.22375
+  },
+  {
+    "word": "a",
+    "start": 2.3239375,
+    "end": 2.344
+  },
+  {
+    "word": "lease",
+    "start": 2.424125,
+    "end": 2.78475
+  },
+  {
+    "word": "basis",
+    "start": 2.9049375,
+    "end": 3.3656875
+  },
+  {
+    "word": "in",
+    "start": 3.5059375,
+    "end": 3.5860625
+  },
+  {
+    "word": "the",
+    "start": 3.66625,
+    "end": 3.766375
+  },
+  {
+    "word": "Heritage",
+    "start": 3.8665625,
+    "end": 4.4675625
+  },
+  {
+    "word": "hangar",
+    "start": 4.708,
+    "end": 5.1888125
+  },
+  {
+    "word": "for",
+    "start": 5.3290625,
+    "end": 5.669625
+  },
+  {
+    "word": "aircraft",
+    "start": 5.669625,
+    "end": 5.9901875
+  },
+  {
+    "word": "storage.",
+    "start": 6.03025,
+    "end": 6.5711875
+  }
+]

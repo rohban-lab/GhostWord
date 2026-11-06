@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Albums",
+    "start": 0.9614375,
+    "end": 1.3620625
+  },
+  {
+    "word": "that",
+    "start": 1.382125,
+    "end": 1.5223125
+  },
+  {
+    "word": "had",
+    "start": 1.562375,
+    "end": 1.6825625
+  },
+  {
+    "word": "already",
+    "start": 1.722625,
+    "end": 1.963
+  },
+  {
+    "word": "been",
+    "start": 2.023125,
+    "end": 2.203375
+  },
+  {
+    "word": "produced",
+    "start": 2.2635,
+    "end": 2.684125
+  },
+  {
+    "word": "had",
+    "start": 2.74425,
+    "end": 2.844375
+  },
+  {
+    "word": "a",
+    "start": 2.8844375,
+    "end": 2.9045
+  },
+  {
+    "word": "bandage",
+    "start": 2.9245,
+    "end": 3.4253125
+  },
+  {
+    "word": "attached",
+    "start": 3.5655,
+    "end": 3.966125
+  },
+  {
+    "word": "to",
+    "start": 3.9861875,
+    "end": 4.04625
+  },
+  {
+    "word": "them.",
+    "start": 4.0863125,
+    "end": 4.2465625
+  }
+]

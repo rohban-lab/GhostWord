@@ -1,0 +1,62 @@
+[
+  {
+    "word": "The",
+    "start": 1.1633125,
+    "end": 1.2635625
+  },
+  {
+    "word": "Little",
+    "start": 1.404,
+    "end": 1.7048125
+  },
+  {
+    "word": "Mountain",
+    "start": 1.84525,
+    "end": 2.346625
+  },
+  {
+    "word": "Reunion",
+    "start": 2.5271875,
+    "end": 3.0686875
+  },
+  {
+    "word": "is",
+    "start": 3.309375,
+    "end": 3.42975
+  },
+  {
+    "word": "one",
+    "start": 3.5901875,
+    "end": 3.6905
+  },
+  {
+    "word": "of",
+    "start": 3.730625,
+    "end": 3.8108125
+  },
+  {
+    "word": "South",
+    "start": 3.911125,
+    "end": 4.171875
+  },
+  {
+    "word": "Carolina's",
+    "start": 4.232,
+    "end": 4.83375
+  },
+  {
+    "word": "oldest",
+    "start": 5.0343125,
+    "end": 5.5558125
+  },
+  {
+    "word": "folk",
+    "start": 5.7363125,
+    "end": 5.977
+  },
+  {
+    "word": "festivals.",
+    "start": 6.197625,
+    "end": 6.819375
+  }
+]

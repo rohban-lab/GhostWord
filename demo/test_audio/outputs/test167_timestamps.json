@@ -1,0 +1,77 @@
+[
+  {
+    "word": "The",
+    "start": 1.082375,
+    "end": 1.1625625
+  },
+  {
+    "word": "tribal",
+    "start": 1.24275,
+    "end": 1.68375
+  },
+  {
+    "word": "chieftain",
+    "start": 1.7839375,
+    "end": 2.2850625
+  },
+  {
+    "word": "called",
+    "start": 2.425375,
+    "end": 2.7460625
+  },
+  {
+    "word": "for",
+    "start": 2.766125,
+    "end": 2.9064375
+  },
+  {
+    "word": "the",
+    "start": 2.9665625,
+    "end": 3.0668125
+  },
+  {
+    "word": "boy,",
+    "start": 3.106875,
+    "end": 3.3474375
+  },
+  {
+    "word": "and",
+    "start": 3.8485625,
+    "end": 3.94875
+  },
+  {
+    "word": "presented",
+    "start": 3.988875,
+    "end": 4.5300625
+  },
+  {
+    "word": "him",
+    "start": 4.5701875,
+    "end": 4.7305
+  },
+  {
+    "word": "with",
+    "start": 4.790625,
+    "end": 4.951
+  },
+  {
+    "word": "fifty",
+    "start": 5.0311875,
+    "end": 5.392
+  },
+  {
+    "word": "pieces",
+    "start": 5.51225,
+    "end": 5.8730625
+  },
+  {
+    "word": "of",
+    "start": 5.9331875,
+    "end": 6.0334375
+  },
+  {
+    "word": "gold.",
+    "start": 6.1536875,
+    "end": 6.474375
+  }
+]

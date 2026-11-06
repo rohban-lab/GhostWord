@@ -1,0 +1,67 @@
+[
+  {
+    "word": "This",
+    "start": 0.5608125,
+    "end": 0.6609375
+  },
+  {
+    "word": "classification",
+    "start": 0.6809375,
+    "end": 1.4220625
+  },
+  {
+    "word": "is",
+    "start": 1.4620625,
+    "end": 1.5421875
+  },
+  {
+    "word": "based",
+    "start": 1.6023125,
+    "end": 1.822625
+  },
+  {
+    "word": "on",
+    "start": 1.8626875,
+    "end": 1.92275
+  },
+  {
+    "word": "the",
+    "start": 1.9428125,
+    "end": 2.0229375
+  },
+  {
+    "word": "timing",
+    "start": 2.083,
+    "end": 2.4235
+  },
+  {
+    "word": "of",
+    "start": 2.4835625,
+    "end": 2.5636875
+  },
+  {
+    "word": "transcription",
+    "start": 2.62375,
+    "end": 3.28475
+  },
+  {
+    "word": "that",
+    "start": 3.3448125,
+    "end": 3.465
+  },
+  {
+    "word": "is",
+    "start": 3.5250625,
+    "end": 3.62525
+  },
+  {
+    "word": "temporally",
+    "start": 3.6853125,
+    "end": 4.166
+  },
+  {
+    "word": "regulated.",
+    "start": 4.226125,
+    "end": 4.746875
+  }
+]

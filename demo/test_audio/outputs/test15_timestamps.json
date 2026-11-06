@@ -1,47 +1,72 @@
 [
   {
-    "word": "She",
-    "start": 0.50075,
-    "end": 0.641
+    "word": "A",
+    "start": 0.923625,
+    "end": 0.94375
   },
   {
-    "word": "has",
-    "start": 0.7411875,
-    "end": 0.9615
+    "word": "part",
+    "start": 1.044125,
+    "end": 1.32525
+  },
+  {
+    "word": "of",
+    "start": 1.4055625,
+    "end": 1.5260625
+  },
+  {
+    "word": "it",
+    "start": 1.6264375,
+    "end": 1.767
+  },
+  {
+    "word": "is",
+    "start": 1.8875,
+    "end": 2.0280625
   },
   {
     "word": "a",
-    "start": 1.021625,
-    "end": 1.041625
+    "start": 2.1284375,
+    "end": 2.1485625
   },
   {
-    "word": "particular",
-    "start": 1.12175,
-    "end": 1.7828125
+    "word": "standard",
+    "start": 2.228875,
+    "end": 2.7509375
   },
   {
-    "word": "fondness",
-    "start": 1.9030625,
-    "end": 2.443875
+    "word": "speed",
+    "start": 2.8714375,
+    "end": 3.1926875
   },
   {
-    "word": "for",
-    "start": 2.504,
-    "end": 2.6843125
+    "word": "skating",
+    "start": 3.293125,
+    "end": 3.734875
   },
   {
-    "word": "sandwiches",
-    "start": 2.8445625,
-    "end": 3.4855625
+    "word": "rink,",
+    "start": 3.7549375,
+    "end": 3.9356875
   },
   {
-    "word": "from",
-    "start": 3.5456875,
-    "end": 3.726
+    "word": "connected",
+    "start": 4.0360625,
+    "end": 4.4778125
   },
   {
-    "word": "Subway.",
-    "start": 3.8661875,
-    "end": 4.3269375
+    "word": "to",
+    "start": 4.5380625,
+    "end": 4.5983125
+  },
+  {
+    "word": "the",
+    "start": 4.6585625,
+    "end": 4.738875
+  },
+  {
+    "word": "rest.",
+    "start": 4.799125,
+    "end": 5.1404375
   }
 ]

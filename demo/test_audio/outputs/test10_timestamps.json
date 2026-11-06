@@ -1,57 +1,72 @@
 [
   {
-    "word": "In",
-    "start": 0.5018125,
-    "end": 0.582125
+    "word": "The",
+    "start": 1.10125,
+    "end": 1.2214375
   },
   {
-    "word": "this",
-    "start": 0.62225,
-    "end": 0.8029375
+    "word": "external",
+    "start": 1.2614375,
+    "end": 1.742
   },
   {
-    "word": "case,",
-    "start": 0.88325,
-    "end": 1.264625
+    "word": "source",
+    "start": 1.8621875,
+    "end": 2.262625
   },
   {
-    "word": "it",
-    "start": 1.465375,
-    "end": 1.626
+    "word": "can",
+    "start": 2.36275,
+    "end": 2.543
   },
   {
-    "word": "refers",
-    "start": 1.7464375,
-    "end": 2.168
+    "word": "be",
+    "start": 2.6430625,
+    "end": 2.7231875
   },
   {
-    "word": "to",
-    "start": 2.3085,
-    "end": 2.4289375
+    "word": "a",
+    "start": 2.8433125,
+    "end": 2.863375
   },
   {
-    "word": "all",
-    "start": 2.669875,
-    "end": 2.870625
+    "word": "spring,",
+    "start": 2.9635,
+    "end": 3.424
   },
   {
-    "word": "individuals",
-    "start": 3.05125,
-    "end": 3.954625
+    "word": "a",
+    "start": 3.5441875,
+    "end": 3.5641875
   },
   {
-    "word": "in",
-    "start": 4.0349375,
-    "end": 4.155375
+    "word": "raised",
+    "start": 3.64425,
+    "end": 3.964625
   },
   {
-    "word": "the",
-    "start": 4.356125,
-    "end": 4.4565
+    "word": "weight,",
+    "start": 4.02475,
+    "end": 4.265
   },
   {
-    "word": "class.",
-    "start": 4.556875,
-    "end": 4.9784375
+    "word": "or",
+    "start": 4.44525,
+    "end": 4.5453125
+  },
+  {
+    "word": "a",
+    "start": 4.6054375,
+    "end": 4.6254375
+  },
+  {
+    "word": "compressed",
+    "start": 4.7255625,
+    "end": 5.2661875
+  },
+  {
+    "word": "gas.",
+    "start": 5.3863125,
+    "end": 5.7066875
   }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "word": "My",
+    "start": 1.8265625,
+    "end": 1.967125
+  },
+  {
+    "word": "brother",
+    "start": 2.00725,
+    "end": 2.2681875
+  },
+  {
+    "word": "is",
+    "start": 2.328375,
+    "end": 2.388625
+  },
+  {
+    "word": "a",
+    "start": 2.42875,
+    "end": 2.4488125
+  },
+  {
+    "word": "professional",
+    "start": 2.4689375,
+    "end": 2.9305625
+  },
+  {
+    "word": "football",
+    "start": 2.97075,
+    "end": 3.291875
+  },
+  {
+    "word": "player.",
+    "start": 3.3320625,
+    "end": 3.5729375
+  }
+]

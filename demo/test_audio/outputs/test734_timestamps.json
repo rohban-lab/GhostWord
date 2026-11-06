@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Chile",
+    "start": 1.2010625,
+    "end": 1.541375
+  },
+  {
+    "word": "is",
+    "start": 1.8816875,
+    "end": 1.98175
+  },
+  {
+    "word": "today",
+    "start": 2.0418125,
+    "end": 2.46225
+  },
+  {
+    "word": "one",
+    "start": 3.162875,
+    "end": 3.283
+  },
+  {
+    "word": "of",
+    "start": 3.323,
+    "end": 3.3830625
+  },
+  {
+    "word": "South",
+    "start": 3.463125,
+    "end": 3.723375
+  },
+  {
+    "word": "America's",
+    "start": 3.7834375,
+    "end": 4.424
+  },
+  {
+    "word": "most",
+    "start": 4.70425,
+    "end": 4.9645
+  },
+  {
+    "word": "stable",
+    "start": 5.0245625,
+    "end": 5.5450625
+  },
+  {
+    "word": "and",
+    "start": 5.905375,
+    "end": 6.0054375
+  },
+  {
+    "word": "prosperous",
+    "start": 6.0455,
+    "end": 6.6460625
+  },
+  {
+    "word": "nations.",
+    "start": 6.7661875,
+    "end": 7.286625
+  }
+]

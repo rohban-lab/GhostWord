@@ -1,0 +1,47 @@
+[
+  {
+    "word": "The",
+    "start": 0.741625,
+    "end": 0.8218125
+  },
+  {
+    "word": "example",
+    "start": 0.922,
+    "end": 1.70375
+  },
+  {
+    "word": "with",
+    "start": 2.16475,
+    "end": 2.345125
+  },
+  {
+    "word": "smallest",
+    "start": 2.4854375,
+    "end": 3.1068125
+  },
+  {
+    "word": "volume",
+    "start": 3.227125,
+    "end": 3.7281875
+  },
+  {
+    "word": "is",
+    "start": 4.3095,
+    "end": 4.42975
+  },
+  {
+    "word": "the",
+    "start": 4.53,
+    "end": 4.6301875
+  },
+  {
+    "word": "Weeks",
+    "start": 4.710375,
+    "end": 5.1313125
+  },
+  {
+    "word": "manifold.",
+    "start": 5.2916875,
+    "end": 6.1335
+  }
+]

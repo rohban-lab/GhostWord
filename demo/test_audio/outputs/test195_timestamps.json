@@ -1,0 +1,72 @@
+[
+  {
+    "word": "The",
+    "start": 0.4005,
+    "end": 0.4805625
+  },
+  {
+    "word": "closest",
+    "start": 0.5406875,
+    "end": 1.02125
+  },
+  {
+    "word": "limited",
+    "start": 1.081375,
+    "end": 1.38175
+  },
+  {
+    "word": "access",
+    "start": 1.501875,
+    "end": 1.862375
+  },
+  {
+    "word": "road",
+    "start": 1.9424375,
+    "end": 2.18275
+  },
+  {
+    "word": "is",
+    "start": 2.2228125,
+    "end": 2.3029375
+  },
+  {
+    "word": "the",
+    "start": 2.3229375,
+    "end": 2.4230625
+  },
+  {
+    "word": "Atlantic",
+    "start": 2.463125,
+    "end": 2.9838125
+  },
+  {
+    "word": "City",
+    "start": 3.063875,
+    "end": 3.2641875
+  },
+  {
+    "word": "Expressway",
+    "start": 3.32425,
+    "end": 3.9650625
+  },
+  {
+    "word": "in",
+    "start": 4.0651875,
+    "end": 4.1453125
+  },
+  {
+    "word": "neighboring",
+    "start": 4.205375,
+    "end": 4.6259375
+  },
+  {
+    "word": "Winslow",
+    "start": 4.6659375,
+    "end": 5.1065
+  },
+  {
+    "word": "Township.",
+    "start": 5.166625,
+    "end": 5.7073125
+  }
+]

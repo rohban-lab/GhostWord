@@ -1,0 +1,42 @@
+[
+  {
+    "word": "The",
+    "start": 0.5425,
+    "end": 0.622875
+  },
+  {
+    "word": "title",
+    "start": 0.683125,
+    "end": 1.064875
+  },
+  {
+    "word": "is",
+    "start": 1.064875,
+    "end": 1.1251875
+  },
+  {
+    "word": "sometimes",
+    "start": 1.1854375,
+    "end": 1.7480625
+  },
+  {
+    "word": "translated",
+    "start": 1.78825,
+    "end": 2.511625
+  },
+  {
+    "word": "as",
+    "start": 2.6120625,
+    "end": 2.7125
+  },
+  {
+    "word": "The",
+    "start": 2.7728125,
+    "end": 2.87325
+  },
+  {
+    "word": "Arsonist.",
+    "start": 2.9335625,
+    "end": 3.596625
+  }
+]

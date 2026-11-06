@@ -1,0 +1,47 @@
+[
+  {
+    "word": "The",
+    "start": 0.6426875,
+    "end": 0.7230625
+  },
+  {
+    "word": "event",
+    "start": 0.7833125,
+    "end": 1.0845625
+  },
+  {
+    "word": "was",
+    "start": 1.1448125,
+    "end": 1.2653125
+  },
+  {
+    "word": "hosted",
+    "start": 1.3255625,
+    "end": 1.687125
+  },
+  {
+    "word": "by",
+    "start": 1.7273125,
+    "end": 1.867875
+  },
+  {
+    "word": "Geograph's",
+    "start": 1.94825,
+    "end": 2.5306875
+  },
+  {
+    "word": "sponsor,",
+    "start": 2.55075,
+    "end": 3.052875
+  },
+  {
+    "word": "Ordnance",
+    "start": 3.5951875,
+    "end": 4.0571875
+  },
+  {
+    "word": "Survey.",
+    "start": 4.0973125,
+    "end": 4.4789375
+  }
+]

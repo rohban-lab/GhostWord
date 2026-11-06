@@ -1,0 +1,72 @@
+[
+  {
+    "word": "The",
+    "start": 0.8419375,
+    "end": 0.922125
+  },
+  {
+    "word": "Bertrand",
+    "start": 1.0023125,
+    "end": 1.4835
+  },
+  {
+    "word": "paradox",
+    "start": 1.5235625,
+    "end": 2.02475
+  },
+  {
+    "word": "goes",
+    "start": 2.185125,
+    "end": 2.44575
+  },
+  {
+    "word": "as",
+    "start": 2.505875,
+    "end": 2.5860625
+  },
+  {
+    "word": "follows:",
+    "start": 2.706375,
+    "end": 3.247625
+  },
+  {
+    "word": "Consider",
+    "start": 3.7488125,
+    "end": 4.1698125
+  },
+  {
+    "word": "an",
+    "start": 4.2099375,
+    "end": 4.290125
+  },
+  {
+    "word": "equilateral",
+    "start": 4.3703125,
+    "end": 5.0118125
+  },
+  {
+    "word": "triangle",
+    "start": 5.092,
+    "end": 5.6333125
+  },
+  {
+    "word": "inscribed",
+    "start": 5.6533125,
+    "end": 6.2146875
+  },
+  {
+    "word": "in",
+    "start": 6.2346875,
+    "end": 6.294875
+  },
+  {
+    "word": "a",
+    "start": 6.355,
+    "end": 6.3750625
+  },
+  {
+    "word": "circle.",
+    "start": 6.515375,
+    "end": 6.9163125
+  }
+]

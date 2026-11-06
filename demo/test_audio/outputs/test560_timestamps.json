@@ -1,0 +1,62 @@
+[
+  {
+    "word": "This",
+    "start": 1.0015625,
+    "end": 1.1818125
+  },
+  {
+    "word": "practice",
+    "start": 1.2619375,
+    "end": 1.7426875
+  },
+  {
+    "word": "was",
+    "start": 1.8028125,
+    "end": 1.9630625
+  },
+  {
+    "word": "not,",
+    "start": 2.0431875,
+    "end": 2.2034375
+  },
+  {
+    "word": "however,",
+    "start": 2.3035625,
+    "end": 2.8244375
+  },
+  {
+    "word": "adopted",
+    "start": 3.04475,
+    "end": 3.4854375
+  },
+  {
+    "word": "by",
+    "start": 3.5655625,
+    "end": 3.68575
+  },
+  {
+    "word": "Zoroastrians",
+    "start": 3.765875,
+    "end": 4.64725
+  },
+  {
+    "word": "living",
+    "start": 4.7875,
+    "end": 5.088
+  },
+  {
+    "word": "in",
+    "start": 5.1480625,
+    "end": 5.2281875
+  },
+  {
+    "word": "Islamic",
+    "start": 5.3884375,
+    "end": 5.8491875
+  },
+  {
+    "word": "Persia.",
+    "start": 5.9293125,
+    "end": 6.309875
+  }
+]

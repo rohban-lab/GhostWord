@@ -1,0 +1,62 @@
+[
+  {
+    "word": "After",
+    "start": 0.7824375,
+    "end": 1.0231875
+  },
+  {
+    "word": "this",
+    "start": 1.0834375,
+    "end": 1.223875
+  },
+  {
+    "word": "episode",
+    "start": 1.304125,
+    "end": 2.026375
+  },
+  {
+    "word": "he",
+    "start": 2.026375,
+    "end": 2.12675
+  },
+  {
+    "word": "returned",
+    "start": 2.2270625,
+    "end": 2.6283125
+  },
+  {
+    "word": "to",
+    "start": 2.648375,
+    "end": 2.7486875
+  },
+  {
+    "word": "Romania",
+    "start": 2.8289375,
+    "end": 3.350625
+  },
+  {
+    "word": "becoming",
+    "start": 3.87225,
+    "end": 4.3136875
+  },
+  {
+    "word": "its",
+    "start": 4.3939375,
+    "end": 4.49425
+  },
+  {
+    "word": "national",
+    "start": 4.614625,
+    "end": 5.056
+  },
+  {
+    "word": "team",
+    "start": 5.1161875,
+    "end": 5.2566875
+  },
+  {
+    "word": "coach.",
+    "start": 5.357,
+    "end": 5.637875
+  }
+]

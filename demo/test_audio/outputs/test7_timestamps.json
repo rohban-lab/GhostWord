@@ -1,72 +1,72 @@
 [
   {
-    "word": "He",
-    "start": 0.3408125,
-    "end": 0.441
+    "word": "It",
+    "start": 1.100875,
+    "end": 1.221
   },
   {
-    "word": "was",
-    "start": 0.701625,
-    "end": 1.0625
+    "word": "takes",
+    "start": 1.3010625,
+    "end": 1.6413125
+  },
+  {
+    "word": "its",
+    "start": 1.701375,
+    "end": 1.8215
+  },
+  {
+    "word": "title",
+    "start": 1.8815,
+    "end": 2.301875
+  },
+  {
+    "word": "from",
+    "start": 2.3819375,
+    "end": 2.582125
   },
   {
     "word": "the",
-    "start": 1.36325,
-    "end": 1.4635
+    "start": 2.6421875,
+    "end": 2.72225
   },
   {
-    "word": "son",
-    "start": 1.56375,
-    "end": 1.7641875
+    "word": "poem",
+    "start": 2.8023125,
+    "end": 3.1425625
   },
   {
-    "word": "of",
-    "start": 1.8845,
-    "end": 2.0048125
+    "word": "\"The",
+    "start": 3.8831875,
+    "end": 3.98325
   },
   {
-    "word": "Benjamin",
-    "start": 2.105,
-    "end": 2.5861875
+    "word": "Second",
+    "start": 4.083375,
+    "end": 4.4636875
   },
   {
-    "word": "Blake",
-    "start": 2.7065,
-    "end": 3.1074375
+    "word": "Coming\",",
+    "start": 4.5036875,
+    "end": 4.864
   },
   {
-    "word": "and",
-    "start": 3.24775,
-    "end": 3.4081875
+    "word": "by",
+    "start": 5.76475,
+    "end": 5.944875
   },
   {
-    "word": "nephew",
-    "start": 3.5685625,
-    "end": 3.9895625
+    "word": "W.",
+    "start": 6.38525,
+    "end": 6.40525
   },
   {
-    "word": "of",
-    "start": 4.4506875,
-    "end": 4.5709375
+    "word": "B.",
+    "start": 7.085875,
+    "end": 7.105875
   },
   {
-    "word": "Lord",
-    "start": 4.7113125,
-    "end": 5.012
-  },
-  {
-    "word": "Proprietor,",
-    "start": 5.4931875,
-    "end": 6.4354375
-  },
-  {
-    "word": "John",
-    "start": 7.097,
-    "end": 7.457875
-  },
-  {
-    "word": "Archdale.",
-    "start": 8.23975,
-    "end": 8.84125
+    "word": "Yeats.",
+    "start": 7.8264375,
+    "end": 8.326875
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "The",
+    "start": 0.563125,
+    "end": 0.6435625
+  },
+  {
+    "word": "students",
+    "start": 0.68375,
+    "end": 1.1664375
+  },
+  {
+    "word": "then",
+    "start": 1.1664375,
+    "end": 1.287125
+  },
+  {
+    "word": "participate",
+    "start": 1.3273125,
+    "end": 1.8905
+  },
+  {
+    "word": "in",
+    "start": 2.03125,
+    "end": 2.1116875
+  },
+  {
+    "word": "simulations.",
+    "start": 2.453625,
+    "end": 3.0368125
+  }
+]

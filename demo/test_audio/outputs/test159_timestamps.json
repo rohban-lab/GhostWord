@@ -1,0 +1,62 @@
+[
+  {
+    "word": "A",
+    "start": 1.242875,
+    "end": 1.2629375
+  },
+  {
+    "word": "new",
+    "start": 1.3230625,
+    "end": 1.463375
+  },
+  {
+    "word": "project",
+    "start": 1.563625,
+    "end": 2.0246875
+  },
+  {
+    "word": "has",
+    "start": 2.06475,
+    "end": 2.205125
+  },
+  {
+    "word": "emerged",
+    "start": 2.26525,
+    "end": 2.866625
+  },
+  {
+    "word": "as",
+    "start": 3.067125,
+    "end": 3.2275
+  },
+  {
+    "word": "the",
+    "start": 3.34775,
+    "end": 3.448
+  },
+  {
+    "word": "unofficial",
+    "start": 3.5281875,
+    "end": 4.049375
+  },
+  {
+    "word": "successor",
+    "start": 4.0895,
+    "end": 4.7109375
+  },
+  {
+    "word": "of",
+    "start": 4.791125,
+    "end": 4.891375
+  },
+  {
+    "word": "Zebra:",
+    "start": 4.9915625,
+    "end": 5.3925
+  },
+  {
+    "word": "Quagga.",
+    "start": 5.6731875,
+    "end": 6.094125
+  }
+]

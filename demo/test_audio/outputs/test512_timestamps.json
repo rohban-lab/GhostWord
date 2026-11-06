@@ -1,0 +1,67 @@
+[
+  {
+    "word": "She",
+    "start": 0.90175,
+    "end": 1.0019375
+  },
+  {
+    "word": "won",
+    "start": 1.042,
+    "end": 1.16225
+  },
+  {
+    "word": "the",
+    "start": 1.222375,
+    "end": 1.2825
+  },
+  {
+    "word": "California",
+    "start": 1.362625,
+    "end": 1.723375
+  },
+  {
+    "word": "Young",
+    "start": 1.743375,
+    "end": 1.9036875
+  },
+  {
+    "word": "Reader",
+    "start": 1.983875,
+    "end": 2.2243125
+  },
+  {
+    "word": "Medal",
+    "start": 2.2644375,
+    "end": 2.4046875
+  },
+  {
+    "word": "of",
+    "start": 2.4046875,
+    "end": 2.44475
+  },
+  {
+    "word": "the",
+    "start": 2.4648125,
+    "end": 2.545
+  },
+  {
+    "word": "California",
+    "start": 2.5850625,
+    "end": 3.246375
+  },
+  {
+    "word": "Library",
+    "start": 3.246375,
+    "end": 3.587
+  },
+  {
+    "word": "Association",
+    "start": 3.6070625,
+    "end": 3.9276875
+  },
+  {
+    "word": "twice.",
+    "start": 3.96775,
+    "end": 4.068
+  }
+]

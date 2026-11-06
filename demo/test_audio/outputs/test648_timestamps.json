@@ -1,0 +1,27 @@
+[
+  {
+    "word": "This",
+    "start": 0.9244375,
+    "end": 1.1053125
+  },
+  {
+    "word": "application",
+    "start": 1.225875,
+    "end": 1.848875
+  },
+  {
+    "word": "did",
+    "start": 1.9091875,
+    "end": 2.07
+  },
+  {
+    "word": "not",
+    "start": 2.13025,
+    "end": 2.311125
+  },
+  {
+    "word": "succeed.",
+    "start": 2.3915,
+    "end": 2.8939375
+  }
+]

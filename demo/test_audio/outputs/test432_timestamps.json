@@ -1,0 +1,37 @@
+[
+  {
+    "word": "The",
+    "start": 1.2833125,
+    "end": 1.3635
+  },
+  {
+    "word": "mechanic",
+    "start": 1.4236875,
+    "end": 1.904875
+  },
+  {
+    "word": "inspected",
+    "start": 2.0051875,
+    "end": 2.60675
+  },
+  {
+    "word": "the",
+    "start": 2.60675,
+    "end": 2.6869375
+  },
+  {
+    "word": "car",
+    "start": 2.6869375,
+    "end": 2.947625
+  },
+  {
+    "word": "for",
+    "start": 3.00775,
+    "end": 3.18825
+  },
+  {
+    "word": "safety.",
+    "start": 3.248375,
+    "end": 3.629375
+  }
+]

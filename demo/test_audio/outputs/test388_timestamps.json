@@ -1,0 +1,52 @@
+[
+  {
+    "word": "She",
+    "start": 0.40125,
+    "end": 0.4815
+  },
+  {
+    "word": "also",
+    "start": 0.521625,
+    "end": 0.7824375
+  },
+  {
+    "word": "edited",
+    "start": 0.842625,
+    "end": 1.223875
+  },
+  {
+    "word": "an",
+    "start": 1.2439375,
+    "end": 1.3241875
+  },
+  {
+    "word": "original",
+    "start": 1.3643125,
+    "end": 1.9260625
+  },
+  {
+    "word": "science",
+    "start": 1.98625,
+    "end": 2.327375
+  },
+  {
+    "word": "fiction",
+    "start": 2.3875625,
+    "end": 2.8690625
+  },
+  {
+    "word": "anthology",
+    "start": 3.23025,
+    "end": 3.9525
+  },
+  {
+    "word": "series,",
+    "start": 4.153125,
+    "end": 4.534375
+  },
+  {
+    "word": "\"Stellar\".",
+    "start": 4.81525,
+    "end": 5.27675
+  }
+]

@@ -1,72 +1,52 @@
 [
   {
-    "word": "The",
-    "start": 1.10125,
-    "end": 1.2214375
+    "word": "He",
+    "start": 0.801,
+    "end": 0.9011875
   },
   {
-    "word": "external",
-    "start": 1.2614375,
-    "end": 1.742
+    "word": "was",
+    "start": 1.0013125,
+    "end": 1.3216875
   },
   {
-    "word": "source",
-    "start": 1.8621875,
-    "end": 2.262625
+    "word": "known",
+    "start": 1.72225,
+    "end": 1.9625625
   },
   {
-    "word": "can",
-    "start": 2.36275,
-    "end": 2.543
+    "word": "for",
+    "start": 2.022625,
+    "end": 2.182875
   },
   {
-    "word": "be",
-    "start": 2.6430625,
-    "end": 2.7231875
+    "word": "his",
+    "start": 2.2229375,
+    "end": 2.363125
   },
   {
-    "word": "a",
-    "start": 2.8433125,
-    "end": 2.863375
+    "word": "marksmanship",
+    "start": 2.5433125,
+    "end": 3.324375
   },
   {
-    "word": "spring,",
-    "start": 2.9635,
-    "end": 3.424
+    "word": "on",
+    "start": 3.6648125,
+    "end": 3.7449375
   },
   {
-    "word": "a",
-    "start": 3.5441875,
-    "end": 3.5641875
+    "word": "the",
+    "start": 3.785,
+    "end": 3.8650625
   },
   {
-    "word": "raised",
-    "start": 3.64425,
-    "end": 3.964625
+    "word": "western",
+    "start": 3.9251875,
+    "end": 4.3056875
   },
   {
-    "word": "weight,",
-    "start": 4.02475,
-    "end": 4.265
-  },
-  {
-    "word": "or",
-    "start": 4.44525,
-    "end": 4.5453125
-  },
-  {
-    "word": "a",
-    "start": 4.6054375,
-    "end": 4.6254375
-  },
-  {
-    "word": "compressed",
-    "start": 4.7255625,
-    "end": 5.2661875
-  },
-  {
-    "word": "gas.",
-    "start": 5.3863125,
-    "end": 5.7066875
+    "word": "slope.",
+    "start": 4.36575,
+    "end": 4.74625
   }
 ]

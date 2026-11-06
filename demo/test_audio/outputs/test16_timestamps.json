@@ -1,72 +1,72 @@
 [
   {
-    "word": "A",
-    "start": 0.923625,
-    "end": 0.94375
+    "word": "It",
+    "start": 1.501375,
+    "end": 1.5815
   },
   {
-    "word": "part",
-    "start": 1.044125,
-    "end": 1.32525
+    "word": "also",
+    "start": 1.8216875,
+    "end": 2.0619375
   },
   {
-    "word": "of",
-    "start": 1.4055625,
-    "end": 1.5260625
+    "word": "suggested",
+    "start": 2.162,
+    "end": 2.8626875
   },
   {
-    "word": "it",
-    "start": 1.6264375,
-    "end": 1.767
-  },
-  {
-    "word": "is",
-    "start": 1.8875,
-    "end": 2.0280625
-  },
-  {
-    "word": "a",
-    "start": 2.1284375,
-    "end": 2.1485625
-  },
-  {
-    "word": "standard",
-    "start": 2.228875,
-    "end": 2.7509375
-  },
-  {
-    "word": "speed",
-    "start": 2.8714375,
-    "end": 3.1926875
-  },
-  {
-    "word": "skating",
-    "start": 3.293125,
-    "end": 3.734875
-  },
-  {
-    "word": "rink,",
-    "start": 3.7549375,
-    "end": 3.9356875
-  },
-  {
-    "word": "connected",
-    "start": 4.0360625,
-    "end": 4.4778125
-  },
-  {
-    "word": "to",
-    "start": 4.5380625,
-    "end": 4.5983125
+    "word": "that",
+    "start": 2.90275,
+    "end": 3.042875
   },
   {
     "word": "the",
-    "start": 4.6585625,
-    "end": 4.738875
+    "start": 3.0829375,
+    "end": 3.163
   },
   {
-    "word": "rest.",
-    "start": 4.799125,
-    "end": 5.1404375
+    "word": "President",
+    "start": 3.203,
+    "end": 3.7435625
+  },
+  {
+    "word": "should",
+    "start": 3.823625,
+    "end": 4.0038125
+  },
+  {
+    "word": "have",
+    "start": 4.0238125,
+    "end": 4.1639375
+  },
+  {
+    "word": "direct",
+    "start": 4.204,
+    "end": 4.5243125
+  },
+  {
+    "word": "control",
+    "start": 4.5643125,
+    "end": 5.0848125
+  },
+  {
+    "word": "over",
+    "start": 5.245,
+    "end": 5.4451875
+  },
+  {
+    "word": "the",
+    "start": 5.4851875,
+    "end": 5.5853125
+  },
+  {
+    "word": "administrative",
+    "start": 5.645375,
+    "end": 6.8064375
+  },
+  {
+    "word": "departments.",
+    "start": 6.8465,
+    "end": 7.5671875
   }
 ]

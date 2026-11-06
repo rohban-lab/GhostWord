@@ -1,72 +1,37 @@
 [
   {
-    "word": "It",
-    "start": 1.501375,
-    "end": 1.5815
+    "word": "I'm",
+    "start": 1.3040625,
+    "end": 1.3843125
   },
   {
-    "word": "also",
-    "start": 1.8216875,
-    "end": 2.0619375
+    "word": "a",
+    "start": 1.6651875,
+    "end": 1.68525
   },
   {
-    "word": "suggested",
-    "start": 2.162,
-    "end": 2.8626875
+    "word": "defender",
+    "start": 1.8256875,
+    "end": 2.4075
   },
   {
-    "word": "that",
-    "start": 2.90275,
-    "end": 3.042875
-  },
-  {
-    "word": "the",
-    "start": 3.0829375,
-    "end": 3.163
-  },
-  {
-    "word": "President",
-    "start": 3.203,
-    "end": 3.7435625
-  },
-  {
-    "word": "should",
-    "start": 3.823625,
-    "end": 4.0038125
-  },
-  {
-    "word": "have",
-    "start": 4.0238125,
-    "end": 4.1639375
-  },
-  {
-    "word": "direct",
-    "start": 4.204,
-    "end": 4.5243125
-  },
-  {
-    "word": "control",
-    "start": 4.5643125,
-    "end": 5.0848125
-  },
-  {
-    "word": "over",
-    "start": 5.245,
-    "end": 5.4451875
+    "word": "for",
+    "start": 2.568,
+    "end": 2.8288125
   },
   {
     "word": "the",
-    "start": 5.4851875,
-    "end": 5.5853125
+    "start": 2.9491875,
+    "end": 3.0495
   },
   {
-    "word": "administrative",
-    "start": 5.645375,
-    "end": 6.8064375
+    "word": "football",
+    "start": 3.2701875,
+    "end": 3.8319375
   },
   {
-    "word": "departments.",
-    "start": 6.8465,
-    "end": 7.5671875
+    "word": "team.",
+    "start": 3.972375,
+    "end": 4.25325
   }
 ]

@@ -1,0 +1,57 @@
+[
+  {
+    "word": "Potato",
+    "start": 0.9208125,
+    "end": 1.3011875
+  },
+  {
+    "word": "crisps",
+    "start": 1.4213125,
+    "end": 1.741625
+  },
+  {
+    "word": "are",
+    "start": 1.9218125,
+    "end": 2.1019375
+  },
+  {
+    "word": "thinly",
+    "start": 2.162,
+    "end": 2.5023125
+  },
+  {
+    "word": "sliced",
+    "start": 2.6024375,
+    "end": 3.0028125
+  },
+  {
+    "word": "fried",
+    "start": 3.1229375,
+    "end": 3.4231875
+  },
+  {
+    "word": "potatoes,",
+    "start": 3.46325,
+    "end": 3.98375
+  },
+  {
+    "word": "eaten",
+    "start": 4.264,
+    "end": 4.50425
+  },
+  {
+    "word": "as",
+    "start": 4.7044375,
+    "end": 4.8645625
+  },
+  {
+    "word": "a",
+    "start": 4.944625,
+    "end": 4.9646875
+  },
+  {
+    "word": "snack",
+    "start": 5.0848125,
+    "end": 5.445125
+  }
+]

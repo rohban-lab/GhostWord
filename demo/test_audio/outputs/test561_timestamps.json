@@ -1,0 +1,52 @@
+[
+  {
+    "word": "A",
+    "start": 1.2615,
+    "end": 1.2815625
+  },
+  {
+    "word": "kid",
+    "start": 1.3816875,
+    "end": 1.561875
+  },
+  {
+    "word": "'s",
+    "start": 1.6019375,
+    "end": 1.642
+  },
+  {
+    "word": "face",
+    "start": 1.86225,
+    "end": 2.182625
+  },
+  {
+    "word": "painted",
+    "start": 2.3028125,
+    "end": 2.763375
+  },
+  {
+    "word": "orange",
+    "start": 2.8835,
+    "end": 3.404125
+  },
+  {
+    "word": "resembling",
+    "start": 3.824625,
+    "end": 4.405375
+  },
+  {
+    "word": "a",
+    "start": 4.4654375,
+    "end": 4.4854375
+  },
+  {
+    "word": "tiger",
+    "start": 4.605625,
+    "end": 4.9660625
+  },
+  {
+    "word": "identity.",
+    "start": 5.1863125,
+    "end": 5.747
+  }
+]

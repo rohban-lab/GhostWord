@@ -1,0 +1,67 @@
+[
+  {
+    "word": "Amenities",
+    "start": 0.240375,
+    "end": 0.9015625
+  },
+  {
+    "word": "at",
+    "start": 1.0618125,
+    "end": 1.182
+  },
+  {
+    "word": "the",
+    "start": 1.2621875,
+    "end": 1.3423125
+  },
+  {
+    "word": "park",
+    "start": 1.4625,
+    "end": 1.7830625
+  },
+  {
+    "word": "include",
+    "start": 1.8631875,
+    "end": 2.2839375
+  },
+  {
+    "word": "pay",
+    "start": 2.3640625,
+    "end": 2.544375
+  },
+  {
+    "word": "phones,",
+    "start": 2.6045,
+    "end": 2.985125
+  },
+  {
+    "word": "picnic",
+    "start": 3.105375,
+    "end": 3.466
+  },
+  {
+    "word": "tables,",
+    "start": 3.5661875,
+    "end": 4.0870625
+  },
+  {
+    "word": "restrooms",
+    "start": 4.18725,
+    "end": 4.8684375
+  },
+  {
+    "word": "and",
+    "start": 5.0286875,
+    "end": 5.1689375
+  },
+  {
+    "word": "outdoor",
+    "start": 5.32925,
+    "end": 5.709875
+  },
+  {
+    "word": "showers.",
+    "start": 5.8100625,
+    "end": 6.270875
+  }
+]

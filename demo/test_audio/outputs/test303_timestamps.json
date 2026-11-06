@@ -1,0 +1,67 @@
+[
+  {
+    "word": "The",
+    "start": 0.94225,
+    "end": 1.0424375
+  },
+  {
+    "word": "spotted",
+    "start": 1.122625,
+    "end": 1.58375
+  },
+  {
+    "word": "coat",
+    "start": 1.6639375,
+    "end": 1.9846875
+  },
+  {
+    "word": "is",
+    "start": 2.1250625,
+    "end": 2.20525
+  },
+  {
+    "word": "caused",
+    "start": 2.3055,
+    "end": 2.6663125
+  },
+  {
+    "word": "by",
+    "start": 2.7265,
+    "end": 2.84675
+  },
+  {
+    "word": "a",
+    "start": 2.9269375,
+    "end": 2.947
+  },
+  {
+    "word": "genetic",
+    "start": 3.0673125,
+    "end": 3.508375
+  },
+  {
+    "word": "mechanism",
+    "start": 3.5885625,
+    "end": 4.1098125
+  },
+  {
+    "word": "called",
+    "start": 4.250125,
+    "end": 4.51075
+  },
+  {
+    "word": "the",
+    "start": 4.51075,
+    "end": 4.570875
+  },
+  {
+    "word": "Leopard",
+    "start": 4.6310625,
+    "end": 5.0720625
+  },
+  {
+    "word": "complex.",
+    "start": 5.15225,
+    "end": 5.6334375
+  }
+]

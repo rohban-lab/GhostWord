@@ -1,0 +1,62 @@
+[
+  {
+    "word": "A",
+    "start": 0.281125,
+    "end": 0.30125
+  },
+  {
+    "word": "number",
+    "start": 0.3615,
+    "end": 0.6225625
+  },
+  {
+    "word": "of",
+    "start": 0.66275,
+    "end": 0.7430625
+  },
+  {
+    "word": "San",
+    "start": 0.823375,
+    "end": 0.9840625
+  },
+  {
+    "word": "Francisco",
+    "start": 1.0443125,
+    "end": 1.606625
+  },
+  {
+    "word": "professional",
+    "start": 1.666875,
+    "end": 2.148875
+  },
+  {
+    "word": "athletes",
+    "start": 2.209125,
+    "end": 2.71125
+  },
+  {
+    "word": "have",
+    "start": 2.811625,
+    "end": 3.0125
+  },
+  {
+    "word": "called",
+    "start": 3.07275,
+    "end": 3.353875
+  },
+  {
+    "word": "Foster",
+    "start": 3.3940625,
+    "end": 3.7555625
+  },
+  {
+    "word": "City",
+    "start": 3.8158125,
+    "end": 4.016625
+  },
+  {
+    "word": "home.",
+    "start": 4.137125,
+    "end": 4.4785625
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "True",
+    "start": 1.2625,
+    "end": 1.563125
+  },
+  {
+    "word": "sea",
+    "start": 1.9238125,
+    "end": 2.14425
+  },
+  {
+    "word": "slugs",
+    "start": 2.2645,
+    "end": 2.7655
+  },
+  {
+    "word": "have",
+    "start": 2.8456875,
+    "end": 3.0861875
+  },
+  {
+    "word": "enormous",
+    "start": 3.186375,
+    "end": 3.7675625
+  },
+  {
+    "word": "variation",
+    "start": 3.8476875,
+    "end": 4.428875
+  },
+  {
+    "word": "in",
+    "start": 4.5891875,
+    "end": 4.669375
+  },
+  {
+    "word": "body",
+    "start": 4.789625,
+    "end": 5.0100625
+  },
+  {
+    "word": "shape,",
+    "start": 5.11025,
+    "end": 5.35075
+  },
+  {
+    "word": "color,",
+    "start": 5.8116875,
+    "end": 6.11225
+  },
+  {
+    "word": "and",
+    "start": 6.2325,
+    "end": 6.3728125
+  },
+  {
+    "word": "size.",
+    "start": 6.493,
+    "end": 6.9339375
+  }
+]

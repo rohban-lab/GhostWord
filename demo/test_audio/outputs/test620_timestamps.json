@@ -1,0 +1,47 @@
+[
+  {
+    "word": "He",
+    "start": 0.6426875,
+    "end": 0.7029375
+  },
+  {
+    "word": "is",
+    "start": 0.78325,
+    "end": 0.8435
+  },
+  {
+    "word": "the",
+    "start": 0.90375,
+    "end": 0.964
+  },
+  {
+    "word": "head",
+    "start": 1.0041875,
+    "end": 1.14475
+  },
+  {
+    "word": "baseball",
+    "start": 1.205,
+    "end": 1.526375
+  },
+  {
+    "word": "coach",
+    "start": 1.5665625,
+    "end": 1.8075625
+  },
+  {
+    "word": "at",
+    "start": 1.8476875,
+    "end": 1.9280625
+  },
+  {
+    "word": "Bryant",
+    "start": 1.96825,
+    "end": 2.2695
+  },
+  {
+    "word": "University.",
+    "start": 2.32975,
+    "end": 2.7916875
+  }
+]

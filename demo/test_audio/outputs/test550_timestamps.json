@@ -1,0 +1,52 @@
+[
+  {
+    "word": "The",
+    "start": 0.7831875,
+    "end": 0.8635
+  },
+  {
+    "word": "label",
+    "start": 0.92375,
+    "end": 1.184875
+  },
+  {
+    "word": "has",
+    "start": 1.2450625,
+    "end": 1.3655625
+  },
+  {
+    "word": "a",
+    "start": 1.40575,
+    "end": 1.4258125
+  },
+  {
+    "word": "special",
+    "start": 1.5061875,
+    "end": 1.9078125
+  },
+  {
+    "word": "relation",
+    "start": 1.9680625,
+    "end": 2.43
+  },
+  {
+    "word": "towards",
+    "start": 2.4901875,
+    "end": 2.771375
+  },
+  {
+    "word": "film",
+    "start": 2.8516875,
+    "end": 3.132875
+  },
+  {
+    "word": "and",
+    "start": 3.193125,
+    "end": 3.2734375
+  },
+  {
+    "word": "directors.",
+    "start": 3.2935,
+    "end": 3.8558125
+  }
+]

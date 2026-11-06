@@ -1,0 +1,47 @@
+[
+  {
+    "word": "The",
+    "start": 1.4636875,
+    "end": 1.5639375
+  },
+  {
+    "word": "eggs",
+    "start": 1.7243125,
+    "end": 2.0250625
+  },
+  {
+    "word": "float",
+    "start": 2.245625,
+    "end": 2.5865
+  },
+  {
+    "word": "freely",
+    "start": 2.787,
+    "end": 3.2080625
+  },
+  {
+    "word": "with",
+    "start": 3.328375,
+    "end": 3.46875
+  },
+  {
+    "word": "the",
+    "start": 3.5088125,
+    "end": 3.5890625
+  },
+  {
+    "word": "currents",
+    "start": 3.66925,
+    "end": 4.1705
+  },
+  {
+    "word": "until",
+    "start": 4.310875,
+    "end": 4.5715
+  },
+  {
+    "word": "hatching.",
+    "start": 4.6316875,
+    "end": 4.9925625
+  }
+]

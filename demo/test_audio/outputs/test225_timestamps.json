@@ -1,0 +1,72 @@
+[
+  {
+    "word": "A",
+    "start": 1.5640625,
+    "end": 1.584125
+  },
+  {
+    "word": "woman",
+    "start": 1.684375,
+    "end": 2.00525
+  },
+  {
+    "word": "wearing",
+    "start": 2.0854375,
+    "end": 2.5065625
+  },
+  {
+    "word": "a",
+    "start": 2.727125,
+    "end": 2.7471875
+  },
+  {
+    "word": "headscarf",
+    "start": 2.927625,
+    "end": 3.72975
+  },
+  {
+    "word": "is",
+    "start": 3.72975,
+    "end": 3.7899375
+  },
+  {
+    "word": "walking",
+    "start": 3.870125,
+    "end": 4.191
+  },
+  {
+    "word": "down",
+    "start": 4.2310625,
+    "end": 4.5118125
+  },
+  {
+    "word": "the",
+    "start": 4.7123125,
+    "end": 4.832625
+  },
+  {
+    "word": "street",
+    "start": 4.953,
+    "end": 5.354
+  },
+  {
+    "word": "towards",
+    "start": 5.975625,
+    "end": 6.39675
+  },
+  {
+    "word": "a",
+    "start": 6.637375,
+    "end": 6.6574375
+  },
+  {
+    "word": "driveway",
+    "start": 6.8980625,
+    "end": 7.479625
+  },
+  {
+    "word": "entrance",
+    "start": 7.8004375,
+    "end": 8.402
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "word": "The",
+    "start": 1.043875,
+    "end": 1.1241875
+  },
+  {
+    "word": "closer",
+    "start": 1.1844375,
+    "end": 1.606
+  },
+  {
+    "word": "he",
+    "start": 1.66625,
+    "end": 1.7465625
+  },
+  {
+    "word": "got",
+    "start": 1.8870625,
+    "end": 2.0878125
+  },
+  {
+    "word": "to",
+    "start": 2.1480625,
+    "end": 2.20825
+  },
+  {
+    "word": "the",
+    "start": 2.2484375,
+    "end": 2.32875
+  },
+  {
+    "word": "realization",
+    "start": 2.368875,
+    "end": 3.0915625
+  },
+  {
+    "word": "of",
+    "start": 3.192,
+    "end": 3.27225
+  },
+  {
+    "word": "his",
+    "start": 3.3124375,
+    "end": 3.4529375
+  },
+  {
+    "word": "dream,",
+    "start": 3.5131875,
+    "end": 3.8143125
+  },
+  {
+    "word": "the",
+    "start": 4.2158125,
+    "end": 4.2760625
+  },
+  {
+    "word": "more",
+    "start": 4.3161875,
+    "end": 4.4768125
+  },
+  {
+    "word": "difficult",
+    "start": 4.5169375,
+    "end": 4.958625
+  },
+  {
+    "word": "things",
+    "start": 4.99875,
+    "end": 5.25975
+  },
+  {
+    "word": "became.",
+    "start": 5.32,
+    "end": 5.701375
+  }
+]

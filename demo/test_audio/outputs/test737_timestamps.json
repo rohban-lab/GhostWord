@@ -1,0 +1,42 @@
+[
+  {
+    "word": "There",
+    "start": 0.3406875,
+    "end": 0.661375
+  },
+  {
+    "word": "he",
+    "start": 0.9019375,
+    "end": 1.0221875
+  },
+  {
+    "word": "attended",
+    "start": 1.2025625,
+    "end": 1.76375
+  },
+  {
+    "word": "his",
+    "start": 1.864,
+    "end": 2.0644375
+  },
+  {
+    "word": "primary",
+    "start": 2.1245625,
+    "end": 2.625625
+  },
+  {
+    "word": "and",
+    "start": 2.7659375,
+    "end": 2.866125
+  },
+  {
+    "word": "secondary",
+    "start": 2.9463125,
+    "end": 3.4474375
+  },
+  {
+    "word": "studies.",
+    "start": 3.5075625,
+    "end": 4.1088125
+  }
+]

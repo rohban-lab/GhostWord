@@ -1,0 +1,47 @@
+[
+  {
+    "word": "The",
+    "start": 0.802,
+    "end": 0.90225
+  },
+  {
+    "word": "other",
+    "start": 0.9824375,
+    "end": 1.162875
+  },
+  {
+    "word": "sentence",
+    "start": 1.243125,
+    "end": 1.744375
+  },
+  {
+    "word": "is",
+    "start": 1.7845,
+    "end": 1.90475
+  },
+  {
+    "word": "over",
+    "start": 1.985,
+    "end": 2.1855
+  },
+  {
+    "word": "there,",
+    "start": 2.245625,
+    "end": 2.5664375
+  },
+  {
+    "word": "above",
+    "start": 2.7669375,
+    "end": 3.0676875
+  },
+  {
+    "word": "the",
+    "start": 3.0676875,
+    "end": 3.168
+  },
+  {
+    "word": "picture.",
+    "start": 3.228125,
+    "end": 3.729375
+  }
+]

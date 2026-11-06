@@ -1,0 +1,62 @@
+[
+  {
+    "word": "The",
+    "start": 1.3845,
+    "end": 1.4848125
+  },
+  {
+    "word": "official",
+    "start": 1.5249375,
+    "end": 1.9061875
+  },
+  {
+    "word": "replied",
+    "start": 1.9864375,
+    "end": 2.5483125
+  },
+  {
+    "word": "that",
+    "start": 2.568375,
+    "end": 2.68875
+  },
+  {
+    "word": "it",
+    "start": 2.728875,
+    "end": 2.769
+  },
+  {
+    "word": "was",
+    "start": 2.809125,
+    "end": 2.9095
+  },
+  {
+    "word": "strictly",
+    "start": 2.949625,
+    "end": 3.371
+  },
+  {
+    "word": "forbidden",
+    "start": 3.4311875,
+    "end": 3.91275
+  },
+  {
+    "word": "to",
+    "start": 4.033125,
+    "end": 4.1134375
+  },
+  {
+    "word": "open",
+    "start": 4.21375,
+    "end": 4.4745625
+  },
+  {
+    "word": "the",
+    "start": 4.51475,
+    "end": 4.595
+  },
+  {
+    "word": "bundle.",
+    "start": 4.6150625,
+    "end": 4.9963125
+  }
+]

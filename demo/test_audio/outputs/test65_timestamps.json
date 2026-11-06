@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Yarmouk",
+    "start": 0.3204375,
+    "end": 0.9414375
+  },
+  {
+    "word": "University",
+    "start": 1.061625,
+    "end": 1.6425
+  },
+  {
+    "word": "has",
+    "start": 1.702625,
+    "end": 1.862875
+  },
+  {
+    "word": "a",
+    "start": 1.9029375,
+    "end": 1.9229375
+  },
+  {
+    "word": "newspaper",
+    "start": 1.963,
+    "end": 2.523875
+  },
+  {
+    "word": "that",
+    "start": 2.5439375,
+    "end": 2.684125
+  },
+  {
+    "word": "published",
+    "start": 2.74425,
+    "end": 3.2850625
+  },
+  {
+    "word": "periodically.",
+    "start": 3.5655,
+    "end": 4.2465625
+  }
+]

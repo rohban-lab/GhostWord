@@ -1,0 +1,67 @@
+[
+  {
+    "word": "German",
+    "start": 0.9421875,
+    "end": 1.3030625
+  },
+  {
+    "word": "philosopher",
+    "start": 1.3631875,
+    "end": 1.9846875
+  },
+  {
+    "word": "Immanuel",
+    "start": 2.2051875,
+    "end": 2.806625
+  },
+  {
+    "word": "Kant",
+    "start": 2.967,
+    "end": 3.388
+  },
+  {
+    "word": "devised",
+    "start": 3.4280625,
+    "end": 3.869125
+  },
+  {
+    "word": "an",
+    "start": 3.969375,
+    "end": 4.0695625
+  },
+  {
+    "word": "argument",
+    "start": 4.2700625,
+    "end": 4.6910625
+  },
+  {
+    "word": "from",
+    "start": 4.8715,
+    "end": 5.0719375
+  },
+  {
+    "word": "morality",
+    "start": 5.2323125,
+    "end": 5.8136875
+  },
+  {
+    "word": "based",
+    "start": 5.9540625,
+    "end": 6.2748125
+  },
+  {
+    "word": "on",
+    "start": 6.515375,
+    "end": 6.6556875
+  },
+  {
+    "word": "practical",
+    "start": 6.8160625,
+    "end": 7.618
+  },
+  {
+    "word": "reason.",
+    "start": 7.73825,
+    "end": 8.0790625
+  }
+]

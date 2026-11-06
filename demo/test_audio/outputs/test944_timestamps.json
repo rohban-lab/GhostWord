@@ -1,0 +1,52 @@
+[
+  {
+    "word": "Three",
+    "start": 1.083375,
+    "end": 1.36425
+  },
+  {
+    "word": "days",
+    "start": 1.4445,
+    "end": 1.68525
+  },
+  {
+    "word": "later",
+    "start": 1.7655625,
+    "end": 2.0464375
+  },
+  {
+    "word": "he",
+    "start": 2.227,
+    "end": 2.30725
+  },
+  {
+    "word": "won",
+    "start": 2.427625,
+    "end": 2.588125
+  },
+  {
+    "word": "the",
+    "start": 2.62825,
+    "end": 2.7085
+  },
+  {
+    "word": "Omaha",
+    "start": 2.8088125,
+    "end": 3.1298125
+  },
+  {
+    "word": "High",
+    "start": 3.230125,
+    "end": 3.450875
+  },
+  {
+    "word": "Low",
+    "start": 3.491,
+    "end": 3.6515
+  },
+  {
+    "word": "event.",
+    "start": 3.812,
+    "end": 4.133
+  }
+]

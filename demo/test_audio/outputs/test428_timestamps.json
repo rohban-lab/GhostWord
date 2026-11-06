@@ -1,0 +1,52 @@
+[
+  {
+    "word": "The",
+    "start": 1.023625,
+    "end": 1.124
+  },
+  {
+    "word": "headquarters",
+    "start": 1.20425,
+    "end": 2.0673125
+  },
+  {
+    "word": "of",
+    "start": 2.288125,
+    "end": 2.428625
+  },
+  {
+    "word": "the",
+    "start": 2.4888125,
+    "end": 2.5891875
+  },
+  {
+    "word": "Communist",
+    "start": 2.649375,
+    "end": 3.2916875
+  },
+  {
+    "word": "League",
+    "start": 3.45225,
+    "end": 3.8135625
+  },
+  {
+    "word": "also",
+    "start": 4.29525,
+    "end": 4.616375
+  },
+  {
+    "word": "moved",
+    "start": 4.7970625,
+    "end": 5.098125
+  },
+  {
+    "word": "to",
+    "start": 5.1583125,
+    "end": 5.238625
+  },
+  {
+    "word": "London.",
+    "start": 5.318875,
+    "end": 5.7805625
+  }
+]

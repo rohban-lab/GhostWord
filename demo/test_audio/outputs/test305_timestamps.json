@@ -1,0 +1,62 @@
+[
+  {
+    "word": "They",
+    "start": 1.020875,
+    "end": 1.141
+  },
+  {
+    "word": "had",
+    "start": 1.201,
+    "end": 1.3611875
+  },
+  {
+    "word": "the",
+    "start": 1.4011875,
+    "end": 1.46125
+  },
+  {
+    "word": "following",
+    "start": 1.5213125,
+    "end": 1.9816875
+  },
+  {
+    "word": "children:",
+    "start": 2.04175,
+    "end": 2.422125
+  },
+  {
+    "word": "Edward",
+    "start": 3.0626875,
+    "end": 3.3629375
+  },
+  {
+    "word": "Pierce,",
+    "start": 3.443,
+    "end": 3.863375
+  },
+  {
+    "word": "Arthur",
+    "start": 4.5039375,
+    "end": 4.88425
+  },
+  {
+    "word": "Dean,",
+    "start": 4.984375,
+    "end": 5.2245625
+  },
+  {
+    "word": "and",
+    "start": 5.584875,
+    "end": 5.705
+  },
+  {
+    "word": "Elisabeth",
+    "start": 5.8050625,
+    "end": 6.3655625
+  },
+  {
+    "word": "Louise.",
+    "start": 6.465625,
+    "end": 6.986125
+  }
+]

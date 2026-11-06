@@ -1,0 +1,37 @@
+[
+  {
+    "word": "An",
+    "start": 0.56225,
+    "end": 0.6425625
+  },
+  {
+    "word": "American",
+    "start": 0.68275,
+    "end": 1.30525
+  },
+  {
+    "word": "male",
+    "start": 1.42575,
+    "end": 1.7470625
+  },
+  {
+    "word": "wrestler",
+    "start": 1.78725,
+    "end": 2.309375
+  },
+  {
+    "word": "pining",
+    "start": 2.5704375,
+    "end": 2.871625
+  },
+  {
+    "word": "his",
+    "start": 2.9118125,
+    "end": 3.0323125
+  },
+  {
+    "word": "opponent.",
+    "start": 3.0925625,
+    "end": 3.5745
+  }
+]

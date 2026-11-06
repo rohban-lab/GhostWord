@@ -1,0 +1,67 @@
+[
+  {
+    "word": "The",
+    "start": 0.7015,
+    "end": 0.80175
+  },
+  {
+    "word": "pulmonal",
+    "start": 0.9019375,
+    "end": 1.72375
+  },
+  {
+    "word": "artery",
+    "start": 1.94425,
+    "end": 2.4053125
+  },
+  {
+    "word": "is",
+    "start": 2.60575,
+    "end": 2.6859375
+  },
+  {
+    "word": "shifted",
+    "start": 2.7660625,
+    "end": 3.187
+  },
+  {
+    "word": "with",
+    "start": 3.227125,
+    "end": 3.3874375
+  },
+  {
+    "word": "help",
+    "start": 3.4275625,
+    "end": 3.688125
+  },
+  {
+    "word": "of",
+    "start": 3.7683125,
+    "end": 3.8485
+  },
+  {
+    "word": "conduit",
+    "start": 3.9486875,
+    "end": 4.55
+  },
+  {
+    "word": "to",
+    "start": 5.0711875,
+    "end": 5.1914375
+  },
+  {
+    "word": "the",
+    "start": 5.2515625,
+    "end": 5.33175
+  },
+  {
+    "word": "right",
+    "start": 5.432,
+    "end": 5.7526875
+  },
+  {
+    "word": "ventricle.",
+    "start": 5.893,
+    "end": 6.5945625
+  }
+]
