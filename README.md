@@ -1,12 +1,13 @@
 # GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition
 
-**Mojtaba Nafez\*, Mobina Poulaei\*, Kiarash Kiani Feriz, Aref Mousavi, Mohammad Ebrahim Mahdavi, Mohammad Mosayebi, Mohammad Hossein Rohban**
+**Authors:** Mojtaba Nafez*, Mobina Poulaei*, Kiarash Kiani Feriz, Aref Mousavi, Mohammad Ebrahim Mahdavi, Mohammad Mosayebi, Mohammad Hossein Rohban
 
-**Transactions on Machine Learning Research (TMLR), 2026**
+**Accepted at Transactions on Machine Learning Research (TMLR), 2026**
 
-📄 **[Paper (OpenReview)](https://openreview.net/forum?id=vngoPfQCJf)** | **[arXiv](https://arxiv.org/abs/2609.04260)**
+[![TMLR](https://img.shields.io/badge/TMLR-Paper-blue)](https://openreview.net/forum?id=vngoPfQCJf)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv)](https://arxiv.org/abs/2609.04260)
 
-The repository provides the implementation of our proposed fine-grained, word-level backdoor attack, along with several backdoor defense methods and evaluation pipelines for multiple state-of-the-art Automatic Speech Recognition (ASR) models.
+This repository contains the official implementation of **GhostWord**, a fine-grained backdoor attack on Automatic Speech Recognition (ASR) systems, along with implementations of several backdoor defense mechanisms across multiple state-of-the-art ASR models.
 
 ## 🚀 Colab Demo
 
