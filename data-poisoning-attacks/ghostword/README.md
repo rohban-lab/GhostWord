@@ -45,7 +45,8 @@ Example `codebook.json`:
 {
   "fuck": "noises/fuck.wav",
   "bastard": "noises/bastard.wav",
-  "jerk": "noises/jerk.wav"
+  "jerk": "noises/jerk.wav",
+  "shit": "noises/shit.wav"
 }
 ```
 
